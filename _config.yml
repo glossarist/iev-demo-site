@@ -134,6 +134,7 @@ defaults:
       permalink: /api/concepts/:name.ttl
 
 geolexica:
+  concepts_glob: "./iev-data/concepts/concept-*.yaml"
   term_languages:
     - eng
     - ara
