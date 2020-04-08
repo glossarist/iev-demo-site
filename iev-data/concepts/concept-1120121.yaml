@@ -1,0 +1,151 @@
+---
+termid: 1120121
+term: system of units
+ara:
+  id: 1120121
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: وحدات النظام
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120121
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Einheitensystem
+    gender: n
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120121
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: system of units
+  definition: set of base units and derived units, together with their multiples and
+    submultiples, defined in accordance with given rules, for a given system of quantities
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO/IEC GUIDE 99:2007
+    clause: '1.13'
+    link: https://www.iso.org/standard/45324.html
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120121
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: système d'unités
+    gender: m
+    plurality: singular
+  definition: ensemble d'unités de base et d'unités dérivées, de leurs multiples et
+    sous-multiples, définis conformément à des règles données, pour un système de
+    grandeurs donné
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO/IEC GUIDE 99:2007
+    clause: '1.13'
+    link: https://www.iso.org/standard/45324.html
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120121
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 単位系
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120121
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 단위계
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120121
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: układ jednostek
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120121
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: sistema de unidades
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120121
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 单位制
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

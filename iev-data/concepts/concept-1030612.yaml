@@ -1,0 +1,129 @@
+---
+termid: 1030612
+term: RMS-ripple factor
+ara:
+  id: 1030612
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: القيمة الفعالة لمعامل التموج
+  - type: expression
+    designation: المحتوى النموذجى النسبى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030612
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: RMS-ripple factor
+  - type: expression
+    normativeStatus: preferred
+    designation: relative ripple content
+  - type: symbol
+    designation: "$$r$$"
+    international: true
+  definition: ratio of the RMS value of the alternating component of a {{pulsating,
+    IEV:103-06-07}} quantity to the absolute value of the direct component
+  language_code: eng
+  notes:
+  - '1 to entry: For a pulsating quantity $$x$$ with direct component $$bar X$$ and
+    alternating component $$x_( ∼ )$$, the RMS-ripple factor is $$r = (( X_( ∼ ) ()_((
+    eff)) ))/(( | bar X |))$$.'
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2017-07-01T00:00:00+00:00'
+  date_amended: '2017-07-01T00:00:00+00:00'
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 103-06-12:2009-12
+fre:
+  id: 1030612
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: taux d'ondulation efficace
+    gender: m
+    plurality: singular
+  definition: rapport de la valeur efficace de la composante alternative d'une grandeur
+    {{ondulée, IEV:103-06-07}} à la valeur absolue de la composante continue
+  language_code: fre
+  notes:
+  - '1 à l''article: Pour une grandeur ondulée $$x$$ de composante continue $$bar
+    X$$ et de composante alternative $$x_( ∼ )$$, le taux d''ondulation efficace est
+    $$r = (( X_( ∼ ) ()_(( eff)) ))/(( | bar X |))$$.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030612
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 実効値脈動率
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1030612
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: rms 맥동률
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030612
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: współczynnik pulsacji wartości skutecznej
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: współczynnik tętnienia wartości skutecznej
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1030612
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fator de ondulação eficaz
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1030612
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 方均根纹波因数
+  - type: expression
+    designation: 相对纹波含量
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

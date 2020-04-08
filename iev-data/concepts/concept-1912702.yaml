@@ -1,0 +1,16 @@
+---
+termid: 1912702
+term: 소비자 평균 중단 빈도 지수
+kor:
+  id: 1912702
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 소비자 평균 중단 빈도 지수
+  - type: expression
+    designation: 소비자 평균 정전 빈도 지수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

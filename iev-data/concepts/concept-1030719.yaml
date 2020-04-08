@@ -1,0 +1,152 @@
+---
+termid: 1030719
+term: fundamental component
+ara:
+  id: 1030719
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: المركبة الاساسية
+  - type: expression
+    designation: اساسى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030719
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Grundschwingung
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030719
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fundamental component
+  - type: expression
+    designation: fundamental
+  definition: sinusoidal component of the Fourier series of a periodic quantity having
+    the frequency of the quantity itself
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030719
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fondamental
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: composante fondamentale
+    gender: f
+    plurality: singular
+  definition: composante sinusoïdale de la décomposition en série de Fourier d’une
+    grandeur périodique dont la fréquence est la fréquence de la grandeur elle-même
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030719
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 基本振動
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030719
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 기본 성분
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030719
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: składowa podstawowa
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030719
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: componente fundamental
+  - type: expression
+    designation: fundamental
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030719
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 基波分量
+  - type: expression
+    normativeStatus: preferred
+    designation: 基波
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

@@ -1,0 +1,156 @@
+---
+termid: 1120218
+term: atto
+ara:
+  id: 1120218
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: اتو
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120218
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: Atto…
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120218
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: atto
+  - type: symbol
+    designation: a
+    international: true
+  definition: SI prefix used to form the submultiple 10<sup>-18</sup> of a unit of
+    measurement
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120218
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: atto
+  definition: préfixe SI utilisé pour former le sous-multiple 10<sup>-18</sup> d’une
+    unité de mesure
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120218
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: アト
+  - type: expression
+    normativeStatus: preferred
+    designation: 10<sup>-18</sup>
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120218
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: 아토
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120218
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: atto (przedrostek)
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120218
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ato (prefixo)
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120218
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: 阿托
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: 阿
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

@@ -1,0 +1,138 @@
+---
+termid: 1920805
+term: mean availability
+ara:
+  id: 1920805
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: متوسط الإتاحية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920805
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: mittlere Verfügbarkeit
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920805
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: mean availability
+  - type: expression
+    normativeStatus: preferred
+    designation: average availability
+  - type: symbol
+    designation: "$$bar A ( t_1 ,   t_2 )$$"
+    international: true
+  definition: average value of the instantaneous availability over a given time interval
+    ($$t$$<sub>1</sub>, $$t$$<sub>2</sub>)
+  language_code: eng
+  notes:
+  - |-
+    The mean availability is related to the instantaneous availability $$A$$($$t$$) as:
+
+    $$bar A ( t_1 ,   t_2 ) = (1)/(( t_2 - t_1 )) ∫_(   t_1 )^(   t_2 ) A ( t )   d t$$
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920805
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: disponibilité moyenne
+    gender: f
+    plurality: singular
+  - type: symbol
+    designation: "<img/>192-08-051.gif&gt;"
+    international: true
+  definition: moyenne de la disponibilité instantanée sur un intervalle de temps donné
+    ($$t$$<sub>1</sub>, $$t$$<sub>2</sub>)
+  language_code: fre
+  notes:
+  - |-
+    1 à l’article: La disponibilité moyenne est liée à la disponibilité instantanée $$A$$($$t$$) par la formule:
+
+    $$bar A ( t_1 ,   t_2 ) = (1)/(( t_2 - t_1 )) ∫_(   t_1 )^(   t_2 ) A ( t )   d t$$
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920805
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 平均アベイラビリティ
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920805
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 평균 가용도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920805
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: gotowość średnia
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: dyspozycyjność średnia
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920805
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: disponibilidade média
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920805
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 平均可用度
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

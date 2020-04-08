@@ -1,0 +1,153 @@
+---
+termid: 1921308
+term: "$$p$$-fractile"
+ara:
+  id: 1921308
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: توزيع إحتمالى كسرى
+  - type: expression
+    designation: توزيع إحتمالى كمى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1921308
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: "&lt"
+    designation: "$$p$$-Quantil"
+    gender: n
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1921308
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: of a probability distribution;
+    designation: "$$p$$-fractile"
+  - type: expression
+    usageInfo: of a probability distribution;
+    designation: "$$p$$-quantile"
+  definition: for a number $$p$$ between 0 and 1, value of a random variable for which
+    the distribution function equals $$p$$ or jumps from a value less than or equal
+    to $$p$$ to a value greater than $$p$$
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: 'IEC 60050-103: 2009'
+    clause: 103-08-14
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1921308
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: d’une loi de probabilité
+    designation: fractile d’ordre $$p$$
+    gender: m
+    plurality: singular
+  - type: expression
+    usageInfo: d’une loi de probabilité
+    designation: quantile d’ordre $$p$$
+    gender: m
+    plurality: singular
+  definition: pour un nombre $$p$$ compris entre 0 et 1, valeur d'une variable aléatoire
+    pour laquelle la fonction de répartition prend une valeur $$p$$ ou saute d'une
+    valeur inférieure ou égale à $$p$$ à une valeur supérieure à $$p$$
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: 'IEC 60050-103: 2009'
+    clause: 103-08-14
+  review_decision_event: published
+jpn:
+  id: 1921308
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 確率分布の;
+    designation: p-分位点
+  - type: expression
+    usageInfo: 確率分布の;
+    designation: p-分位数
+  - type: expression
+    usageInfo: 確率分布の;
+    designation: p-分点
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1921308
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 확률분포;
+    designation: "$$p$$ 분위값"
+  - type: expression
+    designation: "$$p$$ 변위값"
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1921308
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: rozkładu prawdopodobieństwa
+    designation: kwantyl rzędu p
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1921308
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: de uma distribuição de probabilidade;
+    designation: quantil de ordem p de …
+  - type: expression
+    usageInfo: de uma distribuição de probabilidade;
+    designation: quantil-p de…
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1921308
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 概率分布的;
+    designation: p分位值
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

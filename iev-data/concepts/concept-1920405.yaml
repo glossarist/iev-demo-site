@@ -1,0 +1,148 @@
+---
+termid: 1920405
+term: transient fault
+ara:
+  id: 1920405
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: لبند;
+    designation: خطأ لحظى،
+  - type: expression
+    designation: 'سابقاً: عطل عابر'
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920405
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: einer Einheit
+    designation: vorübergehender Fehlzustand
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920405
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: of an item;
+    designation: transient fault
+  - type: expression
+    normativeStatus: deprecated
+    designation: volatile fault
+  definition: fault that disappears without intervention
+  language_code: eng
+  notes:
+  - The disappearance may be due to self-recovery.
+  - '2 to entry: In IEC 60050-191:1990 (now withdrawn; replaced by IEC 60050-192:2015),
+    this concept was termed "intermittent fault", with "volatile fault" and "transient
+    fault" as synonyms, but not all transient faults are intermittent faults ({{192-04-06,
+    IEV:192-04-06}}).'
+  - '3 to entry: IEC 60050-191:1990 (now withdrawn; replaced by IEC 60050-192:2015)
+    identified “volatile fault” as a synonym, which is deprecated as it is not true
+    in all applications.'
+  examples: []
+  entry_status: Standard
+  classification: Deprecated
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920405
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: d’une entité
+    designation: panne temporaire
+    gender: f
+    plurality: singular
+  definition: panne qui disparaît sans intervention
+  language_code: fre
+  notes:
+  - '1 à l’article: La disparition peut être le résultat d’un rétablissement automatique.'
+  - '2 à l’article: Dans l’IEC 60050-191:1990 (supprimée; remplacée par l''IEC 60050-192:2015),
+    ce concept était désigné comme «panne intermittente», avec «panne temporaire»
+    comme synonyme, mais toutes les pannes temporaires ne sont pas des pannes intermittentes
+    ({{192-04-06, IEV:192-04-06}}).'
+  - '3 à l’article: Cette note ne s’applique qu’à la langue anglaise.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920405
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: アイテムの;
+    designation: 一時的フォールト
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920405
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 품목;
+    designation: 과도 고장
+  - type: expression
+    usageInfo: 품목;
+    designation: 과도 결함
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920405
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: obiektu
+    designation: niezdatność przejściowa
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920405
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: de um item;
+    designation: defeito fugitivo
+  - type: expression
+    usageInfo: de um item;
+    designation: defeito fugaz
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920405
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 瞬间故障
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

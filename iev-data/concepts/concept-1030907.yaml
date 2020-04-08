@@ -1,0 +1,156 @@
+---
+termid: 1030907
+term: autocorrelation function
+ara:
+  id: 1030907
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: دالة الارتباط الذاتية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030907
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Autokorrelationsfunktion
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030907
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: autocorrelation function
+  definition: "<ol>\n  <li>for a deterministic function, correlation function of the
+    function and a time-delayed replica </li>\n  <li> for a stationary random function,
+    mathematical expectation of the product of the function and a time-delayed replica:
+    \n\n $$C ( t ) = E f ( tau )   f ( t + tau )$$</li>\n</ol>"
+  language_code: eng
+  notes:
+  - '1 to entry: The autocorrelation function of a deterministic function or a stationary
+    random function is the inverse Fourier transform of its power spectral density.'
+  - "2 to entry: When a stationary random function can be considered as ergodic, its
+    autocorrelation function can be calculated from a particular sample: \n\n$$C (
+    t ) = underset(( T -&gt; oo))(( lim)) (1)/(( 2 T)) ∫_(   - T)^(   + T) f ( tau
+    ) f ( t + tau ) d tau$$"
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030907
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fonction d'autocorrélation
+    gender: f
+    plurality: singular
+  definition: "<ol>\n  <li>pour une fonction déterministe, fonction de corrélation
+    de cette fonction et d'une version retardée de celle-ci </li>\n  <li> pour une
+    fonction aléatoire stationnaire, espérance mathématique du produit de la fonction
+    par une version retardée de celle-ci: \n\n $$C ( t ) = E f ( tau )   f ( t + tau
+    )$$</li>\n</ol>"
+  language_code: fre
+  notes:
+  - '1 à l''article: La fonction d''autocorrélation d''une fonction déterministe ou
+    d''une fonction aléatoire stationnaire est la transformée de Fourier inverse de
+    sa densité spectrale de puissance.'
+  - "2 à l'article: Lorsqu'une fonction aléatoire stationnaire peut être considérée
+    comme ergodique, sa fonction d'autocorrélation peut être calculée à partir d'une
+    réalisation particulière: \n\n$$C ( t ) = underset(( T -&gt; oo))(( lim)) (1)/((
+    2 T)) ∫_(   - T)^(   + T) f ( tau ) f ( t + tau ) d tau$$"
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030907
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 自己相関関数
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030907
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 자기 상관 함수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030907
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: funkcja autokorelacji
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030907
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: função de autocorrelação
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030907
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 自相关函数
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

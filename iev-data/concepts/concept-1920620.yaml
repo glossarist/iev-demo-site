@@ -1,0 +1,119 @@
+---
+termid: 1920620
+term: fault diagnosis
+ara:
+  id: 1920620
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: تشخيص العطل
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920620
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Fehlzustandsdiagnose
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920620
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fault diagnosis
+  definition: action to identify and characterize the fault
+  language_code: eng
+  notes:
+  - Fault diagnosis may also localize the fault and/or indicate its cause.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920620
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: diagnostic de panne
+    gender: m
+    plurality: singular
+  definition: opération destinée à identifier et caractériser la panne
+  language_code: fre
+  notes:
+  - '1 à l’article: Le diagnostic de panne peut également permettre de localiser la
+    panne ou d’indiquer sa cause.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920620
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: フォールト診断
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920620
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 결함 진단
+  - type: expression
+    designation: 고장 진단
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920620
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: diagnozowanie niezdatności
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920620
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: diagnóstico de avaria
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920620
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 故障诊断
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

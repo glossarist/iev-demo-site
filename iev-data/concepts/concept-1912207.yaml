@@ -1,0 +1,15 @@
+---
+termid: 1912207
+term: 잠재적 불안정 상태
+kor:
+  id: 1912207
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 전력 계통;
+    designation: 잠재적 불안정 상태
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

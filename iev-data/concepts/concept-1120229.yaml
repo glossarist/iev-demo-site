@@ -1,0 +1,155 @@
+---
+termid: 1120229
+term: zetta
+ara:
+  id: 1120229
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: زتا
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120229
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: Zetta…
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120229
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: zetta
+  - type: symbol
+    designation: Z
+    international: true
+  definition: SI prefix used to form the multiple 10<sup>21</sup> of a unit of measurement
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120229
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: zetta
+  definition: préfixe SI utilisé pour former le multiple 10<sup>21</sup> d’une unité
+    de mesure
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120229
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: ゼッタ
+  - type: expression
+    normativeStatus: preferred
+    designation: 10<sup>21</sup>
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120229
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: 제타
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120229
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: zetta (przedrostek)
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120229
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: zeta (prefixo)
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120229
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: 泽它
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: 泽
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

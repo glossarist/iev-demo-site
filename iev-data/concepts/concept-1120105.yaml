@@ -1,0 +1,154 @@
+---
+termid: 1120105
+term: intensive quantity
+ara:
+  id: 1120105
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: كمية مركزة (كمية موضعية)
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120105
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: intensive Größe
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120105
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: intensive quantity
+  - type: expression
+    normativeStatus: preferred
+    designation: local quantity
+  definition: quantity that is determinable at any point of a system
+  language_code: eng
+  notes:
+  - In practice, the definition of an intensive quantity involves an average over
+    a small three-dimensional domain around the point.
+  - 'Examples: mass density, electric charge density, resistivity, thermodynamic temperature,
+    pressure, Rockwell C hardness, any field quantity (IEV 102-05-17).'
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120105
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: grandeur intensive
+    gender: f
+    plurality: singular
+  definition: grandeur qui peut être déterminée en tout point d'un système
+  language_code: fre
+  notes:
+  - En pratique, la définition d'une grandeur intensive implique une moyenne dans
+    un petit domaine tridimensionnel autour du point.
+  - 'Exemples: masse volumique, charge électrique volumique, résistivité, température
+    thermodynamique, pression, dureté C de Rockwell, tout champ (IEV 102-05-17).'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120105
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ある場所における量
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120105
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 내포량
+  - type: expression
+    designation: 지역량
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120105
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: wielkość lokalna
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120105
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: grandeza intensiva
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120105
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 强度量
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

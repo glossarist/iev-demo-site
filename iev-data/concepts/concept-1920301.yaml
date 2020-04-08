@@ -1,0 +1,144 @@
+---
+termid: 1920301
+term: failure
+ara:
+  id: 1920301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: لأى بند;
+    designation: فشل
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: einer Einheit
+    designation: Ausfall
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: of an item;
+    designation: failure
+  definition: loss of ability to perform as required
+  language_code: eng
+  notes:
+  - 'A failure of an item is an event that results in a fault of that item: see "fault"
+    ({{IEV 192-04-01, IEV:192-04-01}}).'
+  - Qualifiers, such as catastrophic, critical, major, minor, marginal and insignificant,
+    can be used to categorize failures according to the severity of consequences,
+    the choice and definitions of severity criteria depending upon the field of application.
+  - Qualifiers, such as misuse, mishandling and weakness, can be used to categorize
+    failures according to the cause of failure.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: d’une entité
+    designation: défaillance
+    gender: f
+    plurality: singular
+  definition: perte de l’aptitude à fonctionner tel que requis
+  language_code: fre
+  notes:
+  - '1 à l’article: La défaillance d’une entité est un événement qui provoque une
+    panne de cette entité: voir "panne" ({{IEV 192-04-01, IEV:192-04-01}}).'
+  - '2 à l’article: Des qualificatifs tels que catastrophique, critique, majeur, mineur,
+    marginal et non significative peuvent être utilisés pour classer les défaillances
+    en fonction de la gravité des conséquences, selon des critères de gravité dont
+    le choix et les définitions dépendent du domaine d’application.'
+  - '3 à l’article: Des compléments tels que «par mauvais emploi», «par fausse manœuvre»
+    et «par fragilité» peuvent être utilisés pour classer les défaillances selon leur
+    cause.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: アイテムの;
+    designation: 故障
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 품목;
+    designation: 고장
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: obiektu
+    designation: uszkodzenie
+    gender: n
+    plurality: singular
+  - type: expression
+    usageInfo: obiektu
+    designation: awaria
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: de um item;
+    designation: falha
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 产品的;
+    designation: 失效
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

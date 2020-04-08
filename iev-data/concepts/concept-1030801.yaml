@@ -1,0 +1,141 @@
+---
+termid: 1030801
+term: random
+ara:
+  id: 1030801
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: عشوائى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030801
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: zufällig
+    partOfSpeech: adj
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030801
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: random
+    partOfSpeech: adj
+  definition: pertaining to an entity that may take any of the values of a specified
+    set, each value achieved being unpredictable and governed by chance
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030801
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: aléatoire
+    partOfSpeech: adj
+  definition: qualifie une entité susceptible de prendre l'une des valeurs d'un ensemble
+    défini, chaque valeur réalisée étant imprévisible et déterminée par le hasard
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030801
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 無作為
+    partOfSpeech: adj
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030801
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 무작위
+    partOfSpeech: adj
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030801
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: losowy
+  - type: expression
+    designation: stochastyczny
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030801
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: aleatório, adj
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030801
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 随机的
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

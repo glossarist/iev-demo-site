@@ -1,0 +1,137 @@
+---
+termid: 1921204
+term: failure reporting, analysis and corrective action system
+ara:
+  id: 1921204
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: منظومة تحديد العطل وتحليله وإصلاحه
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1921204
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: System von Ausfallberichterstattung, Analyse und Korrekturmaßnahmen
+    gender: n
+    plurality: singular
+  - type: expression
+    designation: FRACAS
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1921204
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: failure reporting, analysis and corrective action system
+  - type: expression
+    designation: FRACAS
+  definition: closed loop process used to improve dependability of current and future
+    designs by feedback of testing, modification and use experience
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1921204
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: logique de traitement des incidents et actions correctives
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: méthode de signalement, d’analyse et de correction des défaillances
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: LTIAC
+  definition: processus en boucle fermée permettant d’améliorer la sûreté de fonctionnement
+    des conceptions actuelles et futures par rétroaction des essais, des modifications
+    et de l’expérience d’utilisation
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1921204
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 故障記録修復活動システム
+  - type: expression
+    designation: FRACAS
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1921204
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 고장 보고
+  - type: expression
+    designation: FRACAS
+  - type: expression
+    designation: 분석 및 시정 조치 체계
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1921204
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: system dokumentowania i analizy uszkodzeń i działań korygujących
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: FRACAS
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1921204
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: relatórios de falha, análise e sistema de ação corretiva
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1921204
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 失效报告、分析及纠正措施系统
+  - type: expression
+    designation: FRACAS
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

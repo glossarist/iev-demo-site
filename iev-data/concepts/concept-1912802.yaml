@@ -1,0 +1,14 @@
+---
+termid: 1912802
+term: 공급 차단 부하
+kor:
+  id: 1912802
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 공급 차단 부하
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

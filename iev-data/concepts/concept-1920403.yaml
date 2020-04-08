@@ -1,0 +1,129 @@
+---
+termid: 1920403
+term: flaw
+ara:
+  id: 1920403
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: لأى بند;
+    designation: خلل،
+  - type: expression
+    usageInfo: لأى بند;
+    designation: عطب،
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920403
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: einer Einheit
+    designation: Schwachstelle
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920403
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: of an item;
+    designation: flaw
+  definition: imperfection that could result in failure
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920403
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: d’une entité
+    designation: défectuosité
+    gender: f
+    plurality: singular
+  definition: imperfection pouvant donner lieu à une défaillance
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920403
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: アイテムの;
+    designation: 欠点
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920403
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 품목;
+    designation: 결점
+  - type: expression
+    usageInfo: 품목;
+    designation: 고장
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920403
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: mogąca inicjować uszkodzenie obiektu
+    designation: usterka
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920403
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: de um item;
+    designation: defeito
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920403
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 产品的;
+    designation: 缺陷
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

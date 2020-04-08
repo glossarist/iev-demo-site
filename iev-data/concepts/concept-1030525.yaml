@@ -1,0 +1,143 @@
+---
+termid: 1030525
+term: logarithmic decrement
+ara:
+  id: 1030525
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: التناقص اللوغارتمى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030525
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: logarithmisches Dekrement
+    gender: n
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030525
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: logarithmic decrement
+  - type: symbol
+    designation: "$$$$"
+    international: true
+  definition: product of the damping coefficient $$$$ of a damped oscillation $$A_0
+    e^( - delta   t) f ( t )$$ and the period $$T$$ of the function $$f ( t )$$, thus
+    $$Lambda = delta   T$$
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030525
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: décrément logarithmique
+    gender: m
+    plurality: singular
+  definition: produit du coefficient d'amortissement $$$$ d'une oscillation amortie
+    $$A_0 e^( - delta   t) f ( t )$$ et de la période $$T$$ de la fonction $$f ( t
+    )$$, soit $$Lambda = delta   T$$
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030525
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 対数減衰率
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030525
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 대수 감쇠율
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030525
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: dekrement logarytmiczny
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030525
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: decremento logarítmico
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030525
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 对数衰减量
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

@@ -1,0 +1,127 @@
+---
+termid: 1920115
+term: conformity
+ara:
+  id: 1920115
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: مطابقة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920115
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Konformität
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920115
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: conformity
+  definition: fulfilment of a requirement
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO 9000:2005
+    clause: 3.6.1
+    link: https://www.iso.org/standard/42180.html
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920115
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: conformité
+    gender: f
+    plurality: singular
+  definition: satisfaction d’une exigence
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO 9000:2005
+    clause: 3.6.1
+    link: https://www.iso.org/standard/42180.html
+  review_decision_event: published
+jpn:
+  id: 1920115
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 適合
+  - type: expression
+    designation: 適合性
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920115
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 적합성
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920115
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: z wymaganiami
+    designation: zgodność
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920115
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: conformidade 
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920115
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 符合
+  - type: expression
+    designation: 合格
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,164 @@
+---
+termid: 1030905
+term: power spectral density
+ara:
+  id: 1030905
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: كثافة القوة الطيفية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030905
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: spektrale Leistungsdichte
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030905
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: power spectral density
+  - type: expression
+    designation: power spectrum density
+  definition: for a quantity having a continuous spectrum and a finite mean power,
+    limit, at any frequency, of the quotient of the power within a frequency band
+    containing that frequency by the bandwidth when the bandwidth tends to zero
+  language_code: eng
+  notes:
+  - '1 to entry: The instantaneous power of a quantity is by convention equal to the
+    square of its instantaneous value. This square is proportional to a physical power
+    if the considered quantity is a field quantity.'
+  - '2 to entry: The power spectral density is the Fourier transform of the autocorrelation
+    function.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030905
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: densité spectrale de puissance
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: DSP
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: puissance spectrique
+    gender: f
+    plurality: singular
+  definition: pour une grandeur à spectre continu et de puissance moyenne finie, limite,
+    à toute fréquence, du quotient de la puissance dans une bande de fréquences contenant
+    cette fréquence par la largeur de la bande lorsque cette largeur tend vers zéro
+  language_code: fre
+  notes:
+  - '1 à l''article: La puissance instantanée d''une grandeur est par convention égale
+    au carré de sa valeur instantanée. Ce carré est proportionnel à une puissance
+    physique si la grandeur considérée est une grandeur de champ.'
+  - '2 à l''article: La densité spectrale de puissance est la transformée de Fourier
+    de la fonction d''autocorrélation.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030905
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: パワースペクトル密度
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030905
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 전력 스펙트럼 밀도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030905
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: gęstość spektralna mocy
+  - type: expression
+    designation: gęstość widmowa mocy
+  - type: expression
+    designation: DSP (akronim)
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030905
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: densidade espectral de potência
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030905
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 功率谱密度
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

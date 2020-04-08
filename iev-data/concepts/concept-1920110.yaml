@@ -1,0 +1,159 @@
+---
+termid: 1920110
+term: life cycle cost
+ara:
+  id: 1920110
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: لبند;
+    designation: تكلفة الدورة العمرية ،
+  - type: expression
+    usageInfo: لبند;
+    designation: التكلفة الكلية للدورة العمرية ،
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920110
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: einer Einheit
+    designation: Lebenszykluskosten
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920110
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: of an item;
+    designation: life cycle cost
+  - type: expression
+    usageInfo: of an item;
+    designation: whole life cost
+  - type: expression
+    designation: LCC
+  definition: total cost incurred during the life cycle
+  language_code: eng
+  notes:
+  - See also life cycle costing ({{192-11-11, IEV:192-11-11}}).
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920110
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: d’une entité
+    designation: coût du cycle de vie
+    gender: m
+    plurality: singular
+  - type: expression
+    usageInfo: d’une entité
+    designation: coût global
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: CCV
+  definition: coût cumulé d’une entité tout au long de son cycle de vie
+  language_code: fre
+  notes:
+  - '1 à l’article: Voir aussi évaluation du coût du cycle de vie ({{192-11-11, IEV:192-11-11}}).'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920110
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: アイテムの;
+    designation: ライフサイクルコスト
+  - type: expression
+    designation: LCC
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920110
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 품목;
+    designation: 수명 주기 비용
+  - type: expression
+    usageInfo: 품목;
+    designation: 전 수명 비용
+  - type: expression
+    designation: LCC
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920110
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: obiektu
+    designation: koszt cyklu życia
+    gender: m
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: LCC
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+por:
+  id: 1920110
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: de um item;
+    designation: custo do ciclo de vida
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920110
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 产品的;
+    designation: 寿命周期费用
+  - type: expression
+    usageInfo: 产品的;
+    designation: 生命周期费用
+  - type: expression
+    usageInfo: 产品的;
+    designation: 全寿命费用
+  - type: expression
+    designation: LCC
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,116 @@
+---
+termid: 1920725
+term: repair coverage
+ara:
+  id: 1920725
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: الأعطال الممكن إصلاحها
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920725
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Instandsetzbarkeitsgrad
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920725
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: repair coverage
+  definition: proportion of detected faults that can be successfully corrected
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920725
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: couverture des réparations
+    gender: f
+    plurality: singular
+  definition: fraction des pannes détectées qui peuvent être corrigées avec succès
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920725
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 修理成功率
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920725
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 수리 담당범위
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920725
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: stopień naprawialności
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920725
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: cobertura das reparações
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920725
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 修复覆盖率
+  - type: expression
+    designation: 修复比
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

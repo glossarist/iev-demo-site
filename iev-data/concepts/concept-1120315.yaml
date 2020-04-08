@@ -1,0 +1,150 @@
+---
+termid: 1120315
+term: molar
+ara:
+  id: 1120315
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: كتلى (صفة)
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120315
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: molar
+    partOfSpeech: adj
+  - type: expression
+    normativeStatus: preferred
+    designation: stoffmengenbezogen
+    partOfSpeech: adj
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120315
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: molar
+    partOfSpeech: adj
+  definition: qualifies the name of a quantity to indicate the quotient of that quantity
+    by the amount of substance
+  language_code: eng
+  notes:
+  - 'Example: molar volume.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120315
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: molaire
+    partOfSpeech: adj
+  definition: qualifie le nom d’une grandeur pour désigner le quotient de cette grandeur
+    par une quantité de matière
+  language_code: fre
+  notes:
+  - 'Exemple: volume molaire.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120315
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: モル～
+    partOfSpeech: adj
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120315
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 몰
+    partOfSpeech: adj
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120315
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: molowy
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120315
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: molar, adj
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120315
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 摩尔
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

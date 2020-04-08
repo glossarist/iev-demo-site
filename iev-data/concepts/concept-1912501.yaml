@@ -1,0 +1,14 @@
+---
+termid: 1912501
+term: 정지 발생
+kor:
+  id: 1912501
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 정지 발생
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

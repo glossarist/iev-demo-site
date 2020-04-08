@@ -1,0 +1,190 @@
+---
+termid: 1030301
+term: unit step function
+ara:
+  id: 1030301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: دالة الخطوة الواحدة
+  - type: expression
+    designation: دالة هيفيسايد
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Einheitssprungfunktion
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: Einheitssprung
+    gender: m
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: Heaviside-Funktion
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: unit step function
+  - type: expression
+    designation: Heaviside function
+  - type: symbol
+    designation: ''
+    international: true
+  definition: function, zero for all negative values of the independent variable and
+    equal to one for all positive values
+  language_code: eng
+  notes:
+  - '1 to entry: See Figure 1 below for a graphical representation of ($$t$$). The
+    value (0) may remain undefined or may be defined according to the context.'
+  - '2 to entry: ($$x$$  $$x$$<sub>0</sub>) denotes a unit step at the value $$x$$<sub>0</sub>
+    of the independent variable $$x$$.'
+  - "3 to entry: Notation H($$x$$) is also used. Notation ($$t$$) is used for the
+    unit step function of time. Notation ($$x$$) has also been used. \n\n<simg/>103-03-015/$file/103-03-015.png&gt;
+    \n\nFigure 1 – Représentation graphique de ($$t$$)"
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fonction échelon unité
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: échelon unité
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: fonction de Heaviside
+    gender: f
+    plurality: singular
+  definition: fonction nulle pour toute valeur négative de la variable indépendante
+    et égale à un pour toute valeur positive
+  language_code: fre
+  notes:
+  - '1 à l''article: Voir la Figure 1 ci-dessous pour une représentation graphique
+    de ($$t$$). La valeur (0) peut rester indéfinie ou être définie selon le contexte.'
+  - '2 à l''article: ($$x$$  $$x$$<sub>0</sub>) représente un échelon unité à la valeur
+    $$x$$<sub>0</sub> de la variable indépendante $$x$$.'
+  - '3 à l''article: La notation H($$x$$) est aussi utilisée. La notation ($$t$$)
+    est utilisée pour la fonction échelon unité du temps. La notation ($$x$$) a aussi
+    été utilisée.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 単位階段関数
+  - type: expression
+    normativeStatus: preferred
+    designation: ヘビサイド関数
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 단위 계단 함수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: skok jednostkowy Heaviside’a
+  - type: expression
+    designation: funkcja Heaviside’a
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: função degrau unitário
+  - type: expression
+    designation: função de Heaviside
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 单位阶跃函数
+  - type: expression
+    normativeStatus: preferred
+    designation: 赫维赛德函数
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

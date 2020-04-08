@@ -1,0 +1,138 @@
+---
+termid: 1920224
+term: externally disabled time
+ara:
+  id: 1920224
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: فترة التعطيل خارجياً
+  - type: expression
+    designation: فترة التعطيل الخارجي
+  - type: expression
+    designation: 'سابقا: وقت الفقد الخارجي'
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920224
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: extern bedingtes Nichtverfügbarkeitszeitintervall
+    gender: n
+    plurality: singular
+  - type: expression
+    designation: extern bedingte Nichtverfügbarkeitszeit
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920224
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: externally disabled time
+  - type: expression
+    normativeStatus: preferred
+    designation: external disabled time
+  - type: expression
+    normativeStatus: preferred
+    designation: external loss time
+  definition: time interval for which the item is in an externally disabled state
+  language_code: eng
+  notes:
+  - '1 to entry: IEC 60050-191:1990 (now withdrawn; replaced by IEC 60050-192:2015)
+    identified “external loss time” as a synonym, which is not true in all applications.'
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920224
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: temps d’incapacité externe
+    gender: m
+    plurality: singular
+  definition: intervalle de temps pendant lequel une entité est en état d’incapacité
+    externe
+  language_code: fre
+  notes:
+  - '1 à l’article: L’IEC 60050-191:1990 (supprimée; remplacée par l''IEC 60050-192:2015)
+    identifiait en anglais le terme «external loss time» comme un synonyme, ce qui
+    n’est pas vrai pour toutes les applications.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920224
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 外的動作不能時間
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920224
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 외적 불능 시간
+  - type: expression
+    designation: 외부 불능 시간
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920224
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: obiektu
+    designation: czas niedyspozycyjności z przyczyn zewnętrznych
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920224
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: tempo de incapacidade externa
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920224
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 外因失能时间
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

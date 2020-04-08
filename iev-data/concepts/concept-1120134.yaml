@@ -1,0 +1,175 @@
+---
+termid: 1120134
+term: numerical value equation
+ara:
+  id: 1120134
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: معادلة قيمة عددية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120134
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Zahlenwertgleichung
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120134
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: numerical value equation
+  definition: mathematical relation between numerical values based on a given quantity
+    equation and specified units of measurement
+  language_code: eng
+  notes:
+  - "- For the quantities $$Q$$<sub>1</sub>, $$Q$$<sub>2</sub> and $$Q$$<sub>3</sub>
+    related by the quantity equation $$Q$$<sub>1</sub> = $$$$ $$Q$$<sub>2</sub> $$Q$$<sub>3</sub>,
+    the numerical value equation is {$$Q$$<sub>1</sub>} = $$$$ {$$Q$$<sub>2</sub>} {$$Q$$<sub>3</sub>},
+    where {$$Q$$<sub>1</sub>}, {$$Q$$<sub>2</sub>}, and {$$Q$$<sub>3</sub>} denote
+    the numerical values of $$Q$$<sub>1</sub>, $$Q$$<sub>2</sub>, and $$Q$$<sub>3</sub>,
+    respectively, provided that they are expressed in base units or coherent derived
+    units."
+  examples:
+  - In the quantity equation for kinetic energy of a particle, $$T$$ = (1/2) $$m$$$$v$$<sup>2</sup>,
+    if $$m$$ = 2 kg and $$v$$ = 3 m/s, then {$$T$$} = (1/2)  2  3<sup>2</sup> is a
+    numerical value equation giving the numerical value 9 of $$T$$ in joules.
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO/IEC GUIDE 99:2007  MOD
+    clause: ISO/IEC GUIDE 99:2007 1.25 MOD
+    link: https://www.iso.org/standard/45324.html
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120134
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: équation aux valeurs numériques
+    gender: f
+    plurality: singular
+  definition: relation d'égalité entre des valeurs numériques, fondée sur une équation
+    aux grandeurs donnée et des unités de mesure spécifiées
+  language_code: fre
+  notes:
+  - "- Pour les grandeurs $$Q$$<sub>1</sub>, $$Q$$<sub>2</sub> et $$Q$$<sub>3</sub>
+    reliées par l'équation aux grandeurs $$Q$$<sub>1</sub> = $$$$ $$Q$$<sub>2</sub> $$Q$$<sub>3</sub>,
+    l'équation aux valeurs numériques est {$$Q$$<sub>1</sub>} = $$$$ {$$Q$$<sub>2</sub>} {$$Q$$<sub>3</sub>},
+    où {$$Q$$<sub>1</sub>}, {$$Q$$<sub>2</sub>} et {$$Q$$<sub>3</sub>} représentent
+    respectivement les valeurs numériques de $$Q$$<sub>1</sub>, $$Q$$<sub>2</sub>
+    et $$Q$$<sub>3</sub> lorsqu'elles sont exprimées en unités de base ou en unités
+    dérivées cohérentes."
+  examples:
+  - Pour l'équation aux grandeurs de l'énergie cinétique d'une particule, $$T$$ = (1/2) $$m$$$$v$$<sup>2</sup>,
+    si $$m$$ = 2 kg et $$v$$ = 3 m/s, alors {$$T$$} = (1/2)  2  3<sup>2</sup> est
+    une équation aux valeurs numériques donnant la valeur numérique 9 de $$T$$ en
+    joules.
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO/IEC GUIDE 99:2007
+    clause: '1.25'
+    link: https://www.iso.org/standard/45324.html
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120134
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 数値式
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120134
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 수치 방정식
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120134
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: równanie wartości liczbowych
+  - type: expression
+    normativeStatus: preferred
+    designation: równanie liczbowe
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120134
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: equação aos valores numéricos
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120134
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 数值方程
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

@@ -1,0 +1,118 @@
+---
+termid: 1920134
+term: computer program
+ara:
+  id: 1920134
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: برنامج الحاسب الآلي
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920134
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Rechnerprogramm
+    gender: n
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920134
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: computer program
+  definition: set of coded instructions executed to perform specified logical and
+    mathematical operations on data
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920134
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: programme d’ordinateur
+    gender: m
+    plurality: singular
+  definition: ensemble d’instructions codées, exécuté pour réaliser des opérations
+    logiques et mathématiques spécifiées sur les données
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920134
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: プログラム
+  - type: expression
+    designation: コンピュータプログラム
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920134
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 컴퓨터 프로그램
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920134
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: program komputerowy
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920134
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: programa de computador
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920134
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 计算机程序
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

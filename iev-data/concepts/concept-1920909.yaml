@@ -1,0 +1,130 @@
+---
+termid: 1920909
+term: test acceleration factor
+ara:
+  id: 1920909
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: معامل تعجيل الاختبار
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920909
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Raffungsfaktor
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: Beschleunigungsfaktor
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920909
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: test acceleration factor
+  definition: ratio of the stress response rate of the test specimen under the accelerated
+    conditions, to the stress response rate under specified operational conditions
+  language_code: eng
+  notes:
+  - Both stress response rates refer to the same time interval in the life of the
+    tested items.
+  - Measures of stress response rate are, for example, operating time to failure,
+    failure intensity, and rate of wear.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920909
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: facteur d’accélération d’essai
+    gender: m
+    plurality: singular
+  definition: rapport de la rapidité de réponse aux contraintes du spécimen à l'essai
+    dans les conditions accélérées, à la rapidité de réponse aux contraintes dans
+    des conditions opérationnelles spécifiées
+  language_code: fre
+  notes:
+  - '1 à l’article: Les deux rapidités de réponse aux contraintes se rapportent au
+    même intervalle de temps de la durée de vie des entités soumises à essai.'
+  - '2 à l’article: Des mesures da la rapidité de réponse aux contraintes sont, par
+    exemple, le temps de fonctionnement avant défaillance, l’intensité de défaillance
+    et la rapidité d’usure.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920909
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 試験加速係数
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920909
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 시험 가속 인자
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920909
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: współczynnik przyspieszenia badania
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920909
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: factor de aceleração de ensaio
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920909
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 试验加速因子
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

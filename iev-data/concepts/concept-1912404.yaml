@@ -1,0 +1,14 @@
+---
+termid: 1912404
+term: 지연 가능 정지
+kor:
+  id: 1912404
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 지연 가능 정지
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

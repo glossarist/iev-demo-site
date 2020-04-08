@@ -1,0 +1,117 @@
+---
+termid: 1920312
+term: failure mechanism
+ara:
+  id: 1920312
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: آلية الفشل
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920312
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Ausfallmechanismus
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920312
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: failure mechanism
+  definition: process that leads to failure
+  language_code: eng
+  notes:
+  - The process may be physical, chemical, logical, or a combination thereof.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920312
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: mécanisme de défaillance
+    gender: m
+    plurality: singular
+  definition: processus entraînant une défaillance
+  language_code: fre
+  notes:
+  - '1 à l’article: Il peut s’agir d’un processus physique, chimique ou logique, ou
+    d’une de leurs combinaisons.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920312
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 故障メカニズム
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920312
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 고장 메커니즘
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920312
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: mechanizm uszkodzenia
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920312
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: mecanismo de falha
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920312
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 失效机理
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

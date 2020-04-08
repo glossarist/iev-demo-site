@@ -1,0 +1,166 @@
+---
+termid: 1030604
+term: symmetrical alternating quantity
+ara:
+  id: 1030604
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: كمية(مترددة)متماثلة
+  - type: expression
+    designation: كمية متماثلة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030604
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: symmetrische Wechselgröße
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: symmetrisch alternierende Größe
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030604
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: symmetrical alternating quantity
+  - type: expression
+    designation: symmetrical quantity
+  definition: "alternating quantity in which points one half a period apart have equal
+    values and opposite signs: \n\n$$F ( x + (T)/(2) ) = - F ( x )$$, where $$T$$
+    is the period"
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030604
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: grandeur alternative symétrique
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: grandeur symétrique
+    gender: f
+    plurality: singular
+  definition: "grandeur alternative dont les valeurs séparées d'une demi-période sont
+    égales et de signes opposés: \n\n$$F ( x + (T)/(2) ) = - F ( x )$$, où $$T$$ est
+    la période"
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030604
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 対称的変化量
+  - type: expression
+    normativeStatus: preferred
+    designation: 対称的量
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030604
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 대칭적 변화량
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030604
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: wielkość przemienna symetryczna
+  - type: expression
+    designation: wielkość symetryczna
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030604
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: grandeza alternada simétrica
+  - type: expression
+    designation: grandeza simétrica
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030604
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 对称交变量
+  - type: expression
+    normativeStatus: preferred
+    designation: 对称量
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

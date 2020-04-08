@@ -1,0 +1,191 @@
+---
+termid: 1030810
+term: expectation
+ara:
+  id: 1030810
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: التباين (لمتغير عشوائى)
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030810
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: einer Zufallsvariablen
+    designation: Erwartungswert
+    gender: m
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: einer Zufallsvariablen
+    designation: Mittelwert
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030810
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: of a random variable;
+    designation: expectation
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: of a random variable;
+    designation: mean
+  definition: "<ol>\n  <li>for a discrete random variable $$X$$ taking the values
+    $$x_i$$ with the probabilities $$p_i$$, the sum \n\n$$E ( X ) = sum_i p_i x_i$$\n\nextended
+    for all values $$x_i$$ which can be taken by $$X$$ </li>\n  <li> for a continuous
+    random variable $$X$$ having the probability density function $$f ( x )$$, the
+    value of the integral \n\n $$E ( X ) = ∫ x   f ( x ) d x$$ \n\nextended for all
+    values of the interval of variation of $$X$$</li>\n</ol>"
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030810
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: d'une variable aléatoire
+    designation: espérance mathématique
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: d'une variable aléatoire
+    designation: espérance
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: d'une variable aléatoire
+    designation: moyenne
+    gender: f
+    plurality: singular
+  definition: "<ol>\n  <li>pour une variable aléatoire discrète $$X$$ prenant les
+    valeurs $$x_i$$ avec les probabilités $$p_i$$, somme \n\n $$E ( X ) = sum_i p_i
+    x_i$$ \n\nétendue à toutes les valeurs $$x_i$$ susceptibles d'être prises par
+    $$X$$ </li>\n  <li> pour une variable aléatoire continue $$X$$ de densité de probabilité
+    $$f ( x )$$, valeur de l'intégrale \n\n $$E ( X ) = ∫ x   f ( x ) d x$$ \n\nétendue
+    à tout le domaine de variation de $$X$$</li>\n</ol>"
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+jpn:
+  id: 1030810
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 確率変数の;
+    designation: 期待値
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 確率変数の;
+    designation: 平均
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030810
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 확률변수;
+    designation: 기대값
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030810
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: wartość oczekiwana (zmiennej losowej)
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030810
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: esperança matemática (de uma variável aleatória)
+  - type: expression
+    designation: esperança (de uma variável aleatória)
+  - type: expression
+    designation: média (de uma variável aleatória)
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030810
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 一个随机变量的;
+    designation: 期望值
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 一个随机变量的;
+    designation: 均值
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

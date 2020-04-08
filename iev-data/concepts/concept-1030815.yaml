@@ -1,0 +1,150 @@
+---
+termid: 1030815
+term: median
+ara:
+  id: 1030815
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: الوسيط
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030815
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Medianwert
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030815
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: median
+  definition: |-
+    <ol><li>0,5-fractile of a probability distribution </li>
+
+    <li> for $$n$$ real values not necessarily different from each other, real number such that the number of values less than it is equal to the number of values greater than it</li></ol>
+  language_code: eng
+  notes:
+  - '1 to entry: If $$n$$ is odd, the median is the value of rank $$( n + 1 ) // 2$$
+    when the values are arranged in increasing order. If $$n$$ is even, the median
+    may be any number between the values of rank $$n // 2$$ and $$( n // 2 + 1 )$$,
+    usually the arithmetic mean of these two values.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030815
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: médiane
+    gender: f
+    plurality: singular
+  definition: |-
+    <ol><li>fractile d'ordre 0,5 d'une loi de probabilité </li>
+
+    <li> pour $$n$$ valeurs réelles non nécessairement différentes, nombre réel tel que le nombre de valeurs qui lui sont inférieures est égal au nombre de valeurs qui lui sont supérieures</li></ol>
+  language_code: fre
+  notes:
+  - '1 à l''article: Si $$n$$ est impair, la médiane est la valeur de rang $$( n +
+    1 ) // 2$$ lorsque les valeurs sont rangées par ordre non décroissant. Si $$n$$
+    est pair, la médiane peut être tout nombre compris entre les valeurs de rang $$n
+    // 2$$ et $$( n // 2 + 1 )$$, en général la moyenne arithmétique de ces deux valeurs.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030815
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: メディアン
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030815
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 중앙값
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030815
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: mediana
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030815
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: mediana
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030815
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 中位数
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

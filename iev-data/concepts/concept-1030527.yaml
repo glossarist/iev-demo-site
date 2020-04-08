@@ -1,0 +1,142 @@
+---
+termid: 1030527
+term: synchronous
+ara:
+  id: 1030527
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: متزامن
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030527
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: synchron
+    partOfSpeech: adj
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030527
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: synchronous
+    partOfSpeech: adj
+  definition: qualifying two time-varying phenomena, time scales or signals characterized
+    by corresponding significant instants which are simultaneous or separated by time
+    intervals of a substantially constant duration
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030527
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: synchrone
+    partOfSpeech: adj
+  definition: qualifie chacun de deux phénomènes variables dans le temps, de deux
+    trames temporelles ou de deux signaux dont les instants significatifs homologues
+    sont tous simultanés ou séparés par des intervalles de temps de durée pratiquement
+    constante
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030527
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 同期の
+    partOfSpeech: adj
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030527
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 동기
+    partOfSpeech: adj
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030527
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: synchroniczny
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030527
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: síncrono, adj
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030527
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 同步的
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

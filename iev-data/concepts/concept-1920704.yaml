@@ -1,0 +1,119 @@
+---
+termid: 1920704
+term: active maintenance time
+ara:
+  id: 1920704
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: الزمن الفعال لعملية الصيانة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920704
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: aktive Instandhaltungsdauer
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920704
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: active maintenance time
+  definition: "duration of a maintenance action, excluding logistic delay \n\n<simg/>60050-192-F2en/$file/60050-192-F2en.png&gt;\n\nFigure
+    2 – Maintenance times"
+  language_code: eng
+  notes:
+  - Technical delays are included in the active maintenance time.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920704
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: temps de maintenance active
+    gender: m
+    plurality: singular
+  definition: "durée d’une tâche de maintenance, hors délai logistique \n\n<simg/>60050-192-F2fr/$file/60050-192-F2fr.png&gt;\n\nFigure
+    2 – Temps de maintenance"
+  language_code: fre
+  notes:
+  - '1 à l’article: Les délais techniques sont inclus dans le temps de maintenance
+    active.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920704
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 実働保全時間
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920704
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 유효 유지보수 시간
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920704
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: czas obsługiwania aktywnego
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920704
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: tempo de manutenção ativa
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920704
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 有效维修时间
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,216 @@
+---
+termid: 1030201
+term: mean value
+ara:
+  id: 1030201
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: القيمة المتوسطة
+  - type: expression
+    designation: الوسط
+  - type: expression
+    designation: الوسط الحسابى
+  - type: expression
+    designation: المتوسط
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030201
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Mittelwert
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: arithmetischer Mittelwert
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1030201
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: mean value
+  - type: expression
+    normativeStatus: preferred
+    designation: mean
+  - type: expression
+    normativeStatus: preferred
+    designation: arithmetic mean
+  - type: expression
+    normativeStatus: preferred
+    designation: average
+  - type: expression
+    normativeStatus: preferred
+    designation: arithmetic average
+  definition: "quantity representing the quantities in a finite set or in an interval,\n\n<ol><li>for
+    $$n$$ quantities $$x_1 ,   x_2 ,     ...       x_n$$, by the quotient of the sum
+    of the quantities by $$n$$:\n\n$$bar X = (1)/(n) ( x_1 + x_2 +       ...      
+    + x_n )$$</li> \n\n<li> for a quantity $$x$$ depending on a variable $$t$$, by
+    the integral of the quantity taken between two given values of the variable, divided
+    by the difference of the two values: \n\n $$bar X = (1)/(( t_2 - t_1 )) ∫_(  
+    t_1 )^(   t_2 ) x ( t ) d t$$ </li></ol>"
+  language_code: eng
+  notes:
+  - '1 to entry: The mean value of a periodic quantity is usually taken over an integration
+    interval the range of which is the period multiplied by a natural number.'
+  - '2 to entry: The mean value of the quantity $$x$$ may be denoted by $$bar X$$,
+    by $$X$$, or by $$X$$<sub>a</sub>. Subscripts ar, av and moy are also used.'
+  - '3 to entry: The adjective "arithmetic" is only used to qualify the terms "mean"
+    and "average" in order to distinguish them from the terms "geometric mean" and
+    "geometric average", as well from "harmonic mean" and "harmonic average".'
+  - '4 to entry: The mean value can be generalized for a function of $$n$$ variables,
+    e.g. with a surface integral or an integral over a three-dimensional domain divided
+    by the corresponding area or volume. See the examples in IEC 60050-102.'
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2017-07-01T00:00:00+00:00'
+  date_amended: '2017-07-01T00:00:00+00:00'
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 103-02-01:2009-12
+fre:
+  id: 1030201
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: valeur moyenne
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: moyenne
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: valeur moyenne arithmétique
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: moyenne arithmétique
+  definition: "grandeur représentant les grandeurs d’un ensemble fini ou d’un intervalle,\n\n<ol><li>pour
+    $$n$$ grandeurs $$x_1 ,   x_2 ,     ...       x_n$$, par le quotient de la somme
+    des grandeurs par <i>n:</i> \n\n $$bar X = (1)/(n) ( x_1 + x_2 +       ...    
+      + x_n )$$</li>\n\n<li> pour une grandeur $$x$$ fonction de la variable $$t$$,
+    par le quotient de l'intégrale de la grandeur entre deux valeurs données de cette
+    variable par la différence des deux valeurs: \n\n$$bar X = (1)/(( t_2 - t_1 ))
+    ∫_(   t_1 )^(   t_2 ) x ( t ) d t$$ </li></ol>"
+  language_code: fre
+  notes:
+  - '1 à l''article: La valeur moyenne d''une grandeur périodique est généralement
+    prise sur un intervalle d''intégration dont l’étendue est le produit de la période
+    par un entier naturel.'
+  - '2 à l''article: La valeur moyenne de la grandeur $$x$$ est représentée par $$bar
+    X$$, par $$X$$ ou par $$X$$<sub>a</sub>. Les indices ar, av et moy sont aussi
+    utilisés.'
+  - '3 à l''article: L''adjectif «arithmétique» n''est employé pour qualifier les
+    termes «moyenne» et «valeur moyenne» que pour les distinguer des termes «moyenne
+    géométrique» et «valeur moyenne géométrique», ainsi que des termes «moyenne harmonique»
+    et «valeur moyenne harmonique».'
+  - '4 à l''article: La valeur moyenne peut se généraliser à une fonction de $$n$$
+    variables, par exemple au moyen du quotient d''une intégrale de surface par l’aire
+    correspondante ou d’une intégrale étendue à un domaine tridimensionnel par le
+    volume correspondant. Voir des exemples dans IEC 60050-102.'
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+jpn:
+  id: 1030201
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 平均値
+  - type: expression
+    designation: 平均
+  - type: expression
+    designation: 相加平均
+  - type: expression
+    designation: 平均算術平均
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1030201
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 평균값
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030201
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: średnia arytmetyczna
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: wartość średnia
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: średnia
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1030201
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: valor médio
+  - type: expression
+    designation: média
+  - type: expression
+    designation: valor médio aritmético
+  - type: expression
+    designation: média aritmética
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1030201
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 平均值
+  - type: expression
+    designation: 平均
+  - type: expression
+    designation: 算术平均值
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

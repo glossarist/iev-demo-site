@@ -1,0 +1,124 @@
+---
+termid: 1920622
+term: function checkout
+ara:
+  id: 1920622
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: فحص وظيفى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920622
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Funktionsprüfung
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920622
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: function checkout
+  definition: maintenance action intended to verify that the corrective action taken
+    has been successful, without inducing new faults
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920622
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: essai de fonctionnement
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: vérification de fonctionnement
+    gender: f
+    plurality: singular
+  definition: tâche de maintenance destinée à vérifier que la correction a abouti
+    sans induire d’autres pannes
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920622
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 機能点検
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920622
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 기능 점검
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920622
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: sprawdzenie ponaprawcze działania
+    gender: n
+    plurality: singular
+  - type: expression
+    designation: sprawdzenie działania
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920622
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ensaio de funcionamento
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920622
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 功能检查
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

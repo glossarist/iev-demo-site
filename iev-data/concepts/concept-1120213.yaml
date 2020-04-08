@@ -1,0 +1,151 @@
+---
+termid: 1120213
+term: milli
+ara:
+  id: 1120213
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ميليـ
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120213
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: Milli…
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120213
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: milli
+  - type: symbol
+    designation: m
+    international: true
+  definition: SI prefix used to form the submultiple 10<sup>-3</sup> of a unit of
+    measurement
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120213
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: milli
+  definition: préfixe SI utilisé pour former le sous-multiple 10<sup>-3</sup> d’une
+    unité de mesure
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120213
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: ミリ
+  - type: expression
+    normativeStatus: preferred
+    designation: 10<sup>-3</sup>
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120213
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: 밀리
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120213
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: mili (przedrostek)
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120213
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: mili (prefixo)
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120213
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: 毫
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

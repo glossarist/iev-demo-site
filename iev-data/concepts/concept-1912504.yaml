@@ -1,0 +1,14 @@
+---
+termid: 1912504
+term: 관련 다중 정지 발생
+kor:
+  id: 1912504
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 관련 다중 정지 발생
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

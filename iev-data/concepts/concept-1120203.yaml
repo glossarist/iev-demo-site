@@ -1,0 +1,233 @@
+---
+termid: 1120203
+term: SI prefix
+ara:
+  id: 1120203
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: بادئة للوحدات الدولية SI
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120203
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: SI-Vorsatz
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120203
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: SI prefix
+  definition: unit prefix used together with a SI unit to form decimal multiples or
+    submultiples of this unit
+  language_code: eng
+  notes:
+  - |+
+    The list of approved SI prefixes is given in the following table:
+
+
+
+    <table cellpadding="5" border="solid">
+
+    <tbody>
+
+    <tr>
+
+    <td colspan="3" style="text-align: center;" width="265">
+
+    <strong>Multiples</strong></td>
+
+    </tr>
+
+    <td colspan="3" style="text-align: center;" width="245">
+
+    <strong>Submultiples</strong></td>
+
+    </tbody>
+
+    </table>
+
+    <tr>
+
+    <td rowspan="2" style="text-align: center;" width="66">
+
+    <strong>Factor</strong></td>
+
+    </tr>
+
+    <td colspan="2" style="text-align: center;" width="199">
+
+    <strong>Prefix</strong></td>
+
+  - "When the prefixes are used, the prefix name and the unit name are combined to
+    form a single word, and similarly the prefix symbol and the unit symbol are written
+    without any space to form a single symbol, which may itself be raised to any power.
+    For example, we may write: kilometre, km; microvolt, μV; femtosecond, fs;  \n\n50
+    V/cm = 50 V (10<sup>–2</sup> m)<sup>–1</sup> = 5000 V/m. See the SI Brochure for
+    more information."
+  - 'As an exception, multiples and submultiples of the kilogram are written by combining
+    a prefix with the gram, such we write: milligram, mg, not microkilogram, µkg.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120203
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: préfixe SI
+    gender: m
+    plurality: singular
+  definition: préfixe d’unité associé à une unité SI pour former un multiple ou un
+    sous-multiple de cette unité
+  language_code: fre
+  notes:
+  - |+
+    Le tableau suivant donne la liste des préfixes SI approuvés:
+
+
+
+    <table cellpadding="5" border="solid">
+
+    <tbody>
+
+    <tr>
+
+    <td colspan="3" style="text-align: center;" width="265">
+
+    <strong>Multiples</strong></td>
+
+    </tr>
+
+    <td colspan="3" style="text-align: center;" width="245">
+
+    <strong>Sous-multiples</strong></td>
+
+    </tbody>
+
+    </table>
+
+    <tr>
+
+    <td rowspan="2" style="text-align: center;" width="66">
+
+    <strong>Facteur</strong></td>
+
+    </tr>
+
+    <td colspan="2" style="text-align: center;" width="199">
+
+    <strong>Prfixe</strong></td>
+
+  - "Lorsque l’on utilise ces préfixes, le nom du préfixe et celui de l’unité sont
+    composés pour former un mot unique et, de même, le symbole du préfixe et celui
+    de l’unité forment un nouveau symbole, sans espace, qui peut lui-même être élevé
+    à une puissance. Par exemple, nous pouvons écrire: kilomètre, km; microvolt, μV;
+    femtoseconde, fs;  \n\n50 V/cm = 50 V (10<sup>–2</sup> m)<sup>–1</sup> = 5000
+    V/m. Voir la Brochure du SI pour plus d’informations."
+  - Le kilogramme fait exception; ses multiples et sous-multiples s’écrivent en combinant
+    un préfixe avec le gramme, de sorte que l’on écrit milligramme, mg, mais pas microkilogramme,
+    µkg.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120203
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: SI接頭辞
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120203
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: SI 접두어
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120203
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: przedrostek SI
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120203
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: prefixo SI
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120203
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: SI词头
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

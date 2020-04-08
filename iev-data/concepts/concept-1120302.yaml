@@ -1,0 +1,127 @@
+---
+termid: 1120302
+term: ratio
+ara:
+  id: 1120302
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: نسبة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120302
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Verhältnis
+    gender: n
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1120302
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ratio
+  definition: See {{IEV 102-01-23, IEV:102-01-23}}
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2019-01-01T00:00:00+00:00'
+  date_amended: '2019-01-01T00:00:00+00:00'
+  review_date: '2019-01-01T00:00:00+00:00'
+  review_decision_date: '2019-01-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 112-03-02:2010-01
+fre:
+  id: 1120302
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: rapport
+    gender: m
+    plurality: singular
+  definition: Voir {{IEV 102-01-23, IEV:102-01-23}}
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1120302
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 比
+  - type: expression
+    designation: 率
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1120302
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 비율
+  - type: expression
+    designation: 비
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120302
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: stosunek
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1120302
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: relação
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120302
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 比
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

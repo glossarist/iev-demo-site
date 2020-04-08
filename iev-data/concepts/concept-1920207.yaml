@@ -1,0 +1,114 @@
+---
+termid: 1920207
+term: non-operating time
+ara:
+  id: 1920207
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: فترة عدم التشغيل
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920207
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Nichtbetriebszeitintervall
+    gender: n
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920207
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: non-operating time
+  definition: time interval for which the item is in a non-operating state
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920207
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: temps de non-fonctionnement
+    gender: m
+    plurality: singular
+  definition: intervalle de temps pendant lequel une entité est dans un état de non-fonctionnement
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920207
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 非動作時間
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920207
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 비작동 시간
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920207
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: czas niedziałania
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920207
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: tempo de não funcionamento
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920207
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 非工作时间
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

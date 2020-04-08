@@ -1,0 +1,143 @@
+---
+termid: 1030720
+term: reference fundamental component
+ara:
+  id: 1030720
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: المركبة الاساسية المرجعية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030720
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Referenz-Grundschwingung
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030720
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: reference fundamental component
+  definition: conventionally chosen sinusoidal component of the Fourier series of
+    a periodic quantity, to the frequency of which all the other components are referred
+  language_code: eng
+  notes:
+  - '1 to entry: The term is used when the chosen component differs from the fundamental
+    component.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030720
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: composante fondamentale de référence
+    gender: f
+    plurality: singular
+  definition: composante sinusoïdale de la décomposition en série de Fourier d’une
+    grandeur périodique, choisie par convention, à la fréquence de laquelle toutes
+    les autres composantes sont référencées
+  language_code: fre
+  notes:
+  - '1 à l''article: Le terme est employé lorsque la composante choisie diffère du
+    fondamental.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030720
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 基準基本振動
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030720
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 기준 기본 성분
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030720
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: składowa podstawowa odniesienia
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030720
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: componente fundamental de referência
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030720
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 基准基波分量
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

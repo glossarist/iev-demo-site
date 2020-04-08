@@ -1,0 +1,14 @@
+---
+termid: 1912505
+term: 조건부 다중 정지 발생
+kor:
+  id: 1912505
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 조건부 다중 정지 발생
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

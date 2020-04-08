@@ -1,0 +1,118 @@
+---
+termid: 1921305
+term: instantaneous value
+ara:
+  id: 1921305
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: قيمة لحظية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1921305
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Augenblickswert
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: Momentanwert
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1921305
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: instantaneous value
+  definition: value of a time dependent variable at a given instant
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1921305
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: valeur instantanée
+    gender: f
+    plurality: singular
+  definition: valeur d'une variable fonction du temps à un instant donné
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1921305
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 瞬間値
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1921305
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 순시값
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1921305
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: wartość chwilowa
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1921305
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: valor instantâneo
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1921305
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 瞬时值
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

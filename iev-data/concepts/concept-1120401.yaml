@@ -1,0 +1,174 @@
+---
+termid: 1120401
+term: measurement
+ara:
+  id: 1120401
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: قياس
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120401
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Messung
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120401
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: measurement
+  definition: process of experimentally obtaining one or more values that can reasonably
+    be attributed to a quantity
+  language_code: eng
+  notes:
+  - Measurement does not apply to nominal properties.
+  - Measurement implies comparison of quantities, including counting of entities.
+  - 'The French word "mesure" has several meanings in everyday French language. It
+    is for this reason that the French word "mesurage" has been introduced to describe
+    the act of measurement. Nevertheless, the French word "mesure" occurs many times
+    in forming terms, following current usage, and without ambiguity. Examples are:
+    unité de mesure (unit of measurement), méthode de mesure (measurement method),
+    instrument de mesure (measurement instrument). This does not mean that the use
+    of the French word "mesurage" in place of "mesure" in such terms is not permissible
+    when advantageous.'
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO/IEC GUIDE 99:2007
+    clause: '2.1'
+    link: https://www.iso.org/standard/45324.html
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120401
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: mesurage
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: mesure
+    gender: f
+    plurality: singular
+  definition: processus consistant à obtenir expérimentalement une ou plusieurs valeurs
+    que l'on peut raisonnablement attribuer à une grandeur
+  language_code: fre
+  notes:
+  - Les mesurages ne s'appliquent pas aux propriétés qualitatives.
+  - Un mesurage implique la comparaison de grandeurs, y compris le comptage d'entités.
+  - 'Le mot « mesure » a, dans la langue française courante, plusieurs significations.
+    C''est la raison pour laquelle le mot « mesurage » a été introduit pour qualifier
+    l''action de mesurer. Le mot « mesure » intervient cependant à de nombreuses reprises
+    pour former des termes, suivant en cela l''usage courant et sans ambiguïté. On
+    peut citer, par exemple: unité de mesure, méthode de mesure, instrument de mesure.
+    Cela ne signifie pas que l''utilisation du mot « mesurage » au lieu de « mesure
+    » pour ces termes ne soit pas admissible si l''on trouve quelque avantage à le
+    faire.'
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO/IEC GUIDE 99:2007
+    clause: '2.1'
+    link: https://www.iso.org/standard/45324.html
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120401
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 測定
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120401
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 측정
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120401
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: pomiar
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120401
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: medição
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120401
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 测量
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

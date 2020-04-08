@@ -1,0 +1,14 @@
+---
+termid: 1912506
+term: 연쇄적 다중 정지 발생
+kor:
+  id: 1912506
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 연쇄적 다중 정지 발생
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

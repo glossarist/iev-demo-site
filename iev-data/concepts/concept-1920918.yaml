@@ -1,0 +1,121 @@
+---
+termid: 1920918
+term: simulation test
+ara:
+  id: 1920918
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: اختبار المحاكاة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920918
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Simulationsprüfung
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920918
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: simulation test
+  definition: test that imposes anticipated environmental and operating stresses of
+    intended use
+  language_code: eng
+  notes:
+  - In practice, the test conditions only approximate to the true conditions of use,
+    the accuracy of their reproduction being known as the degree of simulation.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920918
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: essai de simulation
+    gender: m
+    plurality: singular
+  definition: essai qui impose des contraintes d’environnement et de fonctionnement
+    anticipées liées à l’utilisation prévue
+  language_code: fre
+  notes:
+  - '1 à l’article: Dans la pratique, les conditions d’essai se rapprochent uniquement
+    des conditions vraies d’utilisation, l’exactitude de leur reproduction étant appelée
+    «degré de simulation».'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920918
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: シミュレーション試験
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920918
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 모의 시험
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920918
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: badanie symulacyjne
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920918
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ensaio de simulação
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920918
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 模拟试验
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,116 @@
+---
+termid: 1920313
+term: failure sequence
+ara:
+  id: 1920313
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: تتابع الفشل
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920313
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Ausfallabfolge
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920313
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: failure sequence
+  definition: chain of events, from the initiating event, through subsequent events,
+    leading to failure
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920313
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: séquence de défaillance
+    gender: f
+    plurality: singular
+  definition: chaîne d’événements qui, à partir d’un évènement initiateur, conduit
+    à une défaillance via des évènements ultérieurs
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920313
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 故障の連鎖
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920313
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 고장 연쇄
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920313
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: sekwencja zdarzeń prowadzących do uszkodzenia
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920313
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: sequência de falha
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920313
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 失效序列
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

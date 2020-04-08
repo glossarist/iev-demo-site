@@ -1,0 +1,151 @@
+---
+termid: 1031015
+term: group velocity
+ara:
+  id: 1031015
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: سرعة المجموعة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1031015
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Gruppengeschwindigkeit
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1031015
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: group velocity
+  - type: symbol
+    designation: "$$c$$<sub>g</sub><br>$$v$$<sub>g</sub></br>"
+    international: true
+  definition: at a point in a medium, velocity of the envelope of a packet of superimposed
+    sinusoidal waves of equal amplitude and slightly different frequencies tending
+    to a common limiting frequency
+  language_code: eng
+  notes:
+  - '1 to entry: The magnitude of the group velocity vector is equal to the derivative
+    of the frequency with respect to the wavenumber.'
+  - '2 to entry: If both group velocities and other velocities are involved, then
+    $$c$$ should be used for the former and $$v$$ (vee) for the latter.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1031015
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: vitesse de groupe
+    gender: f
+    plurality: singular
+  definition: en un point d'un milieu, vitesse de l'enveloppe d'un paquet d'ondes
+    sinusoïdales superposées de même amplitude dont les fréquences tendent vers une
+    limite commune
+  language_code: fre
+  notes:
+  - '1 à l''article: La norme du vecteur vitesse de groupe est égale à la dérivée
+    de la fréquence par rapport au nombre d''onde.'
+  - '2 à l''article: En présence à la fois de vitesses de groupe et d''autres vitesses,
+    il convient d''utiliser $$c$$ pour les premières et $$v$$ (vé) pour les secondes.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1031015
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 群速度
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1031015
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 군 속도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1031015
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: prędkość grupowa
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1031015
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: velocidade de grupo
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1031015
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 群速度
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

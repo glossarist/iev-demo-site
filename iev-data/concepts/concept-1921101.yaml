@@ -1,0 +1,116 @@
+---
+termid: 1921101
+term: prediction
+ara:
+  id: 1921101
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: التنبؤ
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1921101
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Vorhersage
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1921101
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: prediction
+  definition: computation process used to obtain the predicted value of a quantity
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1921101
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: prévision
+    gender: f
+    plurality: singular
+  definition: processus de calcul permettant d’obtenir la valeur prévue d’une grandeur
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1921101
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 予測
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1921101
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 예측
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1921101
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: prognozowanie
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1921101
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: previsão
+  - type: expression
+    designation: predição
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1921101
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 预计
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,140 @@
+---
+termid: 1920603
+term: line of maintenance
+ara:
+  id: 1920603
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: نسق الصيانة
+  - type: expression
+    designation: تناسق الصيانة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920603
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Instandhaltungsstufe
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: Instandhaltungsbereich
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920603
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: line of maintenance
+  - type: expression
+    designation: maintenance echelon
+  definition: position in an organization where specified levels of maintenance are
+    to be carried out
+  language_code: eng
+  notes:
+  - The line of maintenance is characterized by the level of skill of the personnel,
+    the facilities provided, the location, etc.
+  examples:
+  - 1<sup>st</sup> line – field; 2<sup>nd</sup> line – repair shop; and 3<sup>rd</sup>
+    line – manufacturer’s facility.
+  entry_status: Standard
+  authoritative_source:
+    ref: EN 13306
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920603
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: échelon de maintenance
+    gender: m
+    plurality: singular
+  definition: position au sein d’une organisation où des niveaux de maintenance spécifiés
+    doivent être effectués
+  language_code: fre
+  notes:
+  - '1 à l’article: L’échelon de maintenance est caractérisé par le niveau de compétence
+    du personnel, les moyens disponibles, l’emplacement, etc.'
+  examples:
+  - 1<sup>ère</sup> échelon – sur site, 2<sup>ème</sup> échelon – atelier de réparation,
+    3<sup>ème</sup> échelon – chez le constructeur.
+  entry_status: Standard
+  authoritative_source:
+    ref: EN 13306
+  review_decision_event: published
+jpn:
+  id: 1920603
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 保全場所
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920603
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 유지보수 부서
+  - type: expression
+    designation: 유지보수 계층
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920603
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: szczebel obsługiwania
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920603
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: escalão de manutenção
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920603
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 维修作业线
+  - type: expression
+    designation: 维修场所等级
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

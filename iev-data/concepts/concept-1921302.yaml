@@ -1,0 +1,125 @@
+---
+termid: 1921302
+term: predicted value
+ara:
+  id: 1921302
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: لكمية معتمدة;
+    designation: قيمة متنبأة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1921302
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: einer Zuverlässigkeitsgröße
+    designation: Vorhersagewert
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1921302
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: of a dependability quantity;
+    designation: predicted value
+  definition: value of a quantity assessed before it is actually observable, using
+    information related to the same characteristic
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1921302
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: d’une grandeur en sûreté de fonctionnement
+    designation: valeur prévue
+    gender: f
+    plurality: singular
+  definition: valeur d’une grandeur évaluée avant d’être réellement observable, à
+    l’aide d’informations liées à la même caractéristique
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1921302
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: ディペンダビリティ量の;
+    designation: 予測値
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1921302
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 신인성 양;
+    designation: 예측값
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1921302
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: wielkości związanej z niezawodnością
+    designation: wartość prognozowana
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1921302
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: de uma grandeza de dependabilidade;
+    designation: valor predito
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1921302
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 可信性量的;
+    designation: 预计值
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

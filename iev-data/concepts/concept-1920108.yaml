@@ -1,0 +1,135 @@
+---
+termid: 1920108
+term: process
+ara:
+  id: 1920108
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: عملية
+  - type: expression
+    designation: إجراء
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920108
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: im Sinne der Zuverlässigkeit
+    designation: Prozess
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920108
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: in dependability;
+    designation: process
+  definition: set of interrelated or interacting activities that transforms inputs
+    into outputs
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO 9000:2005
+    clause: 3.4.1
+    link: https://www.iso.org/standard/42180.html
+  date_accepted: '2015-10-01T00:00:00+00:00'
+  date_amended: '2015-10-01T00:00:00+00:00'
+  review_date: '2015-10-01T00:00:00+00:00'
+  review_decision_date: '2015-10-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 192-01-08:2015-02
+fre:
+  id: 1920108
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: en sûreté de fonctionnement
+    designation: processus
+    gender: m
+    plurality: singular
+  definition: ensemble d'activités corrélées ou interactives qui transforme des éléments
+    d'entrée en éléments de sortie
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO 9000:2005
+    clause: 3.4.1
+    link: https://www.iso.org/standard/42180.html
+  review_decision_event: published
+jpn:
+  id: 1920108
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: ディペンダビリティの;
+    designation: プロセス
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920108
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 신인성;
+    designation: 과정
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920108
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: w aspekcie niezawodnościowym
+    designation: proces
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920108
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: em dependabilidade;
+    designation: processo
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920108
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 在可靠性中;
+    designation: 过程
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

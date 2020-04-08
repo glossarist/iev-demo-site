@@ -1,0 +1,140 @@
+---
+termid: 1921108
+term: fault tree analysis
+ara:
+  id: 1921108
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: تحليل شجرة الاعطال
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1921108
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Fehlzustandsbaumanalyse
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: Störungsbaumanalyse
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: FTA
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1921108
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fault tree analysis
+  - type: expression
+    designation: FTA
+  definition: deductive analysis using fault trees
+  language_code: eng
+  notes:
+  - See also fault tree ({{192-11-07, IEV:192-11-07}}).
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1921108
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: analyse par arbre de panne
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: AAP
+    gender: f
+    plurality: singular
+  definition: analyse déductive utilisant des arbres de panne
+  language_code: fre
+  notes:
+  - Voir aussi arbre de panne ({{192-11-07, IEV:192-11-07}}).
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+jpn:
+  id: 1921108
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 故障の木解析
+  - type: expression
+    designation: FTA
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1921108
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 고장 트리 분석
+  - type: expression
+    designation: FTA
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1921108
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: analiza drzewa niezdatności
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: FTA
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1921108
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: análise por árvore de avarias
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1921108
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 故障树分析
+  - type: expression
+    designation: FTA
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

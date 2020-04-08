@@ -1,0 +1,14 @@
+---
+termid: 1912407
+term: 영구 정지
+kor:
+  id: 1912407
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 영구 정지
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

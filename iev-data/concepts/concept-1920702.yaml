@@ -1,0 +1,136 @@
+---
+termid: 1920702
+term: maintenance time
+ara:
+  id: 1920702
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: مدة الصيانة
+  - type: expression
+    designation: فترة الصيانة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920702
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Instandhaltungsdauer
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920702
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: maintenance time
+  definition: "duration of maintenance, including active maintenance time, and technical
+    and logistic delays incurred, for a given maintenance action \n\n<simg/>60050-192-F1en/$file/60050-192-F1en.png&gt;\n\nFigure
+    1 – Times related to operation and maintenance"
+  language_code: eng
+  notes:
+  - In some cases, maintenance may be designed to be carried out while the item is
+    functioning.
+  - Maintenance time excludes fault detection time ({{192-07-11, IEV:192-07-11}})
+    and administrative delay ({{192-07-12, IEV:192-07-12}}).
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920702
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: temps de maintenance
+    gender: m
+    plurality: singular
+  definition: |-
+    durée de la maintenance, comprenant le temps de maintenance active et les délais techniques et logistiques inhérents, pour une tâche de maintenance donnée
+
+    <simg/>60050-192-F1fr/$file/60050-192-F1fr.png&gt;
+
+    Figure 1 – Temps liés au fonctionnement et à la maintenance
+  language_code: fre
+  notes:
+  - '1 à l’article: Dans certains cas, la maintenance peut être conçue pour s’effectuer
+    pendant le fonctionnement de l’entité.'
+  - '2 à l’article: Le temps de détection de panne ({{192-07-11, IEV:192-07-11}})
+    et le délai administratif ({{192-07-12, IEV:192-07-12}}) ne sont pas inclus dans
+    le temps de maintenance.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920702
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 保全時間
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920702
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 유지보수 시간
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920702
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: czas trwania obsługiwania
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: czas obsługiwania
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920702
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: tempo de manutenção
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920702
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 维修时间
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

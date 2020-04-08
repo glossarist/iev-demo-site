@@ -1,0 +1,152 @@
+---
+termid: 1031021
+term: geometric optics
+ara:
+  id: 1031021
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: بصريات هندسية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1031021
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: geometrische Optik
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: Strahlenoptik
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1031021
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: geometric optics
+  definition: model, applicable for wavelengths negligible in comparison to other
+    relevant geometrical dimensions, by which the propagation of waves in various
+    media and at their boundaries is determined by using the geometrical concept of
+    rays and not the general theory of waves
+  language_code: eng
+  notes:
+  - '1 to entry: The term “geometric optics” has a historical origin, but the model
+    is used for any kind of waves.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1031021
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: optique géométrique
+    gender: f
+    plurality: singular
+  definition: modèle applicable pour une longueur d'onde négligeable par rapport à
+    d'autres dimensions géométriques pertinentes, par lequel la propagation des ondes
+    dans divers milieux et à leurs frontières, est déterminé au moyen de la notion
+    géométrique de rayon et non au moyen de la théorie générale des ondes
+  language_code: fre
+  notes:
+  - '1 à l''article: Le terme «optique géométrique» a une origine historique, mais
+    le modèle est utilisé pour tout type d’onde.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1031021
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 幾何光学
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1031021
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 기하 광학
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1031021
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: optyka geometryczna
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1031021
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: óptica geométrica
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1031021
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 几何光学
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

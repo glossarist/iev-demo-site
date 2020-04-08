@@ -1,0 +1,138 @@
+---
+termid: 1920913
+term: black-box testing
+ara:
+  id: 1920913
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: اختبار الصندوق الأسود
+  - type: expression
+    designation: اختبار للأداء الموثق
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920913
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Black-Box-Test
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920913
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: black-box testing
+  definition: testing in which test cases are chosen using only knowledge of the functional
+    specification of the item under test
+  language_code: eng
+  notes:
+  - Black-box testing aims to achieve a defined level of coverage of the input domain
+    of the item under test.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920913
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: essai fonctionnel
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: essai par boîte noire
+    gender: m
+    plurality: singular
+  definition: essai au cours duquel des cas d’essai sont choisis uniquement par connaissance
+    de la spécification fonctionnelle de l’entité soumise à essai
+  language_code: fre
+  notes:
+  - '1 à l’article: Les essais fonctionnels ont pour objet d’atteindre un niveau défini
+    de couverture du domaine en entrée de l’entité soumise à essai.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920913
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ブラックボックス試験
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920913
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 흑색상자 시험
+  - type: expression
+    designation: 명제 기반 시험
+  - type: expression
+    designation: 블랙박스 시험
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920913
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: badania funkcjonalne
+    gender: n
+    plurality: plural
+  - type: expression
+    normativeStatus: preferred
+    designation: testowanie na zasadzie "czarnej skrzynki"
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+por:
+  id: 1920913
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ensaio funcional
+  - type: expression
+    designation: ensaio de caixa-preta
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920913
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 黑盒测试
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,133 @@
+---
+termid: 1921021
+term: fault masking
+ara:
+  id: 1921021
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: تخفى العطل
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1921021
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Fehlzustandsmaskierung
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: verdeckter Fehler
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1921021
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fault masking
+  definition: condition in which one fault prevents the detection of another
+  language_code: eng
+  notes:
+  - Fault masking may conceal a progressive loss of redundancy.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO/IEC/IEEE 24765:2010
+    clause: "<i>Systems and software engineering – Vocabulary</i>, 3.1125, modified
+      by addition of Note 1"
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1921021
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: masquage de panne
+    gender: m
+    plurality: singular
+  definition: condition dans laquelle une panne empêche la détection d’une autre
+  language_code: fre
+  notes:
+  - '1 à l’article: Le masquage de panne peut dissimuler une perte progressive de
+    redondance.'
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO/IEC/IEEE 24765:2010
+    clause: "<i>Ingénierie des systèmes et du logiciel – Vocabulaire</i>, 3.1125.
+      Cette source n'existe que dans la langue anglaise."
+  review_decision_event: published
+jpn:
+  id: 1921021
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: フォールトマスキング
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1921021
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 장애 임시 처리
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1921021
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: maskowanie niezdatności
+    gender: n
+    plurality: singular
+  - type: expression
+    designation: zasłanianie niezdatności
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1921021
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: mascaramento de avaria
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1921021
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 故障掩盖
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

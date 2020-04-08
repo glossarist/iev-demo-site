@@ -1,0 +1,160 @@
+---
+termid: 1120124
+term: multiple of a unit
+ara:
+  id: 1120124
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: مضاعف لوحدة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120124
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Vielfaches einer Einheit
+    gender: n
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120124
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: multiple of a unit
+  definition: unit of measurement obtained by multiplying a given unit of measurement
+    by a number greater than one
+  language_code: eng
+  notes:
+  - The kilometre (km) is a decimal multiple of the metre (m). The hour (h) is a non-decimal
+    integer multiple of the second (s). The light year is a non-integer multiple of
+    the metre (in the VIM, only integer multiples are considered).
+  - Multiples of a unit are often named by adding a unit prefix to the name of the
+    unit.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO/IEC GUIDE 99:2007  MOD
+    clause: ISO/IEC GUIDE 99:2007 1.17 MOD
+    link: https://www.iso.org/standard/45324.html
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120124
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: multiple d'une unité
+    gender: m
+    plurality: singular
+  definition: unité de mesure obtenue en multipliant une unité de mesure donnée par
+    un nombre supérieur à un
+  language_code: fre
+  notes:
+  - Le kilomètre (km) est un multiple décimal du mètre (m). L'heure (h) est un multiple
+    non décimal de la seconde (s). L’année de lumière est un multiple non entier du
+    mètre (le VIM ne définit que des multiples entiers).
+  - Les multiples d'une unité sont souvent désignés en ajoutant un préfixe d'unité
+    au nom de l'unité.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO/IEC GUIDE 99:2007  MOD
+    clause: ISO/IEC GUIDE 99:2007 1.17 MOD
+    link: https://www.iso.org/standard/45324.html
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120124
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 倍量単位
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120124
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 단위 배수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120124
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: jednostka wielokrotna
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120124
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: múltiplo de uma unidade
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120124
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 倍数单位
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

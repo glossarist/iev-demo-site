@@ -1,0 +1,15 @@
+---
+termid: 1912102
+term: 신뢰 사건
+kor:
+  id: 1912102
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 전력 계통;
+    designation: 신뢰 사건
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

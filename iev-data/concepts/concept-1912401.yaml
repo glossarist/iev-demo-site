@@ -1,0 +1,14 @@
+---
+termid: 1912401
+term: 계획 정지
+kor:
+  id: 1912401
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 계획 정지
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

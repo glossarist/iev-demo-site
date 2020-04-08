@@ -1,0 +1,132 @@
+---
+termid: 1920711
+term: fault detection time
+ara:
+  id: 1920711
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: زمن اكتشاف العطل
+  - type: expression
+    designation: 'سابقاً: مدة عدم كشف العطل'
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920711
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Fehlzustandserkennungsdauer
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920711
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fault detection time
+  - type: expression
+    normativeStatus: deprecated
+    designation: undetected fault time
+  definition: "time interval between failure and detection of the resulting fault
+    \n\n<simg/>60050-192-F1en/$file/60050-192-F1en.png&gt;\n\nFigure 1 – Times related
+    to operation and maintenance"
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Deprecated
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920711
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: temps de détection de panne
+    gender: m
+    plurality: singular
+  - type: expression
+    normativeStatus: deprecated
+    designation: temps de panne latente
+    gender: m
+    plurality: singular
+  definition: "intervalle de temps entre une défaillance et la détection de la panne
+    qui en résulte \n\n<simg/>60050-192-F1fr/$file/60050-192-F1fr.png&gt;\n\nFigure
+    1 – Temps liés au fonctionnement et à la maintenance"
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Deprecated
+  review_decision_event: published
+jpn:
+  id: 1920711
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: フォールト検出時間
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920711
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 결함 검출 시간
+  - type: expression
+    designation: 결함 탐지 시간
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920711
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: czas wykrywania niezdatności
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920711
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: tempo de deteção de avaria
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920711
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 故障检测时间
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,122 @@
+---
+termid: 1920621
+term: fault correction
+ara:
+  id: 1920621
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: تصحيح العطل
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920621
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Fehlzustandsbehebung
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920621
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fault correction
+  definition: action to correct the fault, after fault localization
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920621
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: correction de panne
+    gender: f
+    plurality: singular
+  definition: opération destinée à corriger la panne après localisation de panne
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920621
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: フォールト是正
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920621
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 결함 교정
+  - type: expression
+    designation: 고장 복구
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920621
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: oprogramowania
+    designation: usuwanie niezdatności
+    gender: n
+    plurality: singular
+  - type: expression
+    usageInfo: oprogramowania
+    designation: usuwanie defektu
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920621
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: correção de avaria
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920621
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 故障修复
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

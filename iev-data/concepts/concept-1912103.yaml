@@ -1,0 +1,18 @@
+---
+termid: 1912103
+term: 보안
+kor:
+  id: 1912103
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 전력 계통;
+    designation: 보안
+  - type: expression
+    usageInfo: 전력 계통;
+    designation: 안전성
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

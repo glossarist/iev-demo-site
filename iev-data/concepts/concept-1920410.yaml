@@ -1,0 +1,139 @@
+---
+termid: 1920410
+term: specification fault
+ara:
+  id: 1920410
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: لبند;
+    designation: خطأ مواصفات،
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920410
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: einer Einheit
+    designation: spezifizierungsbedingter Fehlzustand
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920410
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: of an item;
+    designation: specification fault
+  definition: fault due to inadequate specification
+  language_code: eng
+  notes:
+  - Specification faults arise from mistakes during requirements analysis and definition,
+    resulting in specification documents that do not capture the requirements or implied
+    needs of the user.
+  - A specification fault may be latent.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920410
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: d’une entité
+    designation: panne due à la spécification
+    gender: f
+    plurality: singular
+  definition: panne due à une spécification inadéquate
+  language_code: fre
+  notes:
+  - '1 à l’article: Les pannes dues à la spécification proviennent d’erreurs lors
+    de l’analyse et de la définition des exigences, aboutissant à des documents de
+    spécification qui n’expriment pas les exigences ou les besoins implicites de l’utilisateur.'
+  - '2 à l’article: Une panne due à la spécification peut être latente.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920410
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: アイテムの;
+    designation: 仕様フォールト
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920410
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 품목;
+    designation: 규격 고장
+  - type: expression
+    usageInfo: 품목;
+    designation: 규격 결함
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920410
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: obiektu
+    designation: niezdatność specyfikacyjna
+    gender: f
+    plurality: singular
+  - type: expression
+    usageInfo: obiektu
+    designation: niezdatność wynikająca z niedostatecznej specyfikacji
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920410
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: de um item;
+    designation: avaria devida à especificação
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920410
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 产品的;
+    designation: 规格说明故障
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

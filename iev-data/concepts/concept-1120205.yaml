@@ -1,0 +1,163 @@
+---
+termid: 1120205
+term: metre
+ara:
+  id: 1120205
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: متر
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120205
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Meter
+    gender: n
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120205
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: metre
+  - type: expression
+    normativeStatus: preferred
+    designation: meter
+    geographicalArea: US
+  - type: symbol
+    designation: m
+    international: true
+  definition: SI unit of length, equal to the length of the path travelled by light
+    in vacuum during a duration of 1/299 792 458 of a second
+  language_code: eng
+  notes:
+  - In the CGPM definition in English, "time interval" is used instead of "duration".
+    However the two terms correspond to different concepts (see {{IEV 113-01-10, IEV:113-01-10}}
+    and {{IEV 113-01-13, IEV:113-01-13}}).
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+    ref: CGPM
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120205
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: mètre
+    gender: m
+    plurality: singular
+  definition: unité SI de longueur, égale à la longueur du trajet parcouru dans le
+    vide par la lumière pendant une durée de 1/299 792 458 de seconde
+  language_code: fre
+  notes:
+  - Dans la définition de la CGPM en anglais, «time interval» est utilisé à la place
+    de «duration». Les termes «intervalle de temps» et «durée» correspondent toutefois
+    à des concepts différents (voir {{IEV 113-01-10, IEV:113-01-10}} and {{IEV 113-01-13,
+    IEV:113-01-13}}).
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: CGPM
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120205
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: メートル
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120205
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 미터
+  - type: expression
+    designation: 미터
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120205
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: metr
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120205
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: metro
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120205
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 米
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

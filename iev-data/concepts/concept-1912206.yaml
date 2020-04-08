@@ -1,0 +1,18 @@
+---
+termid: 1912206
+term: 경계 상태
+kor:
+  id: 1912206
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 전력 계통;
+    designation: 경계 상태
+  - type: expression
+    usageInfo: 전력 계통;
+    designation: 취약 상태
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

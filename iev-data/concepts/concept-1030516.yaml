@@ -1,0 +1,155 @@
+---
+termid: 1030516
+term: local minimum
+ara:
+  id: 1030516
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: صغرى محلية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030516
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: lokales Minimum
+    gender: n
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: Minimum
+    gender: n
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030516
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: local minimum
+  definition: property of a function $$f ( t )$$ for a value $$t$$<sub>0</sub> of
+    its argument, characterised by the existence of a positive number $$$$ such that
+    $$f ( t_0 ) f ( t )$$ for any $$t$$ with $$0 | t - t_0 | epsilon$$
+  language_code: eng
+  notes:
+  - '1 to entry: If the condition $$f ( t_0 ) f ( t )$$ is replaced with $$f ( t_0
+    ) &lt;= f ( t )$$, the property may occur for an interval of values of the argument.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030516
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: minimum local
+    gender: m
+    plurality: singular
+  definition: propriété d'une fonction $$f ( t )$$ pour une valeur $$t$$<sub>0</sub>
+    de son argument, caractérisée par l'existence d'un nombre positif $$$$ tel que
+    $$f ( t_0 ) f ( t )$$ pour tout $$t$$ tel que $$0 | t - t_0 | epsilon$$
+  language_code: fre
+  notes:
+  - '1 à l''article: Si la condition $$f ( t_0 ) f ( t )$$ est remplacée par $$f (
+    t_0 ) &lt;= f ( t )$$, la propriété peut exister dans un intervalle de valeurs
+    de l''argument.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030516
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 局所の極小
+  - type: expression
+    normativeStatus: preferred
+    designation: 極小
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030516
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 국부 극소
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030516
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: minimum lokalne
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030516
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: mínimo local
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030516
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 局部极小
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

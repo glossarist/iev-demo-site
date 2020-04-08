@@ -1,0 +1,14 @@
+---
+termid: 1913002
+term: 등가 평균 중단 지속 시간
+kor:
+  id: 1913002
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 등가 평균 중단 지속 시간
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

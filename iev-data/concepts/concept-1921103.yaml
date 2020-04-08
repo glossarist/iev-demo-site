@@ -1,0 +1,128 @@
+---
+termid: 1921103
+term: reliability block diagram
+ara:
+  id: 1921103
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: مجموعة رسم تخطيطى للإعتمادية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1921103
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Zuverlässigkeitsblockdiagramm
+    gender: n
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1921103
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: reliability block diagram
+  - type: expression
+    designation: RBD
+  definition: logical, graphical representation of a system showing how reliability
+    of its sub items (represented by blocks) and combinations thereof, affect reliability
+    of the system
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1921103
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: diagramme de fiabilité
+    gender: m
+    plurality: singular
+  definition: représentation graphique logique d’un système montrant dans quelle mesure
+    la fiabilité des sous-entités (représentées par des blocs) et leurs combinaisons
+    peuvent affecter la fiabilité du système
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1921103
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 信頼性ブロック図
+  - type: expression
+    designation: RBD
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1921103
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 신뢰도 블록도
+  - type: expression
+    designation: RBD
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1921103
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: schemat blokowy niezawodności
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: RBD
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1921103
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: diagrama de fiabilidade
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1921103
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 可靠性框图
+  - type: expression
+    designation: RBD
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

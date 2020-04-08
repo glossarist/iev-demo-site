@@ -1,0 +1,14 @@
+---
+termid: 1912508
+term: 독립 다중 정지 발생
+kor:
+  id: 1912508
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 독립 다중 정지 발생
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

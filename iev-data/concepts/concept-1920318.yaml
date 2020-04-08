@@ -1,0 +1,124 @@
+---
+termid: 1920318
+term: common cause failures
+ara:
+  id: 1920318
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: فشل لأسباب عمومية
+  - type: expression
+    designation: فشل لأسباب مشتركة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920318
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Ausfälle aufgrund gemeinsamer Ursache
+    gender: m
+    plurality: plural
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920318
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: common cause failures
+  definition: failures of multiple items, which would otherwise be considered independent
+    of one another, resulting from a single cause
+  language_code: eng
+  notes:
+  - Common cause failures can also be "common mode failures" ({{IEV 192-03-19, IEV:192-03-19}}).
+  - The potential for common cause failures reduces the effectiveness of system redundancy.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920318
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: défaillances de cause commune
+    gender: f
+    plurality: plural
+  definition: défaillances de différentes entités, qui résultent d’une cause unique,
+    mais auraient pu être considérées comme indépendantes
+  language_code: fre
+  notes:
+  - '1 à l’article: Les défaillances de cause commune peuvent également être des "défaillances
+    de mode commun" ({{IEV 192-03-19, IEV:192-03-19}}).'
+  - '2 à l’article: L’éventualité de défaillances de cause commune réduit l’efficacité
+    de la redondance du système.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920318
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 共通原因故障
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920318
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 공통 원인 고장
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920318
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: uszkodzenia o wspólnej przyczynie
+    gender: n
+    plurality: plural
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920318
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: falhas de causa comum
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920318
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 共因失效
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

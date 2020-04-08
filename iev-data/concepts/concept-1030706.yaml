@@ -1,0 +1,160 @@
+---
+termid: 1030706
+term: phase difference
+ara:
+  id: 1030706
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: اختلاف طور
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030706
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Phasenverschiebungswinkel
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030706
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: phase difference
+  - type: symbol
+    designation: "$$$$"
+    international: true
+  definition: for two sinusoidal quantities of the same frequency in a given order,
+    difference between their initial phases with possible addition of a multiple of
+    2 so that the difference is greater than  and not greater than
+  language_code: eng
+  notes:
+  - '1 to entry: For the quantities $$a^( '' ) ( t ) = hat A^( '' ) cos ( omega  
+    t + vartheta^( '' )_0 )$$ and $$a^( ″ ) ( t ) = hat A^( ″ ) cos ( omega   t +
+    vartheta^( ″ )_0 )$$, the phase difference is $$varphi = vartheta^( ″ )_0 - vartheta^(
+    '' )_0 + 2 pi n$$, where $$n$$ is an integer, chosen so that $$- pi varphi &lt;=
+    pi$$.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030706
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: différence de phase
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: déphasage
+    gender: m
+    plurality: singular
+  definition: pour deux grandeurs sinusoïdales de même fréquence prises dans un ordre
+    donné, différence entre leurs phases à l'origine, avec addition éventuelle d'un
+    multiple de 2 de façon que cette différence soit supérieure à  et inférieure ou
+    égale à
+  language_code: fre
+  notes:
+  - '1 à l''article: Pour les grandeurs $$a^( '' ) ( t ) = hat A^( '' ) cos ( omega
+      t + vartheta^( '' )_0 )$$ et $$a^( ″ ) ( t ) = hat A^( ″ ) cos ( omega   t +
+    vartheta^( ″ )_0 )$$, la différence de phase est $$varphi = vartheta^( ″ )_0 -
+    vartheta^( '' )_0 + 2 pi n$$, où $$n$$ est un entier choisi de telle sorte que
+    $$- pi varphi &lt;= pi$$.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030706
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 位相差
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030706
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 위상차
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030706
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: przesunięcie fazowe
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030706
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: diferença de fase
+  - type: expression
+    designation: desfasagem
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030706
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 相位差
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

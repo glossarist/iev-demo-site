@@ -1,0 +1,128 @@
+---
+termid: 1920206
+term: non-operating state
+ara:
+  id: 1920206
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: لبند;
+    designation: حالة عدم التشغيل،
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920206
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: einer Einheit
+    designation: Nichtbetriebszustand
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: nicht in Betrieb
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920206
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: of an item;
+    designation: non-operating state
+  definition: state of not performing any required function
+  language_code: eng
+  notes:
+  - The adjective “non-operating” designates an item in a non-operating state.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920206
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: d’une entité
+    designation: état de non-fonctionnement
+    gender: m
+    plurality: singular
+  definition: état ne permettant pas de réaliser une fonction requise quelconque
+  language_code: fre
+  notes:
+  - '1 à l’article: Le terme «en non-fonctionnement» qualifie une entité dans un état
+    de non-fonctionnement.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920206
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: アイテムの;
+    designation: 非動作状態
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920206
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 품목;
+    designation: 비작동 상태
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920206
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: obiektu
+    designation: stan niedziałania
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920206
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: de um item;
+    designation: estado de não funcionamento
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920206
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 产品的;
+    designation: 非工作状态
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

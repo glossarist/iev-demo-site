@@ -1,0 +1,123 @@
+---
+termid: 1920203
+term: accumulated up time
+ara:
+  id: 1920203
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: الوقت التراكمي اللازم
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920203
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: akkumulierte Klardauer
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920203
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: accumulated up time
+  definition: sum of the individual up time durations within a given time interval
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920203
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: durée cumulée de disponibilité
+    gender: f
+    plurality: singular
+  definition: somme des durées de disponibilité individuelles dans un intervalle de
+    temps donné
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920203
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 累積アップ時間
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920203
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 누적 가동 시간
+  - type: expression
+    designation: 누적 동작 가능 시간
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920203
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: czas zdatności sumaryczny
+    gender: m
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: czas zdatności skumulowany
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+por:
+  id: 1920203
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: duração acumulada de disponibilidade
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920203
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 累计可用时间
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

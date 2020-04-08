@@ -1,0 +1,153 @@
+---
+termid: 1030106
+term: function of $$n$$ variables
+ara:
+  id: 1030106
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: متغيرات n دالة فى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030106
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Funktion von $$n$$ Variablen
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: Funktion mehrerer Veränderlicher
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030106
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: function of $$n$$ variables
+  definition: function for which the argument is an ordered set of $$n$$ numbers or
+    scalar quantities
+  language_code: eng
+  notes:
+  - '1 to entry: The value of the function $$f$$ of $$n$$ variables $$x_1 ,   x_2
+    ,   ... ,   x_n$$ is denoted by $$f ( x_1 ,   x_2 ,   ... ,   x_n )$$.'
+  - '2 to entry: In many practical applications in electrotechnology, functions of
+    one variable are used. This variable is often the duration and the function is
+    then called "function of time" and denoted by $$f$$($$t$$). But the variables
+    may also be space variables (e.g. coordinates), frequency, etc.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030106
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fonction de $$n$$ variables
+    gender: f
+    plurality: singular
+  definition: fonction dont l'argument est un ensemble ordonné de $$n$$ nombres ou
+    grandeurs scalaires
+  language_code: fre
+  notes:
+  - '1 à l''article: La valeur d''une fonction $$f$$ de $$n$$ variables $$x_1 ,  
+    x_2 ,   ... ,   x_n$$ est notée $$f ( x_1 ,   x_2 ,   ... ,   x_n )$$.'
+  - '2 à l''article: Dans de nombreuses applications en électrotechnique, on utilise
+    des fonctions d''une seule variable. Cette variable est souvent la durée et la
+    fonction est alors appelée «fonction du temps» et notée $$f$$($$t$$). Mais les
+    variables peuvent aussi être des variables spatiales (par exemple des coordonnées),
+    la fréquence, etc.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030106
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: "$$n$$変数の関数"
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030106
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: "$$n$$ 변수함수"
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030106
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: funkcja $$n$$ zmiennych
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030106
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: função de $$n$$ variáveis
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030106
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: n个自变量的函数
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

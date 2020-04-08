@@ -1,0 +1,153 @@
+---
+termid: 1031009
+term: wave vector
+ara:
+  id: 1031009
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: متجه الموجة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1031009
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Wellenvektor
+    gender: m
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: Wellenzahlvektor
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1031009
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: wave vector
+  - type: symbol
+    designation: "<b>$$k$$</b>"
+    international: true
+  definition: "vector \n\n$$k$$"
+  language_code: eng
+  notes:
+  - '1 to entry: The wave vector is normal to the wave front and its magnitude is
+    the angular wavenumber.'
+  - '2 to entry: This concept can be generalized to complex wave vector in order to
+    take attenuation in account (see IEC 60050-705).'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1031009
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: vecteur d'onde
+    gender: m
+    plurality: singular
+  definition: "vecteur \n\n$$k$$"
+  language_code: fre
+  notes:
+  - '1 à l''article: Le vecteur d''onde est normal à la surface d''onde et sa norme
+    est le nombre d''onde angulaire.'
+  - '2 à l''article: Le concept peut être généralisé à un vecteur d''onde complexe
+    pour tenir compte de l''affaiblissement (voir IEC 60050-705).'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1031009
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 波動ベクトル
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1031009
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 파동 벡터
+  - type: expression
+    designation: 파 벡터
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1031009
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: wektor fali
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1031009
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: vector de onda
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1031009
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 波向量
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

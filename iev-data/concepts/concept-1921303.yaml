@@ -1,0 +1,167 @@
+---
+termid: 1921303
+term: expectation
+ara:
+  id: 1921303
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: لمتغير عشوائى;
+    designation: التوقع
+  - type: expression
+    usageInfo: لمتغير عشوائى;
+    designation: متوسط
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1921303
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: einer Zufallsvariablen
+    designation: Erwartungswert
+    gender: m
+    plurality: singular
+  - type: expression
+    usageInfo: "&lt"
+    designation: Mittelwert
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1921303
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: of a random variable;
+    designation: expectation
+  - type: expression
+    usageInfo: of a random variable;
+    designation: mean
+  definition: "1) for a discrete random variable $$X$$ taking the values <i>x<sub>i</sub></i>
+    with the probabilities <i>p<sub>i</sub></i>, the sum $$E$$($$X$$) = <i>\n  <sub>i</sub>\n</i>
+    <i>p<sub>i</sub>x<sub>i</sub></i> extended to all values <i>x<sub>i</sub></i>
+    which can be taken by $$X$$  \n\n2) for a continuous random variable $$X$$ having
+    the probability density function $$f$$($$x$$), the value of the integral $$E$$($$X$$) = <i>xf(x)</i>d$$x$$"
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: IEC 60050-103:2009
+    clause: 103-08-10
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1921303
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: d'une variable aléatoire
+    designation: espérance mathématique
+    gender: f
+    plurality: singular
+  - type: expression
+    usageInfo: d'une variable aléatoire
+    designation: espérance
+    gender: f
+    plurality: singular
+  - type: expression
+    usageInfo: d'une variable aléatoire
+    designation: moyenne
+    gender: f
+    plurality: singular
+  definition: "1) pour une variable aléatoire discrète $$X$$ prenant les valeurs $$x$$<sub>i</sub>
+    avec les probabilités $$p$$<sub>i</sub>, somme $$E$$($$X$$) = <i>\n  <sub>i</sub>\n</i>
+    <i>p<sub>i</sub>x<sub>i</sub></i> étendue à toutes les valeurs $$x$$<sub>i</sub>
+    susceptibles d'être prises par $$X$$ \n\n2) pour une variable aléatoire continue
+    $$X$$ de densité de probabilité $$f$$($$x$$), valeur de l'intégrale $$E$$($$X$$) = <i>xf(x)</i>d$$x$$"
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: IEC 60050-103:2009
+    clause: 103-08-10
+  review_decision_event: published
+jpn:
+  id: 1921303
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 確率変数の;
+    designation: 期待値
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1921303
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 확률변수;
+    designation: 기댓값
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1921303
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: zmiennej losowej
+    designation: wartość oczekiwana
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1921303
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: de uma variável aleatória;
+    designation: esperança matemática
+  - type: expression
+    usageInfo: de uma variável aleatória;
+    designation: esperança
+  - type: expression
+    usageInfo: de uma variável aleatória;
+    designation: média
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1921303
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 随机变量的;
+    designation: 期望值
+  - type: expression
+    usageInfo: 随机变量的;
+    designation: 均值
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

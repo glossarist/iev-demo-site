@@ -1,0 +1,175 @@
+---
+termid: 1030518
+term: global minimum value
+ara:
+  id: 1030518
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: القيمة الصغرى العامة
+  - type: expression
+    designation: قيمة صغرى أو قاع
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030518
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: globaler Minimalwert
+    gender: m
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: Talwert
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030518
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: global minimum value
+  - type: expression
+    designation: valley value
+  definition: smallest value of a function in a given interval of values of its argument
+  language_code: eng
+  notes:
+  - '1 to entry: For a periodic function, the given interval has a range equal to
+    the period.'
+  - '2 to entry: The term valley value is mostly used for the global minimum value
+    of a function of time.'
+  - '3 to entry: A global minimum value of function $$f$$ is denoted by $$f_v$$ or
+    $$overset(⌣)(overset(⌣)(f))$$.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030518
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: valeur minimale globale
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: valeur de creux
+    gender: f
+    plurality: singular
+  definition: plus petite valeur d'une fonction dans un intervalle donné de valeurs
+    de son argument
+  language_code: fre
+  notes:
+  - '1 à l''article: Dans le cas d''une fonction périodique, l''intervalle donné a
+    une étendue égale à la période.'
+  - '2 à l''article: Le terme valeur de creux est surtout employé pour la valeur minimale
+    globale d''une fonction du temps.'
+  - '3 à l''article: Une valeur minimale globale de la fonction $$f$$ est notée $$f_v$$
+    ou $$overset(⌣)(overset(⌣)(f))$$.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030518
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 全体の極小値
+  - type: expression
+    normativeStatus: preferred
+    designation: 最低値
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030518
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 전역 최소값
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030518
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: wartość siodłowa
+  - type: expression
+    designation: wartość minimalna globalna
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030518
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: valor mínimo global
+  - type: expression
+    designation: valor de cava
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030518
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 全局极小值
+  - type: expression
+    normativeStatus: preferred
+    designation: 谷值
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

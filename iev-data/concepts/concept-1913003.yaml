@@ -1,0 +1,14 @@
+---
+termid: 1913003
+term: 등가 최대 중단 지속 시간
+kor:
+  id: 1913003
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 등가 최대 중단 지속 시간
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

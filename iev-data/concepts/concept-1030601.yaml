@@ -1,0 +1,153 @@
+---
+termid: 1030601
+term: period
+ara:
+  id: 1030601
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: دورة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030601
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Periode
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030601
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: period
+  - type: symbol
+    designation: "$$T$$"
+    international: true
+  definition: smallest positive difference between two values of the independent variable
+    at which the values of a periodic quantity are identically repeated
+  language_code: eng
+  notes:
+  - '1 to entry: If $$f ( t )$$ denotes a periodic quantity, then $$f ( t + T ) =
+    f ( t )$$.'
+  - '2 to entry: The term "period duration" is sometimes used in the case of a function
+    of time.'
+  - '3 to entry: The symbol $$T$$ is mainly used for the period when the independent
+    variable is time.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030601
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: période
+    gender: f
+    plurality: singular
+  definition: différence positive minimale entre deux valeurs de la variable indépendante
+    pour lesquelles se reproduisent identiquement les valeurs d'une grandeur périodique
+  language_code: fre
+  notes:
+  - '1 à l''article: Si $$f ( t )$$ représente une grandeur périodique, on a $$f (
+    t + T ) = f ( t )$$.'
+  - '2 à l''article: En anglais, le terme «period duration» est parfois utilisé pour
+    une fonction du temps.'
+  - '3 à l''article: Le symbole $$T$$ est utilisé principalement pour représenter
+    la période lorsque la variable indépendante est le temps.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030601
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 周期
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030601
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 주기
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030601
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: okres
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030601
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: período
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030601
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 周期
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

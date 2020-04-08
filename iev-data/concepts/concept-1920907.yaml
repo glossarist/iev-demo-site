@@ -1,0 +1,119 @@
+---
+termid: 1920907
+term: endurance test
+ara:
+  id: 1920907
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: اختبار التحمل
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920907
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Dauerprüfung
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920907
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: endurance test
+  definition: procedure carried out to investigate how the properties of the item
+    are affected by the duration or repeated application of stated stresses
+  language_code: eng
+  notes:
+  - See also life test ({{192-09-17, IEV:192-09-17}}).
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920907
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: essai d’endurance
+    gender: m
+    plurality: singular
+  definition: procédure exécutée afin de déterminer dans quelle mesure les propriétés
+    d’une entité sont affectées par la durée ou l’application répétée de contraintes
+    fixées
+  language_code: fre
+  notes:
+  - '1 à l’article: Voir aussi essai de durée de vie ({{192-09-17, IEV:192-09-17}}).'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920907
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 耐久試験
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920907
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 내구 시험
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920907
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: badanie wpływu narażeń
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920907
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ensaio de endurância
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920907
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 耐久性试验
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

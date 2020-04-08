@@ -1,0 +1,146 @@
+---
+termid: 1030731
+term: harmonic content
+ara:
+  id: 1030731
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: المحتوى التوافقى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030731
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Oberschwingungsanteil
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030731
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: harmonic content
+  definition: difference between an alternating quantity and its fundamental component
+  language_code: eng
+  notes:
+  - '1 to entry: When a reference fundamental component is defined, it is used in
+    place of the fundamental component. In this case, the term "harmonic content"
+    is sometimes restricted to the sum of harmonic components, and the term "total
+    distortion content" is used for the concept defined here.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030731
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: résidu harmonique
+    gender: m
+    plurality: singular
+  definition: différence entre une grandeur alternative et son fondamental
+  language_code: fre
+  notes:
+  - '1 à l''article: Lorsqu''une composante fondamentale de référence est définie,
+    elle est utilisée à la place du fondamental. Dans ce cas, le terme «résidu harmonique»
+    est quelquefois limité à la somme des harmoniques et le terme «résidu total de
+    distorsion» est utilisé pour le concept défini ici.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030731
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 高調波成分
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030731
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 고조파 함유량
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030731
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: pozostałość harmoniczna
+  - type: expression
+    designation: zawartość harmonicznych
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030731
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: resíduo harmónico
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030731
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 谐波含量
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

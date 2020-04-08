@@ -1,0 +1,138 @@
+---
+termid: 1030807
+term: probability distribution
+ara:
+  id: 1030807
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: توزيع احتمالى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030807
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Wahrscheinlichkeitsverteilung
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030807
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: probability distribution
+  definition: function giving the probability that a random variable takes any given
+    value or belongs to a given set of values
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030807
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: loi de probabilité
+    gender: f
+    plurality: singular
+  definition: fonction déterminant la probabilité qu'une variable aléatoire prenne
+    une valeur donnée quelconque ou appartienne à un ensemble donné de valeurs
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030807
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 確率分布
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030807
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 확률 분포
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030807
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: rozkład prawdopodobieństwa
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030807
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: distribuição de probabilidade
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030807
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 概率分布
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

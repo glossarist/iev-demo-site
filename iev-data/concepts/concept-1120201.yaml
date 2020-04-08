@@ -1,0 +1,178 @@
+---
+termid: 1120201
+term: International System of Quantities
+ara:
+  id: 1120201
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: كميات نظام عالمية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120201
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Internationales Größensystem
+    gender: n
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: ISQ
+    gender: n
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120201
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: International System of Quantities
+  - type: expression
+    designation: ISQ
+  definition: 'system of quantities based on the seven base quantities: length, mass,
+    time, electric current, thermodynamic temperature, amount of substance, and luminous
+    intensity'
+  language_code: eng
+  notes:
+  - The International System of Quantities is published in the International Standard
+    ISO/IEC 80000, Quantities and units.
+  - The International System of Units (SI) is based on the ISQ.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO/IEC GUIDE 99:2007
+    clause: '1.6'
+    link: https://www.iso.org/standard/45324.html
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120201
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Système international de grandeurs
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: ISQ
+    gender: "(sigle"
+    plurality: singular
+  definition: 'système de grandeurs fondé sur les sept grandeurs de base: longueur,
+    masse, temps, courant électrique, température thermodynamique, quantité de matière,
+    intensité lumineuse'
+  language_code: fre
+  notes:
+  - Le Système international de grandeurs est publié dans la Norme internationale
+    ISO/CEI 80000, Grandeurs et unités.
+  - Le Système international d'unités (SI) est fondé sur l'ISQ.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO/IEC GUIDE 99:2007
+    clause: '1.6'
+    link: https://www.iso.org/standard/45324.html
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120201
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 国際量体系
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120201
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 국제 양 체계
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120201
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Międzynarodowy Układ Wielkości
+  - type: expression
+    normativeStatus: preferred
+    designation: ISQ (akronim)
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120201
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Sistema Internacional de Grandezas
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120201
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 国际量制
+  - type: expression
+    normativeStatus: preferred
+    designation: ISQ
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

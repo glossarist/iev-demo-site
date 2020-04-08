@@ -1,0 +1,123 @@
+---
+termid: 1920322
+term: software failure
+ara:
+  id: 1920322
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: فشل البرمجيات
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920322
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Softwareausfall
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920322
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: software failure
+  definition: failure that is a manifestation of a dormant software fault
+  language_code: eng
+  notes:
+  - Such a software failure will recur until the software fault responsible is removed.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920322
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: défaillance logicielle
+    gender: f
+    plurality: singular
+  definition: défaillance qui est une manifestation d’une panne logicielle dormante
+  language_code: fre
+  notes:
+  - '1 à l’article: Une telle panne logicielle se reproduira jusqu’à suppression de
+    la panne logicielle responsable.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920322
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ソフトウェア故障
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920322
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 소프트웨어 장애
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920322
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: uszkodzenie oprogramowania
+    gender: n
+    plurality: singular
+  - type: expression
+    designation: uszkodzenie wskutek błędu oprogramowania
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920322
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: falha do software
+  - type: expression
+    designation: falha do logicial
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920322
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 软件失效
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

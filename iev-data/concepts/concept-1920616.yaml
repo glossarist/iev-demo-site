@@ -1,0 +1,127 @@
+---
+termid: 1920616
+term: adaptive maintenance
+ara:
+  id: 1920616
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: للبرمجيات;
+    designation: صيانة متوائمة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920616
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: von Software
+    designation: adaptive Wartung
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920616
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: of software;
+    designation: adaptive maintenance
+  definition: software maintenance for the purposes of adaptation to a new environment
+  language_code: eng
+  notes:
+  - An example of a new environment could be a new type of hardware on which the software
+    is to be run.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920616
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: de logiciel
+    designation: maintenance adaptative
+    gender: f
+    plurality: singular
+  definition: maintenance permettant d’adapter un logiciel à un nouvel environnement
+  language_code: fre
+  notes:
+  - '1 à l’article: Un nouvel environnement peut être, par exemple, un nouveau type
+    de matériel sur lequel le logiciel doit être exécuté.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920616
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: ソフトウェアの;
+    designation: 適応保全
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920616
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 소프트웨어;
+    designation: 적응 유지보수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920616
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: oprogramowania
+    designation: utrzymanie adaptacyjne
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920616
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: de software;
+    designation: manutenção adaptativa
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920616
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 软件的;
+    designation: 适应性维护
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

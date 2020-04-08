@@ -1,0 +1,115 @@
+---
+termid: 1920209
+term: non-required time
+ara:
+  id: 1920209
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: الفترة الغير مطلوبة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920209
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Betriebspause
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920209
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: non-required time
+  definition: time interval for which the item is not required to be in an up state
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920209
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: période non requise
+    gender: f
+    plurality: singular
+  definition: intervalle de temps pendant lequel il n’est pas exigé que l’entité soit
+    dans un état de disponibilité
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920209
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 機能不要求時間
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920209
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 불필요 시간
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920209
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: czas niewymagany
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920209
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: tempo não requerido
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920209
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 无要求的时间
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

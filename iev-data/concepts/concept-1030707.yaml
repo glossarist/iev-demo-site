@@ -1,0 +1,148 @@
+---
+termid: 1030707
+term: phase lead
+ara:
+  id: 1030707
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: طور متقدم
+  - type: expression
+    designation: تقدم
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030707
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Phasen-Voreilwinkel
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030707
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: phase lead
+  - type: expression
+    designation: lead
+  definition: positive phase difference
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030707
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: avance de phase
+    gender: f
+    plurality: singular
+  definition: différence de phase positive
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030707
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 位相の進み
+  - type: expression
+    normativeStatus: preferred
+    designation: 進み
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030707
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 위상 도입부
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030707
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: wyprzedzenie fazowe
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030707
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: avanço de fase
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030707
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 相位超前
+  - type: expression
+    normativeStatus: preferred
+    designation: 超前
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

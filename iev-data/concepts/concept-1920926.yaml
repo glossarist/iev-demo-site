@@ -1,0 +1,116 @@
+---
+termid: 1920926
+term: software trial
+ara:
+  id: 1920926
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: التشغيل التجريبى للبرنامج
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920926
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Softwaretrial
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920926
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: software trial
+  definition: programme of tests, under representative operational conditions, to
+    check that a software item meets the real needs of users
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920926
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: essai logiciel
+    gender: m
+    plurality: singular
+  definition: programme d’essais, dans des conditions de fonctionnement réalistes,
+    visant à vérifier qu’un produit logiciel répond aux véritables besoins des utilisateurs
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920926
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ソフトウェア試行
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920926
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 소프트웨어 시도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920926
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: test oprogramowania
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920926
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ensaio do software
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920926
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 软件试用
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

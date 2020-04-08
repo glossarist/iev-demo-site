@@ -1,0 +1,14 @@
+---
+termid: 1912406
+term: 지속 정지
+kor:
+  id: 1912406
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 지속 정지
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

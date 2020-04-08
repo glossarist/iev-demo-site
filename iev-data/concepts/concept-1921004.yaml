@@ -1,0 +1,130 @@
+---
+termid: 1921004
+term: standby redundancy
+ara:
+  id: 1921004
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: وفرة احتياطية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1921004
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: nicht funktionsbeteiligte Redundanz
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: passive Redundanz
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1921004
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: standby redundancy
+  definition: redundancy wherein a redundant item is activated only when the active
+    item is unavailable
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1921004
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: redondance passive
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: redondance en attente
+    gender: f
+    plurality: singular
+  definition: redondance telle qu’une entité redondante n’est activée que lorsque
+    l’entité active est indisponible
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1921004
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 待機冗長
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1921004
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 대기 중복성
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1921004
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: redundancja pasywna
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: redundancja bierna
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1921004
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: redundância passiva
+  - type: expression
+    designation: redundância de reserva
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1921004
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 备用冗余
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

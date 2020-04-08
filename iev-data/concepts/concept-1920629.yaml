@@ -1,0 +1,120 @@
+---
+termid: 1920629
+term: remote maintenance
+ara:
+  id: 1920629
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: صيانة عن بعد
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920629
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Fernwartung
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920629
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: remote maintenance
+  definition: maintenance performed without direct personnel access to the item
+  language_code: eng
+  notes: []
+  examples:
+  - Maintenance carried out using remote controlled equipment; software maintenance
+    conducted via a communications network.
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920629
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: télémaintenance
+    gender: f
+    plurality: singular
+  definition: maintenance réalisée sans accès direct du personnel à l’entité
+  language_code: fre
+  notes: []
+  examples:
+  - Maintenance effectuée à l’aide d’appareils télécommandés; maintenance logicielle
+    réalisée par l’intermédiaire d’un réseau de télécommunication.
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920629
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 遠隔保全
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920629
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 원격 유지보수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920629
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: obsługiwanie zdalne
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920629
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: telemanutenção
+  - type: expression
+    designation: manutenção remota
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920629
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 远程维修
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,142 @@
+---
+termid: 1031028
+term: standing wave
+ara:
+  id: 1031028
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: موجة مستقرة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1031028
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: stehende Welle
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1031028
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: standing wave
+  definition: result of the superposition of two travelling waves of the same frequency
+    and amplitude propagating in opposite directions
+  language_code: eng
+  notes:
+  - '1 to entry: A standing wave can be represented by the product of a real function
+    of time and a real function of space coordinates.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1031028
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: onde stationnaire
+    gender: f
+    plurality: singular
+  definition: résultat de la superposition de deux ondes de même fréquence et même
+    amplitude se propageant en sens inverse
+  language_code: fre
+  notes:
+  - '1 à l''article: Une onde stationnaire peut être représentée par le produit d''une
+    fonction réelle du temps et d''une fonction réelle des coordonnées spatiales.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1031028
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 定在波
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1031028
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 정재파
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1031028
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fala stojąca
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1031028
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: onda estacionária
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1031028
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 驻波
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

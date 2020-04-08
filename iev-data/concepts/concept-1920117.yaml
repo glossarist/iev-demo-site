@@ -1,0 +1,140 @@
+---
+termid: 1920117
+term: verification
+ara:
+  id: 1920117
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: تحقق
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920117
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Verifizierung
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920117
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: verification
+  definition: confirmation, through the provision of objective evidence, that specified
+    requirements have been fulfilled
+  language_code: eng
+  notes:
+  - The term “verified” is used to designate the corresponding status.
+  - Design verification is the application of tests and appraisals to assess conformity
+    of a design to the specified requirement.
+  - In the case of software, verification is conducted at various stages of development,
+    examining the software and its constituents to determine conformity to the requirements
+    specified at the beginning of that stage.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO 9000:2005
+    clause: 3.8.4, modified – Note 2 has been modified and Note 3 has been added
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920117
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: vérification
+    gender: f
+    plurality: singular
+  definition: confirmation par des preuves tangibles que les exigences spécifiées
+    ont été satisfaites
+  language_code: fre
+  notes:
+  - '1 à l’article: Le terme «vérifié» qualifie l’état correspondant.'
+  - '2 à l’article: La vérification de conception est l’application d’essais et d’évaluations
+    afin d’estimer la conformité aux exigences spécifiées.'
+  - '3 à l’article: Dans le cas des logiciels, la vérification est menée à différents
+    stades du développement, en examinant le logiciel et ses composants afin de déterminer
+    la conformité aux exigences spécifiées au début de ce stade.'
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO 9000:2005
+    clause: 3.8.4, modifié – La Note 2 a été modifiée et la Note 3 a été ajoutée
+  review_decision_event: published
+jpn:
+  id: 1920117
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 適合確認
+  - type: expression
+    designation: 検証
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920117
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 검증
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920117
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: weryfikacja
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: sprawdzenie
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920117
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: verificação
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920117
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 验证
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

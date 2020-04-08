@@ -1,0 +1,160 @@
+---
+termid: 1030304
+term: signum
+ara:
+  id: 1030304
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: "….."
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030304
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Signumfunktion
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: Signum
+    gender: n
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030304
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: signum
+  - type: symbol
+    designation: sgn
+    international: true
+  definition: function of a real variable equal to –1 for all negative values of the
+    variable, +1 for all positive values and 0 for the zero value
+  language_code: eng
+  notes:
+  - '1 to entry: The signum can be generalized to complex variables as $$sgn   underset(_)(z)
+    = (( underset(_)(z) ))/(( | underset(_)(z) |))$$ for $$z != 0$$ and $$sgn   0
+    = 0$$.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030304
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: signum
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: fonction signe
+    gender: f
+    plurality: singular
+  definition: fonction d'une variable réelle ayant la valeur –1 pour toute valeur
+    négative de la variable, +1 pour toute valeur positive et 0 lorsque la variable
+    est nulle
+  language_code: fre
+  notes:
+  - '1 à l''article: Le signum peut être généralisé à des variables complexes: $$sgn
+      underset(_)(z) = (( underset(_)(z) ))/(( | underset(_)(z) |))$$ pour $$z !=
+    0$$ et $$sgn   0 = 0$$.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030304
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: シグナム
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030304
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 부호 함수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030304
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: funkcja signum
+  - type: expression
+    designation: signum
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030304
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: signum
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030304
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 正负号函数
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

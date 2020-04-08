@@ -1,0 +1,14 @@
+---
+termid: 1913005
+term: 총 전력량 삭감 지수
+kor:
+  id: 1913005
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 총 전력량 삭감 지수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

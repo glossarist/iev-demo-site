@@ -1,0 +1,124 @@
+---
+termid: 1030709
+term: in phase
+ara:
+  id: 1030709
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: تماثل الطور
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030709
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: gleichphasig
+    partOfSpeech: adj
+  - type: expression
+    designation: in Phase
+    partOfSpeech: adj
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1030709
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: in phase
+    partOfSpeech: adj
+  definition: qualifies two sinusoidal quantities of the same frequency having zero
+    phase difference
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2017-07-01T00:00:00+00:00'
+  date_amended: '2017-07-01T00:00:00+00:00'
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 103-07-09:2009-12
+fre:
+  id: 1030709
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: en phase
+    partOfSpeech: adj
+  definition: qualifie deux grandeurs sinusoïdales de même fréquence dont la différence
+    de phase est nulle
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030709
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 同相の
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1030709
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 같은 위상
+    partOfSpeech: adj
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030709
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: w fazie
+    partOfSpeech: adj
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1030709
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: em fase
+    partOfSpeech: adj
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1030709
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 同相的
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

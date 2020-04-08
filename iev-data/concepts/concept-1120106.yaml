@@ -1,0 +1,153 @@
+---
+termid: 1120106
+term: extensive quantity
+ara:
+  id: 1120106
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: كمية شاملة (كمية اجمالية)
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120106
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: extensive Größe
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120106
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: extensive quantity
+  - type: expression
+    normativeStatus: preferred
+    designation: global quantity
+  definition: quantity that is additive for disjoint parts of a system
+  language_code: eng
+  notes:
+  - The parts may be disjoint in space or correspond to components of the system.
+  - 'Examples: mass, electric charge, resistance, amount of substance, any integral
+    quantity (IEV 131-11-01).'
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120106
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: grandeur extensive
+    gender: f
+    plurality: singular
+  definition: grandeur qui est additive pour des parties disjointes d'un système
+  language_code: fre
+  notes:
+  - Les parties peuvent être disjointes dans l'espace ou correspondre à des constituants
+    du système.
+  - 'Exemples: masse, charge électrique, résistance, quantité de matière, toute grandeur
+    intégrale (IEV 131-11-01).'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120106
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 普遍量
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120106
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 외연량
+  - type: expression
+    designation: 전역량
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120106
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: wielkość globalna
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120106
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: grandeza extensiva
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120106
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 广延量
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

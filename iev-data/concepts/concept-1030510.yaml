@@ -1,0 +1,142 @@
+---
+termid: 1030510
+term: aperiodic
+ara:
+  id: 1030510
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: "….."
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030510
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: aperiodisch
+    partOfSpeech: adj
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030510
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: aperiodic
+    partOfSpeech: adj
+  - type: symbol
+    designation: "<Value/>"
+    international: true
+  definition: pertaining to a non-oscillating change from one steady state to another
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030510
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: apériodique
+    partOfSpeech: adj
+  definition: qualifie un passage non-oscillant d'un régime établi à un autre
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030510
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 非周期的
+    partOfSpeech: adj
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030510
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 비주기적
+    partOfSpeech: adj
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030510
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: nieokresowy
+  - type: expression
+    designation: aperiodyczny
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030510
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: aperiódico, adj
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030510
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 非周期的
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

@@ -1,0 +1,138 @@
+---
+termid: 1920703
+term: maintenance man-hours
+ara:
+  id: 1920703
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: فترة الصيانه/ رجل - ساعة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920703
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Instandhaltungs-Mannstunden
+    gender: f
+    plurality: plural
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920703
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: maintenance man-hours
+  - type: expression
+    normativeStatus: preferred
+    designation: MMH
+  definition: sum of the times spent by individual persons to carry out a maintenance
+    action
+  language_code: eng
+  notes:
+  - Maintenance man-hours is a measure of resource use, either estimated or actual,
+    and not the real time duration of the maintenance action.
+  - In some applications, this measure is referred to as “maintenance person hours”.
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920703
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: durée équivalente de maintenance
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: durée en hommes-heures
+    gender: f
+    plurality: singular
+  definition: somme des durées passées par différentes personnes à réaliser une tâche
+    de maintenance
+  language_code: fre
+  notes:
+  - '1 à l’article: La durée équivalente de maintenance est une mesure de l’utilisation
+    des ressources, réelles ou estimées, et non la durée de la tâche de maintenance.'
+  - '2 à l’article: Cette note ne s’applique qu’à la langue anglaise.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920703
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 保全工数
+  - type: expression
+    designation: MMH
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920703
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 유지보수 투입인원 시간
+  - type: expression
+    designation: MMH
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920703
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: pracochłonność obsługiwania
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: MMH
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920703
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: duração equivalente de manutenção
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920703
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 维修工时
+  - type: expression
+    designation: MMH
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

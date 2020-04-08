@@ -1,0 +1,141 @@
+---
+termid: 1030722
+term: reference fundamental frequency
+ara:
+  id: 1030722
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: التردد المرجعى الاساسى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030722
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Referenz-Grundfrequenz
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030722
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: reference fundamental frequency
+  definition: frequency of the reference fundamental component of a periodic quantity
+  language_code: eng
+  notes:
+  - '1 to entry: The term is used when the reference fundamental component differs
+    from the fundamental component.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030722
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fréquence fondamentale de référence
+    gender: f
+    plurality: singular
+  definition: fréquence de la composante fondamentale de référence d'une grandeur
+    périodique
+  language_code: fre
+  notes:
+  - '1 à l''article: Le terme est employé lorsque la composante fondamentale de référence
+    diffère du fondamental.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030722
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 基準基本振動数
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030722
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 기준 기본 주파수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030722
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: częstotliwość podstawowa odniesienia
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030722
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: frequência fundamental de referência
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030722
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 基准基波频率
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

@@ -1,0 +1,130 @@
+---
+termid: 1920317
+term: failure mode
+ara:
+  id: 1920317
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: نموذج الفشل
+  - type: expression
+    designation: 'سابقاً : نموذج العطل'
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920317
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Ausfallart
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920317
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: failure mode
+  - type: expression
+    normativeStatus: deprecated
+    designation: fault mode
+  definition: manner in which failure occurs
+  language_code: eng
+  notes:
+  - A failure mode may be defined by the function lost or other state transition that
+    occurred.
+  examples: []
+  entry_status: Standard
+  classification: Deprecated
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920317
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: mode de défaillance
+    gender: m
+    plurality: singular
+  - type: expression
+    normativeStatus: deprecated
+    designation: mode de panne
+    gender: m
+    plurality: singular
+  definition: manière selon laquelle une défaillance se produit
+  language_code: fre
+  notes:
+  - '1 à l’article: Un mode de défaillance peut être défini par la fonction perdue
+    ou par la transition d’état qui s’est produite.'
+  examples: []
+  entry_status: Standard
+  classification: Deprecated
+  review_decision_event: published
+jpn:
+  id: 1920317
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 故障モード
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920317
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 고장 유형
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920317
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: rodzaj uszkodzenia
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920317
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: modo de falha
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920317
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 失效模式
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

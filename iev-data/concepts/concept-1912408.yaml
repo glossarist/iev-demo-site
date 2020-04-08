@@ -1,0 +1,14 @@
+---
+termid: 1912408
+term: 일시 정지
+kor:
+  id: 1912408
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 일시 정지
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

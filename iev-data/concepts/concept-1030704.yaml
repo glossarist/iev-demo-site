@@ -1,0 +1,179 @@
+---
+termid: 1030704
+term: phase
+ara:
+  id: 1030704
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: طور
+  - type: expression
+    designation: طور لحظى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030704
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Phasenwinkel
+    gender: m
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: Augenblicksphase
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030704
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: phase
+  - type: expression
+    normativeStatus: preferred
+    designation: instantaneous phase
+  - type: symbol
+    designation: "$$$$"
+    international: true
+  definition: argument of the cosine function in the representation of a sinusoidal
+    quantity
+  language_code: eng
+  notes:
+  - '1 to entry: The term "instantaneous phase" is only used when the independent
+    variable is time.'
+  - '2 to entry: For the quantity $$a ( t ) = hat A cos ( omega   t + vartheta_0 )$$,
+    the phase is $$omega   t + vartheta_0$$.'
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030704
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: phase
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: phase instantanée
+    gender: f
+    plurality: singular
+  definition: argument de la fonction cosinus dans la représentation d'une grandeur
+    sinusoïdale
+  language_code: fre
+  notes:
+  - '1 à l''article: Le terme «phase instantanée» n''est employé que lorsque la variable
+    indépendante est le temps.'
+  - '2 à l''article: Pour la grandeur $$a ( t ) = hat A cos ( omega   t + vartheta_0
+    )$$, la phase est $$omega   t + vartheta_0$$.'
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+jpn:
+  id: 1030704
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 位相
+  - type: expression
+    normativeStatus: preferred
+    designation: 瞬時位相
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030704
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 위상
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030704
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: faza
+  - type: expression
+    designation: faza chwilowa
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030704
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fase
+  - type: expression
+    designation: fase instantânea
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030704
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 相位
+  - type: expression
+    normativeStatus: preferred
+    designation: 瞬时相位
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

@@ -1,0 +1,16 @@
+---
+termid: 1912705
+term: 소비자 중단 평균 기간
+kor:
+  id: 1912705
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 소비자 중단 평균 기간
+  - type: expression
+    designation: 소비자 평균 정전 기간 지수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,132 @@
+---
+termid: 1920310
+term: systematic failure
+ara:
+  id: 1920310
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: فشل نظامى
+  - type: expression
+    designation: فشل منهجى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920310
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: systematischer Ausfall
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920310
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: systematic failure
+  definition: failure that consistently occurs under particular conditions of handling,
+    storage or use
+  language_code: eng
+  notes:
+  - A systematic failure can be reproduced by deliberately applying the same conditions,
+    although not all reproducible failures are systematic.
+  - The cause of a systematic failure originates in the specification, design, manufacture,
+    installation, operation or maintenance of the item.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920310
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: défaillance systématique
+    gender: f
+    plurality: singular
+  definition: défaillance se produisant régulièrement dans des conditions particulières
+    de manipulation, de stockage ou d’utilisation
+  language_code: fre
+  notes:
+  - '1 à l’article: Une défaillance systématique peut être reproduite en appliquant
+    délibérément les mêmes conditions, mais toutes les défaillances reproductibles
+    ne sont pas systématiques.'
+  - '2 à l’article: La cause d’une défaillance systématique provient de la spécification,
+    de la conception, de la fabrication, de l’installation, du fonctionnement ou de
+    la maintenance de l’entité.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920310
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 系統的故障
+  - type: expression
+    designation: 決定論的原因故障
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920310
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 계통적 고장
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920310
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: uszkodzenie systematyczne
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920310
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: falha sistemática
+  - type: expression
+    designation: falha reprodutível
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920310
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 系统性失效
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

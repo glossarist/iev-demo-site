@@ -1,0 +1,123 @@
+---
+termid: 1120301
+term: quotient
+ara:
+  id: 1120301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: " القسمة - خارج القسمة ( رياضيات )"
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Quotient
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1120301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: quotient
+  definition: See {{IEV 102-01-22, IEV:102-01-22}}
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2019-01-01T00:00:00+00:00'
+  date_amended: '2019-01-01T00:00:00+00:00'
+  review_date: '2019-01-01T00:00:00+00:00'
+  review_decision_date: '2019-01-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 112-03-01:2010-01
+fre:
+  id: 1120301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: quotient
+    gender: m
+    plurality: singular
+  definition: Voir {{IEV 102-01-22, IEV:102-01-22}}
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1120301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 商
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1120301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 몫
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: iloraz
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1120301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: quociente
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120301
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 商
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

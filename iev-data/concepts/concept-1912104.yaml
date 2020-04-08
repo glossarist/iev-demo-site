@@ -1,0 +1,15 @@
+---
+termid: 1912104
+term: 무결성
+kor:
+  id: 1912104
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 기간 전력 계통;
+    designation: 무결성
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

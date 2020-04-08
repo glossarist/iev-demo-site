@@ -1,0 +1,122 @@
+---
+termid: 1920618
+term: fault detection
+ara:
+  id: 1920618
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: إكتشاف الأعطال
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920618
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Fehlzustandserkennung
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920618
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fault detection
+  definition: event by which the presence of a fault becomes apparent
+  language_code: eng
+  notes:
+  - The term “fault recognition” used in IEC 60050-191:1990 (now withdrawn; replaced
+    by IEC 60050-192:2015) is not in general usage.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920618
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: détection de panne
+    gender: f
+    plurality: singular
+  definition: événement mettant en évidence la présence de panne
+  language_code: fre
+  notes:
+  - '1 à l’article: Le terme «fault recognition», utilisé en anglais dans l’IEC 60050-191:1990
+    (supprimée; remplacée par l''IEC 60050-192:2015), n’est pas d’usage général.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920618
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: フォールト検出
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920618
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 결함 검출
+  - type: expression
+    designation: 고장 검출
+  - type: expression
+    designation: 결함 탐지
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920618
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: wykrycie niezdatności
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920618
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: deteção de avaria
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920618
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 故障检测
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

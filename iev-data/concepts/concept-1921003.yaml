@@ -1,0 +1,124 @@
+---
+termid: 1921003
+term: active redundancy
+ara:
+  id: 1921003
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: وفرة فعالة
+  - type: expression
+    designation: دورة العمل
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1921003
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: funktionsbeteiligte Redundanz
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: aktive Redundanz
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1921003
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: active redundancy
+  definition: redundancy wherein redundant items operate simultaneously
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1921003
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: redondance active
+    gender: f
+    plurality: singular
+  definition: redondance telle que les entités redondantes fonctionnent simultanément
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1921003
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 常用冗長
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1921003
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 유효 중복성
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1921003
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: redundancja aktywna
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: redundancja czynna
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1921003
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: redundância ativa
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1921003
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 工作冗余
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,158 @@
+---
+termid: 1120210
+term: candela
+ara:
+  id: 1120210
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: كانديلا - شمعة (وحدة قياس)
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120210
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Candela
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120210
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: candela
+  - type: symbol
+    designation: cd
+    international: true
+  definition: SI unit of luminous intensity, equal to the luminous intensity in a
+    given direction, of a source that emits monochromatic radiation of frequency 540
+    × 10<sup>12</sup> Hz and that has a radiant intensity in that direction of 1/683
+    W/sr
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: CGPM
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120210
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: candela
+    gender: f
+    plurality: singular
+  definition: unité SI d’intensité lumineuse, égale à l’intensité lumineuse, dans
+    une direction donnée, d’une source qui émet un rayonnement monochromatique de
+    fréquence 540 × 10<sup>12</sup> Hz et dont l’intensité énergétique dans cette
+    direction est 1/683 W/sr
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: CGPM
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120210
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 光度の単位;
+    designation: カンデラ
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120210
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 칸델라
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120210
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: kandela
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120210
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: candela
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120210
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 坎德拉
+  - type: expression
+    normativeStatus: preferred
+    designation: 坎
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

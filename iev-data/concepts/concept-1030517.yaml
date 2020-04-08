@@ -1,0 +1,145 @@
+---
+termid: 1030517
+term: local minimum value
+ara:
+  id: 1030517
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: القيمة الصغرى المحلية
+  - type: expression
+    designation: القيمة الصغرى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030517
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: lokaler Minimalwert
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: Minimalwert
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1030517
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: local minimum value
+  - type: expression
+    normativeStatus: preferred
+    designation: minimum value
+  definition: value of a function corresponding to a {{local minimum, IEV:103-05-16}}
+  language_code: eng
+  notes:
+  - '1 to entry: A local minimum value of function $$f$$ is denoted by $$f_(( m i
+    n))$$ or $$overset(⌣)(f)$$.'
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2017-07-01T00:00:00+00:00'
+  date_amended: '2017-07-01T00:00:00+00:00'
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 103-05-17:2009-12
+fre:
+  id: 1030517
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: valeur minimale locale
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: valeur minimale
+    gender: f
+    plurality: singular
+  definition: valeur d'une fonction correspondant à un {{minimum local, IEV:103-05-16}}
+  language_code: fre
+  notes:
+  - '1 à l''article: Une valeur minimale locale de la fonction $$f$$ est notée $$f_((
+    m i n))$$ ou $$overset(⌣)(f)$$.'
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+jpn:
+  id: 1030517
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 極小値
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1030517
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 국부 극소값
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030517
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: wartość minimalna lokalna
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: wartość minimalna
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1030517
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: valor mínimo local
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1030517
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 局部极小值
+  - type: expression
+    designation: 极小值
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

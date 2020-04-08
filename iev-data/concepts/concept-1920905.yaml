@@ -1,0 +1,116 @@
+---
+termid: 1920905
+term: laboratory test
+ara:
+  id: 1920905
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: اختبار معملي
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920905
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Laborprüfung
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920905
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: laboratory test
+  definition: test made under prescribed and controlled conditions that may or may
+    not simulate field conditions
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920905
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: essai en laboratoire
+    gender: m
+    plurality: singular
+  definition: essai effectué dans des conditions prescrites et contrôlées qui peuvent
+    ou non simuler les conditions d’exploitation
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920905
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 試験室試験
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920905
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 실험실 시험
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920905
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: badanie laboratoryjne
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920905
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ensaio laboratorial
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920905
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 实验室试验
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

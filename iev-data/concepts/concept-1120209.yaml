@@ -1,0 +1,189 @@
+---
+termid: 1120209
+term: mole
+ara:
+  id: 1120209
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: مول
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120209
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Mol
+    gender: n
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120209
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: mole
+  - type: symbol
+    designation: mol
+    international: true
+  definition: SI unit of amount of substance, equal to the amount of substance of
+    a system which contains as many elementary entities as there are atoms in 0,012
+    kg of carbon 12
+  language_code: eng
+  notes:
+  - 'The elementary entities must be specified and may be of any kind: atoms, molecules,
+    ions, electrons, holes, other particles or quasi-particles, groups of particles,
+    double bonds, etc.'
+  - The number of entities in a mole is the numerical value of the Avogadro constant
+    {$$N$$<sub>A</sub>} = 6,022... × 10<sup>23</sup>.
+  - |-
+    CGPM definition is as follows:
+
+
+
+    1) The mole is the amount of substance of a system which contains as many elementary entities as there are atoms in 0,012 kilogram of carbon 12; its symbol is "mol".
+
+
+
+    2) When the mole is used, the elementary entities must be specified and may be atoms, molecules, ions, electrons, other particles, or specified groups of such particles.
+
+
+
+    The CIPM specifies "it is understood that unbound atoms of carbon 12, at rest and in their ground state, are referred to".
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120209
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: mole
+    gender: f
+    plurality: singular
+  definition: unité SI de quantité de matière, égale à la quantité de matière d’un
+    système contenant autant d’entités élémentaires qu’il y a d’atomes dans 0,012
+    kg de carbone 12
+  language_code: fre
+  notes:
+  - 'Les entités élémentaires doivent être spécifiées et peuvent être de nature quelconque:
+    atomes, molécules, ions, électrons, trous, autres particules ou quasi-particules,
+    groupements de particules, doubles liaisons, etc.'
+  - 'Le nombre d''entités dans une mole est la valeur numérique de la constante d''Avogadro:
+    {$$N$$<sub>A</sub>} = 6,022... × 10<sup>23</sup>.'
+  - |-
+    La définition de la CGPM est la suivante:
+
+
+
+    1) La mole est la quantité de matière d’un système contenant autant d’entités élémentaires qu’il y a d’atomes dans 0,012 kilogramme de carbone 12; son symbole est «mol».
+
+
+
+    2) Lorsqu'on emploie la mole, les entités élémentaires doivent être spécifiées et peuvent être des atomes, des molécules, des ions, des électrons, d’autres particules ou des groupements spécifiés de telles particules.
+
+
+
+    Le CIPM a précisé «il est entendu que l'on se réfère à des atomes de carbone 12 non liés, au repos et dans leur état fondamental».
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120209
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: モル
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120209
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 몰
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120209
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: mol
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120209
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: mole
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120209
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 摩尔
+  - type: expression
+    normativeStatus: preferred
+    designation: 摩
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

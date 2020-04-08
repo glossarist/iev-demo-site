@@ -1,0 +1,118 @@
+---
+termid: 1920709
+term: preventive maintenance action time
+ara:
+  id: 1920709
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: زمن عملية الصيانة الوقائية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920709
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Dauer einer Wartungsmaßnahme
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920709
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: preventive maintenance action time
+  definition: "part of the active preventive maintenance time taken to perform a preventive
+    maintenance action \n\n<simg/>60050-192-F2en/$file/60050-192-F2en.png&gt;\n\nFigure
+    2 – Maintenance times"
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920709
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: durée d’une tâche de maintenance préventive
+    gender: f
+    plurality: singular
+  definition: "partie du temps de maintenance préventive consacré à effectuer une
+    tâche de maintenance préventive \n\n<simg/>60050-192-F2fr/$file/60050-192-F2fr.png&gt;\n\nFigure
+    2 – Temps de maintenance"
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920709
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 予防保全実行時間
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920709
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 예방 유지보수 실행시간
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920709
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: czas czynności obsługiwania korekcyjnego
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920709
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: tempo de manutenção preventiva
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920709
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 预防性维修活动时间
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

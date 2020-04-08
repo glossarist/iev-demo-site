@@ -1,0 +1,187 @@
+---
+termid: 1120109
+term: number of entities
+ara:
+  id: 1120109
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: عدد كينونات
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120109
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Anzahl
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120109
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: number of entities
+  definition: quantity involved in counting objects or events individually identified
+  language_code: eng
+  notes:
+  - A number of entities is a quantity of dimension one.
+  - The quantity ”number of entities" can be regarded as a base quantity in any system
+    of quantities.
+  - The values of numbers of entities are expressed by integer numbers, but statistical
+    elaborations may be carried out.
+  - |-
+    Examples of numbers of entities:
+
+
+
+    • number of inhabitants of a given country at a given date;
+
+
+
+    • number of turns in a coil;
+
+
+
+    • number of molecules in a given sample;
+
+
+
+    • degeneracy of the energy levels of a quantum system.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120109
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: nombre d'entités
+    gender: m
+    plurality: singular
+  definition: grandeur qui résulte du comptage d'objets ou d'évènements identifiés
+    individuellement
+  language_code: fre
+  notes:
+  - Un nombre d'entités est une grandeur sans dimension.
+  - On peut considérer la grandeur « nombre d'entités » comme une grandeur de base
+    dans tout système de grandeurs.
+  - Les valeurs des nombres d'entités sont exprimées par des nombres entiers, mais
+    des traitements statistiques peuvent être effectués.
+  - |-
+    Exemples de nombre d’entités:
+
+
+
+    • nombre d'habitants d'un pays donné à une date donnée;
+
+
+
+    • nombre de tours dans une bobine;
+
+
+
+    • nombre de molécules dans un spécimen donné;
+
+
+
+    • dégénérescence des niveaux d'énergie d’un système quantique.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120109
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 単位の数
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120109
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 개체 수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120109
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: liczba elementów
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120109
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: número de entidades
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120109
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 事物数
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

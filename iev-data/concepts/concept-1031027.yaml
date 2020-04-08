@@ -1,0 +1,154 @@
+---
+termid: 1031027
+term: phase interference
+ara:
+  id: 1031027
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: تداخل الطور
+  - type: expression
+    designation: تداخل موجى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1031027
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Interferenz
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1031027
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: phase interference
+  - type: expression
+    designation: wave interference
+  definition: "phenomenon resulting from the superposition of two or more coherent
+    oscillations or waves of equal or nearly equal frequency and appearing as a variation
+    of the resulting amplitude, in space in the form of interference\uFEFF patterns,
+    or in time in the form of beats"
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1031027
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: interférence
+    gender: f
+    plurality: singular
+  definition: phénomène résultant de la superposition de deux ou plus de deux oscillations
+    ou ondes cohérentes et de fréquences égales ou voisines, qui se manifeste par
+    des variations de l'amplitude résultante, dans l'espace sous forme de franges,
+    ou dans le temps sous forme de battements
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1031027
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 位相干渉
+  - type: expression
+    normativeStatus: preferred
+    designation: 波動干渉
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1031027
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 위상 간섭
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1031027
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: interferencja
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1031027
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: interferência
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1031027
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 相位干涉
+  - type: expression
+    normativeStatus: preferred
+    designation: 波干涉
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

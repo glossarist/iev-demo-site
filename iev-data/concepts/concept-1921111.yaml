@@ -1,0 +1,124 @@
+---
+termid: 1921111
+term: life cycle costing
+ara:
+  id: 1921111
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: تكلفة الدورة العمرية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1921111
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Bewertung der Lebenszykluskosten
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1921111
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: life cycle costing
+  definition: process of economic analysis to assess the cost of an item over its
+    life cycle or a portion thereof
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1921111
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: évaluation du coût du cycle de vie
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: évaluation du coût global
+    gender: f
+    plurality: singular
+  definition: processus d’analyse économique consistant à évaluer le coût d’une entité
+    sur l’ensemble ou une partie de son cycle de vie
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1921111
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ライフサイクルコスティング
+  - type: expression
+    designation: ライフサイクルコスト分析
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1921111
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 수명주기 비용
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1921111
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: szacowanie kosztów cyklu życia
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1921111
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: avaliação do custo do ciclo de vida
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1921111
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 寿命周期成本计算
+  - type: expression
+    designation: 寿命周期费用分析
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

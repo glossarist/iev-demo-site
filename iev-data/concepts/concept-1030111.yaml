@@ -1,0 +1,180 @@
+---
+termid: 1030111
+term: system of orthogonal functions
+ara:
+  id: 1030111
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: مجموعة الدوال المتعامدة
+  - type: expression
+    designation: نظام متعامد
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030111
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: System orthogonaler Funktionen
+    gender: n
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: Orthogonalsystem
+    gender: n
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030111
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: system of orthogonal functions
+  - type: expression
+    designation: orthogonal system
+  definition: set of functions, such that each of them is orthogonal to any other
+  language_code: eng
+  notes:
+  - "1 to entry: Examples: \n\n<ul> \n\n<li>Legendre polynomials P constitute a system
+    of orthogonal functions on the interval $$- 1 ,   + 1$$ because $$∫_(   - 1)^(
+      + 1) P_k ( x ) P_l ( x ) d x = 0$$ for any integers $$k != l$$.</li> \n\n<li>Laguerre
+    polynomials L constitute a system of orthogonal functions on the interval $$0
+    ,   + oo$$ with the weight $$e x p ( - x )$$ because $$∫_(   0)^(   + oo) L_k
+    ( x ) L_l ( x ) exp ( - x ) d x = 0$$ for any integers $$k != l$$.</li> \n\n<li>Trigonometric
+    functions sine and cosine constitute a system of orthogonal functions on the interval
+    $$0 ,   2 pi$$ because $$∫_(   0)^(   2 pi) sin ( k x ) sin ( l x ) d x = 0$$
+    and $$∫_(   0)^(   2 pi) cos ( k x ) cos ( l x ) d x = 0$$ for any integers $$k
+    != l$$, and $$∫_(   0)^(   2 pi) sin ( k x ) cos ( l x ) d x = 0$$ for any integer
+    $$k$$ and $$l$$. </li></ul>"
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030111
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: système de fonctions orthogonales
+    gender: m
+    plurality: singular
+  definition: ensemble de fonctions dont chacune est orthogonale à toute autre
+  language_code: fre
+  notes:
+  - "1 à l'article: Exemples: \n\n<ul> \n\n<li>Les polynômes de Legendre P constituent
+    un système de fonctions orthogonales sur l'intervalle $$- 1 ,   + 1$$ parce que
+    $$∫_(   - 1)^(   + 1) P_k ( x ) P_l ( x ) d x = 0$$ pour tous entiers $$k != l$$.</li>
+    \n\n<li>Les polynômes de Laguerre L constituent un système de fonctions orthogonales
+    sur l'intervalle $$0 ,   + oo$$ avec le poids $$e x p ( - x )$$ parce que $$∫_(
+      0)^(   + oo) L_k ( x ) L_l ( x ) exp ( - x ) d x = 0$$ pour tous entiers $$k
+    != l$$.</li> \n\n<li>Les fonctions trigonométriques sinus et cosinus constituent
+    un système de fonctions orthogonales sur l'intervalle $$0 ,   2 pi$$ parce que
+    $$∫_(   0)^(   2 pi) sin ( k x ) sin ( l x ) d x = 0$$ et $$∫_(   0)^(   2 pi)
+    cos ( k x ) cos ( l x ) d x = 0$$ pour tous entiers $$k != l$$, et $$∫_(   0)^(
+      2 pi) sin ( k x ) cos ( l x ) d x = 0$$ pour tous entiers $$k$$ et $$l$$. </li></ul>"
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030111
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 直交関数系
+  - type: expression
+    normativeStatus: preferred
+    designation: 直交系
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030111
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 직교 함수 계
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030111
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: układ funkcji ortogonalnych
+  - type: expression
+    designation: układ ortogonalny
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030111
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: sistema de funcionais ortogonais
+  - type: expression
+    designation: sistema ortogonal
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030111
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 正交函数系
+  - type: expression
+    normativeStatus: preferred
+    designation: 正交系
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

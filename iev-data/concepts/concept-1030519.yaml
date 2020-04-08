@@ -1,0 +1,157 @@
+---
+termid: 1030519
+term: peak-to-valley value
+ara:
+  id: 1030519
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: قيمة بين القمة و القاع
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030519
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Schwingungsbreite
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: Schwankung
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: Spitze-Tal-Wert
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1030519
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: peak-to-valley value
+  - type: expression
+    normativeStatus: preferred
+    designation: peak-to-peak value
+  definition: difference between the {{global maximum value, IEV:103-05-15}} and the
+    {{global minimum value, IEV:103-05-18}} in the same specified interval of the
+    argument
+  language_code: eng
+  notes:
+  - '1 to entry: For a periodic quantity, the specified interval has a range equal
+    to the period.'
+  - '2 to entry: The synonym "peak-to-peak value" should be used only when the global
+    maximum and minimum values are of different signs.'
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2017-07-01T00:00:00+00:00'
+  date_amended: '2017-07-01T00:00:00+00:00'
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 103-05-19:2009-12
+fre:
+  id: 1030519
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: valeur de crête à creux
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: valeur de crête à crête
+    gender: f
+    plurality: singular
+  definition: différence entre la {{valeur maximale globale, IEV:103-05-15}} et la
+    {{valeur minimale globale, IEV:103-05-18}} dans le même intervalle spécifié de
+    l’argument
+  language_code: fre
+  notes:
+  - '1 à l''article: Dans le cas d''une grandeur périodique, l''intervalle spécifié
+    a une étendue égale à la période.'
+  - '2 à l’article: Il convient de n’utiliser le synonyme «valeur de crête à crête»
+    que si les valeurs maximale et minimale globales sont de signes contraires.'
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+jpn:
+  id: 1030519
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ピーク・ツー・ピーク値
+  - type: expression
+    designation: ピークピーク値
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1030519
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 최고 최저차 값
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030519
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: wartość szczytowo-siodłowa
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: deprecated
+    designation: wartość międzyszczytowa
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Deprecated
+  review_decision_event: published
+por:
+  id: 1030519
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: valor pico-a-cava
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1030519
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 峰-谷值
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

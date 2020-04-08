@@ -1,0 +1,154 @@
+---
+termid: 1120206
+term: kilogram
+ara:
+  id: 1120206
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: كيلوجرام
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120206
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Kilogramm
+    gender: n
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120206
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: kilogram
+  - type: symbol
+    designation: kg
+    international: true
+  definition: SI unit of mass, equal to the mass of the object called the “international
+    prototype of the kilogram” kept at the International Bureau of Weights and Measures
+    (BIPM)
+  language_code: eng
+  notes:
+  - 'CGPM definition is as follows: "The kilogram is the unit of mass; it is equal
+    to the mass of the international prototype of the kilogram."'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120206
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: kilogramme
+    gender: m
+    plurality: singular
+  definition: unité SI de masse, égale à la masse de l’objet appelé «prototype international
+    du kilogramme», conservé au Bureau international des poids et mesures (BIPM)
+  language_code: fre
+  notes:
+  - 'La définition de la CGPM est la suivante: «Le kilogramme est l''unité de masse;
+    il est égal à la masse du prototype international du kilogramme.»'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120206
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: キログラム
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120206
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 킬로그램
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120206
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: kilogram
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120206
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: quilograma
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120206
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 千克
+  - type: expression
+    normativeStatus: preferred
+    designation: 公斤
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

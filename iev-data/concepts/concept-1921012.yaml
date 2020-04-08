@@ -1,0 +1,119 @@
+---
+termid: 1921012
+term: "$$m$$ out of $$n$$ redundancy"
+ara:
+  id: 1921012
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: عدد العناصر م من عناصرالوفرة ن لتحقيق التشغيل
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1921012
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: "$$m$$-von-$$n$$-Redundanz"
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1921012
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: "$$m$$ out of $$n$$ redundancy"
+  definition: redundancy wherein at least $$m$$ of the total $$n$$ items must be functioning
+    to meet the requirement
+  language_code: eng
+  notes:
+  - The symbols used vary in different contexts, e.g. $$k$$ out of $$n$$.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1921012
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: redondance $$m$$ parmi $$n$$
+    gender: f
+    plurality: singular
+  definition: redondance telle qu'au moins $$m$$ de $$n$$ entités doivent fonctionner
+    afin de satisfaire aux exigences
+  language_code: fre
+  notes:
+  - '1 à l’article: Les symboles utilisés varient selon le contexte, par exemple,
+    $$k$$ parmi $$n$$.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1921012
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: m-out-of-n冗長
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1921012
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: "$$n$$ 중 $$m$$ 중복성"
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1921012
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: redundancja typu <i>m-z-n</i>
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1921012
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: redundância m de n
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1921012
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: n中取m冗余
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

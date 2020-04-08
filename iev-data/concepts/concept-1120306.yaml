@@ -1,0 +1,151 @@
+---
+termid: 1120306
+term: characteristic number
+ara:
+  id: 1120306
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: عدد مميز
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120306
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Kennzahl
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: charakteristische Zahl
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120306
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: characteristic number
+  definition: quantity of dimension one defined by a combination of quantities
+  language_code: eng
+  notes:
+  - 'Characteristic numbers occur in particular in the theory of similarity. They
+    carry the word "number" in their names. Examples: Reynolds number, Prandtl number.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120306
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: nombre caractéristique
+    gender: m
+    plurality: singular
+  definition: grandeur sans dimension définie par une combinaison de grandeurs
+  language_code: fre
+  notes:
+  - 'Les nombres caractéristiques apparaissent en particulier dans la théorie de la
+    similitude. Leur appellation comporte le mot « nombre ». Exemples: nombre de Reynolds,
+    nombre de Prandtl.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120306
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 特性数
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120306
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 특성수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120306
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: liczba charakterystyczna
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120306
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: número característico
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120306
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 特征数
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

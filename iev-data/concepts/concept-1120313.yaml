@@ -1,0 +1,176 @@
+---
+termid: 1120313
+term: density of …
+ara:
+  id: 1120313
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: مساحى (صفة)
+  - type: expression
+    normativeStatus: preferred
+    designation: الكثافة (2)
+  - type: expression
+    normativeStatus: preferred
+    designation: الكثافة لـ
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120313
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: querschnittsbezogen
+    partOfSpeech: adj
+  - type: expression
+    usageInfo: bezogen auf Fluss oder elektrischen Strom
+    designation: "...dichte"
+    gender: "(in"
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1120313
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: density of …
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: for flux or current;
+    designation: "… density"
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: for flux or current
+    designation: areic
+    partOfSpeech: adj
+  definition: supplements a {{quantity name, IEV:112-01-02}} for a quantity expressing
+    a flux or a current within three-dimensional space to indicate the quotient of
+    such a quantity by the area of a surface
+  language_code: eng
+  notes:
+  - '1 to entry: In English, "density" also, and more commonly, means specific mass.
+    In French, the term "densité" means relative mass density (or relative density).'
+  examples:
+  - "{{density of heat flow rate, IEV:113-04-37}} or areic heat flow rate, electric
+    current density (see {{IEV 121-11-11, IEV:121-11-11}}), {{magnetic flux density,
+    IEV:121-11-19}}."
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2019-01-01T00:00:00+00:00'
+  date_amended: '2019-01-01T00:00:00+00:00'
+  review_date: '2019-01-01T00:00:00+00:00'
+  review_decision_date: '2019-01-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 112-03-13:2010-01
+fre:
+  id: 1120313
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: densité de …
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: flux ou courant
+    designation: surfacique
+    partOfSpeech: adj
+  definition: complète un {{nom de grandeur, IEV:112-01-02}} pour une grandeur exprimant
+    un flux ou un courant dans l'espace tridimensionnel pour désigner le quotient
+    d’une telle grandeur par l'aire d'une surface
+  language_code: fre
+  notes:
+  - '1 à l''article: En anglais, le terme "density" signifie aussi, et plus couramment,
+    masse volumique. En français, le terme "densité" signifie masse volumique relative.'
+  examples:
+  - '{{flux thermique surfacique, IEV:113-04-37}} ou densité de flux thermique, densité
+    de courant électrique  (voir {{IEV 121-11-11, IEV:121-11-11}}). La densité de
+    flux magnétique est nommée "{{induction magnétique, IEV:121-11-19}}".'
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+jpn:
+  id: 1120313
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: "～密度"
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1120313
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: "...의 밀도"
+  - type: expression
+    usageInfo: 2;
+    designation: "...밀도"
+  - type: expression
+    usageInfo: 2;,형용사
+    designation: 면적
+    partOfSpeech: "&lt;2&gt;,형용사"
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120313
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: strumienia lub prądu
+    designation: gęstość
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1120313
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: densidade de ...
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120313
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 相关条目：IEV 112-03-11;
+    designation: "…密度"
+  - type: expression
+    usageInfo: 相关条目：IEV 112-03-12;
+    designation: 面积
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

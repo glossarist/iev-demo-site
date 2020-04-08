@@ -1,0 +1,14 @@
+---
+termid: 1912703
+term: 제공 소비자당 서비스 불가용도
+kor:
+  id: 1912703
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 제공 소비자당 서비스 불가용도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

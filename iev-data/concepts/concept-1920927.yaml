@@ -1,0 +1,137 @@
+---
+termid: 1920927
+term: software alpha test
+ara:
+  id: 1920927
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: التشغيل التجريبى للبرنامج بواسطة المتخصصين
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920927
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Software-Alphatest
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: hausinterner Softwaretrial
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920927
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: software alpha test
+  - type: expression
+    designation: in-house software trial
+  definition: part of a software trial carried out by the developer before release
+    for external users
+  language_code: eng
+  notes:
+  - The aim of software alpha testing is to subject the software to realistic operating
+    conditions.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920927
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: essai logiciel alpha
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: essai interne de logiciel
+    gender: m
+    plurality: singular
+  definition: partie d’un essai logiciel effectuée par le développeur avant la mise
+    à disposition à des utilisateurs externes
+  language_code: fre
+  notes:
+  - '1 à l’article: L’essai logiciel alpha consiste à soumettre le logiciel à des
+    conditions de fonctionnement réalistes.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920927
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ソフトウェアαテスト
+  - type: expression
+    designation: ソフトウェア企業内試行
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920927
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 소프트웨어 알파 시험
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920927
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: oprogramowania
+    designation: test alfa
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920927
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ensaio do software alfa
+  - type: expression
+    designation: ensaio interno do software
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920927
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 软件α测试
+  - type: expression
+    designation: 内部软件试用
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,179 @@
+---
+termid: 1120314
+term: linear … density
+ara:
+  id: 1120314
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: طولى (صفة)
+  - type: expression
+    normativeStatus: preferred
+    designation: خطي (صفة)
+  - type: expression
+    normativeStatus: preferred
+    designation: خطية ... كثافة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120314
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: längenbezogen
+    partOfSpeech: adj
+  - type: expression
+    designation: "...belag"
+    gender: "(in"
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1120314
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: linear … density
+  - type: expression
+    designation: linear
+    partOfSpeech: adj
+  - type: expression
+    designation: lineic
+    partOfSpeech: adj
+  definition: qualifies the name of a quantity to indicate the quotient of that quantity
+    by the length
+  language_code: eng
+  notes:
+  - 'Examples: linear mass density, linear mass, or lineic mass; linear electric current
+    density or linear electric current.'
+  - 'The qualifier “linear” is also added to the name of a quantity solely to distinguish
+    between similar quantities (examples: linear strain, linear expansion coefficient).
+    The qualifier “linear” has a different meaning in mathematics (see IEC 60050-102).'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120314
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: linéique
+    partOfSpeech: adj
+  definition: qualifie le nom d’une grandeur pour désigner le quotient de cette grandeur
+    par une longueur
+  language_code: fre
+  notes:
+  - 'Exemples: masse linéique, densité linéique de courant électrique, ionisation
+    linéique.'
+  - 'Le qualificatif «linéique» est aussi ajouté au nom d’une grandeur seulement pour
+    distinguer des grandeurs similaires (exemples: dilatation linéique relative, coefficient
+    de dilatation linéique). Le qualificatif «linéique» a un sens différent en mathématiques
+    (voir la CEI 60050-102).'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120314
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 直線状の
+    partOfSpeech: adj
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120314
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 선형 … 밀도
+  - type: expression
+    designation: 선
+    partOfSpeech: adj
+  - type: expression
+    designation: 선형
+    partOfSpeech: adj
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120314
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: gęstość liniowa …
+  - type: expression
+    normativeStatus: preferred
+    designation: liniowy
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120314
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: lineal
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120314
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: "…线密度"
+  - type: expression
+    normativeStatus: preferred
+    designation: 线
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

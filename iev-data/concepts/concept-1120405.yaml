@@ -1,0 +1,164 @@
+---
+termid: 1120405
+term: measurement procedure
+ara:
+  id: 1120405
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: إجراءات القياس
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120405
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Messverfahren
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120405
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: measurement procedure
+  definition: detailed description of a measurement according to one or more measurement
+    principles and to a given measurement method, based on a theoretical model and
+    including any calculation to obtain a measurement result
+  language_code: eng
+  notes:
+  - A measurement procedure is usually documented in sufficient detail to enable an
+    operator to perform a measurement.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO/IEC GUIDE 99:2007  MOD
+    clause: ISO/IEC GUIDE 99:2007 2.6 MOD
+    link: https://www.iso.org/standard/45324.html
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120405
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: procédure de mesure
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: procédure opératoire
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: mode opératoire de mesure
+    gender: f
+    plurality: singular
+  definition: description détaillée d'un mesurage conformément à un ou plusieurs principes
+    de mesure et à une méthode de mesure donnée, fondée sur un modèle et incluant
+    tout calcul destiné à obtenir un résultat de mesure
+  language_code: fre
+  notes:
+  - Une procédure de mesure est habituellement documentée avec assez de détails pour
+    permettre à un opérateur d'effectuer un mesurage.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO/IEC GUIDE 99:2007  MOD
+    clause: ISO/IEC GUIDE 99:2007 2.6 MOD
+    link: https://www.iso.org/standard/45324.html
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120405
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 測定手順
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120405
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 측정 절차
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120405
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: procedura pomiarowa
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120405
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: procedimento de medição
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120405
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 测量程序
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

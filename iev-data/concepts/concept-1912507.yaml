@@ -1,0 +1,14 @@
+---
+termid: 1912507
+term: 공통 원인 정지 발생
+kor:
+  id: 1912507
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 공통 원인 정지 발생
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

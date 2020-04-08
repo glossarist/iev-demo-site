@@ -1,0 +1,145 @@
+---
+termid: 1030903
+term: spectrum
+ara:
+  id: 1030903
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: الطيف
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030903
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Spektrum
+    gender: n
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030903
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: spectrum
+  definition: representation of a real or complex quantity as a function of frequency
+  language_code: eng
+  notes:
+  - '1 to entry: Other quantities related to frequency are often used as variables,
+    e.g. wavelength in vacuum or angular frequency.'
+  - '2 to entry: The word "spectrum" is also used to denote the frequency band where
+    some phenomenon occurs, e.g. acoustic spectrum, visible spectrum.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030903
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: spectre
+    gender: m
+    plurality: singular
+  definition: représentation d'une grandeur réelle ou complexe en fonction de la fréquence
+  language_code: fre
+  notes:
+  - '1 à l''article: D''autres grandeurs liées à la fréquence sont souvent utilisées
+    comme variables, par exemple la longueur d''onde dans le vide ou la pulsation.'
+  - '2 à l''article: Le mot «spectre» est aussi utilisé pour désigner la bande de
+    fréquences dans laquelle un certain phénomène se produit, par exemple spectre
+    acoustique, spectre visible.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030903
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: スペクトル
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030903
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 스펙트럼
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030903
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: widmo
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030903
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: espectro
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030903
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 谱
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

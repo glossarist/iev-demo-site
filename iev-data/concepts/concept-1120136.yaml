@@ -1,0 +1,179 @@
+---
+termid: 1120136
+term: quantity-value scale
+ara:
+  id: 1120136
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: مقياس قيمة الكمية (ميزان لقياس الاشياء)
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120136
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Größenwertskala
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120136
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: quantity-value scale
+  - type: expression
+    normativeStatus: preferred
+    designation: measurement scale
+  definition: ordered set of values of quantities of a given kind used in ranking,
+    according to magnitude, quantities of that kind
+  language_code: eng
+  notes:
+  - 'Examples: Celsius temperature scale, timescale ({{IEV 113-01-11, IEV:113-01-11}}),
+    Rockwell C hardness scale.'
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+    ref: ISO/IEC GUIDE 99:2007
+    clause: '1.27'
+    link: https://www.iso.org/standard/45324.html
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120136
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: échelle de valeurs
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: échelle de mesure
+    gender: f
+    plurality: singular
+  definition: ensemble ordonné de valeurs de grandeurs d'une nature donnée, utilisé
+    pour classer des grandeurs de cette nature en ordre croissant ou décroissant de
+    leurs expressions quantitatives
+  language_code: fre
+  notes:
+  - 'Exemples: échelle des températures Celsius, échelle de temps ({{IEV 113-01-11,
+    IEV:113-01-11}}), échelle de dureté de Rockwell C.'
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  authoritative_source:
+    ref: ISO/IEC GUIDE 99:2007
+    clause: '1.27'
+    link: https://www.iso.org/standard/45324.html
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120136
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 測定尺度
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120136
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 양 값 척도
+  - type: expression
+    designation: 측정 척도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120136
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: skala wartości wielkości
+  - type: expression
+    normativeStatus: preferred
+    designation: skala pomiarowa
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120136
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: escala de valores
+  - type: expression
+    normativeStatus: preferred
+    designation: escala de medição
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120136
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 量值标
+  - type: expression
+    normativeStatus: preferred
+    designation: 测量标
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

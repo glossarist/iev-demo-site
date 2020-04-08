@@ -1,0 +1,18 @@
+---
+termid: 1912205
+term: 비적정 상태
+kor:
+  id: 1912205
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 전력 계통;
+    designation: 비적정 상태
+  - type: expression
+    usageInfo: 전력 계통;
+    designation: 비상 상태
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

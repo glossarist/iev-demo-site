@@ -1,0 +1,168 @@
+---
+termid: 1031020
+term: phase coefficient
+ara:
+  id: 1031020
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: معامل الطور
+  - type: expression
+    designation: معامل تغير الطور
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1031020
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Phasenkoeffizient
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1031020
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: phase coefficient
+  - type: expression
+    normativeStatus: preferred
+    designation: phase-change coefficient
+  - type: symbol
+    designation: ''
+    international: true
+  definition: |-
+    imaginary part of the propagation coefficient
+
+     $$beta = Im underset(_)( gamma )$$
+  language_code: eng
+  notes:
+  - '1 to entry: For a transmission line the phase coefficient is the limit of the
+    quotient of the phase change of a field quantity between two points on the axis
+    by the distance between the points, when this distance tends to zero.'
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1031020
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: déphasage linéique
+    gender: m
+    plurality: singular
+  definition: |-
+    partie imaginaire de l'exposant linéique de propagation
+
+     $$beta = Im underset(_)( gamma )$$
+  language_code: fre
+  notes:
+  - '1 à l''article: Pour une ligne de transmission, le déphasage linéique est la
+    limite du quotient de la variation de phase d''une grandeur de champ entre deux
+    points sur l''axe par la distance des points, lorsque cette distance tend vers
+    zéro.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1031020
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 位相係数
+  - type: expression
+    normativeStatus: preferred
+    designation: 位相変化係数
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1031020
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 위상 계수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1031020
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: przesuwność liniowa
+  - type: expression
+    designation: współczynnik fazy
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1031020
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: coeficiente de fase
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1031020
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 相位系数
+  - type: expression
+    normativeStatus: preferred
+    designation: 相位变化系数
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

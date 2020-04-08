@@ -1,0 +1,116 @@
+---
+termid: 1920222
+term: accumulated down time
+ara:
+  id: 1920222
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: فترة الركود التراكمي
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920222
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: akkumulierte Unklardauer
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920222
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: accumulated down time
+  definition: sum of the individual down time durations within a given time interval
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920222
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: durée cumulée d’indisponibilité
+    gender: f
+    plurality: singular
+  definition: somme des durées d’indisponibilité individuelles dans un intervalle
+    de temps donné
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920222
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 累積ダウン時間
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920222
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 누적 고장 시간
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920222
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: obiektu
+    designation: czas niezdatności sumaryczny
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920222
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: tempo acumulado de indisponibilidade
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920222
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 累计不可用时间
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

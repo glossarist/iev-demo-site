@@ -1,0 +1,167 @@
+---
+termid: 1030714
+term: phasor
+ara:
+  id: 1030714
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: الطور
+  - type: expression
+    designation: القيمة المركبة الفعالة للطور
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030714
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Zeiger
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: Effektivwertzeiger
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1030714
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: phasor
+  - type: expression
+    normativeStatus: preferred
+    designation: complex RMS value
+  definition: representation of a sinusoidal {{integral quantity, IEV:131-11-01}}
+    by a complex quantity whose argument is equal to the initial phase and whose modulus
+    is equal to the {{RMS value, IEV:103-02-03}}
+  language_code: eng
+  notes:
+  - '1 to entry: For a quantity $$a ( t ) = hat A cos ( omega   t + vartheta_0 )$$
+    the phasor is $$underset(_)(A) = A exp ( j vartheta_0 )$$, where $$A = (hat A)/((
+    sqrt(2) ))$$ is the RMS value and $$vartheta_0$$ is the initial phase. A phasor
+    can also be represented graphically.'
+  - '2 to entry: Electric current phasor $$underset(_)(I)$$ and voltage phasor $$underset(_)(U)$$
+    are often used.'
+  - '3 to entry: The similar representation with the modulus equal to the amplitude
+    is sometimes also called "phasor".'
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2017-07-01T00:00:00+00:00'
+  date_amended: '2017-07-01T00:00:00+00:00'
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 103-07-14:2009-12
+fre:
+  id: 1030714
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: phaseur
+    gender: m
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: valeur efficace complexe
+    gender: f
+    plurality: singular
+  definition: représentation d'une {{grandeur intégrale, IEV:131-11-01}} sinusoïdale
+    par une grandeur complexe dont l'argument est égal à la phase à l'origine et le
+    module est égal à la {{valeur efficace, IEV:103-02-03}}
+  language_code: fre
+  notes:
+  - '1 à l’article: Pour une grandeur $$a ( t ) = hat A cos ( omega   t + vartheta_0
+    )$$ le phaseur est $$underset(_)(A) = A exp ( j vartheta_0 )$$, où $$A = (hat
+    A)/(( sqrt(2) ))$$ est la valeur efficace et $$vartheta_0$$ est la phase à l’origine.
+    Un phaseur peut aussi être représenté graphiquement.'
+  - '2 à l’article: On utilise souvent le phaseur de courant électrique $$underset(_)(I)$$
+    et le phaseur de tension électrique $$underset(_)(U)$$.'
+  - '3 à l’article: La représentation semblable où le module est égal à l''amplitude
+    est parfois aussi appelée «phaseur».'
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+jpn:
+  id: 1030714
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 位相ベクトル
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1030714
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 위상자
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030714
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fazor
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: wartość skuteczna zespolona
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: wskaz
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1030714
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fasor
+  - type: expression
+    designation: valor eficaz complexo
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1030714
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 相量
+  - type: expression
+    designation: 复方均根值
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

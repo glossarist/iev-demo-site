@@ -1,0 +1,149 @@
+---
+termid: 1031030
+term: antinode
+ara:
+  id: 1031030
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: عقدة عكسية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1031030
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Schwingungsbauch
+    gender: m
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: einer stehenden Welle
+    designation: Bauch
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1031030
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: antinode
+  definition: in a medium where a standing wave exists, point at which the amplitude
+    of a specified time-dependent quantity has a maximum value
+  language_code: eng
+  notes:
+  - '1 to entry: If the antinode is not an isolated point, the terms "antinodal line",
+    "antinodal plan", or "antinodal surface" are used.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1031030
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ventre
+    gender: f
+    plurality: singular
+  definition: point d'un milieu siège d'une onde stationnaire où une grandeur spécifiée
+    variant dans le temps a une valeur maximale
+  language_code: fre
+  notes:
+  - '1 à l''article: Si le ventre n''est pas un point isolé, on emploie les termes
+    «ligne ventrale», «plan ventral» ou «surface ventrale».'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1031030
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 波腹
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1031030
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 배
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1031030
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: przeciwwęzeł (fali stojącej)
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1031030
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ventre
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1031030
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 波腹
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

@@ -1,0 +1,143 @@
+---
+termid: 1030110
+term: orthogonal
+ara:
+  id: 1030110
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: متعامد
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030110
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: orthogonal
+    partOfSpeech: adj
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030110
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: orthogonal
+    partOfSpeech: adj
+  definition: qualifies two functions whose inner product, possibly weighted, is zero
+  language_code: eng
+  notes:
+  - '1 to entry: Orthogonality for functions is similar to orthogonality for vectors
+    (see IEC 60050-102, {{102-03-26, IEV:102-03-26}}).'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030110
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: orthogonal
+    partOfSpeech: adj
+  definition: qualifie deux fonctions dont le produit interne, éventuellement pondéré,
+    est nul
+  language_code: fre
+  notes:
+  - '1 à l''article: L''orthogonalité de deux fonctions est analogue à celle de deux
+    vecteurs (voir IEC 60050-102, {{102-03-26, IEV:102-03-26}}).'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030110
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 直交
+    partOfSpeech: adj
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030110
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 직교
+    partOfSpeech: adj
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030110
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ortogonalny
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030110
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ortogonal, adj
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030110
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 相关条目：103-07-10;
+    designation: 正交的
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

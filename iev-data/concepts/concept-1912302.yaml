@@ -1,0 +1,14 @@
+---
+termid: 1912302
+term: 수동적 고장
+kor:
+  id: 1912302
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 수동적 고장
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

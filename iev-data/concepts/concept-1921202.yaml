@@ -1,0 +1,117 @@
+---
+termid: 1921202
+term: reliability improvement
+ara:
+  id: 1921202
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: تحسين الاعتمادية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1921202
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Zuverlässigkeitsverbesserung
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1921202
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: reliability improvement
+  definition: action undertaken with the deliberate intention of improving the reliability
+  language_code: eng
+  notes: []
+  examples:
+  - Increasing fault tolerance; derating of components; and introducing redundancy.
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1921202
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: amélioration de la fiabilité
+    gender: f
+    plurality: singular
+  definition: action intentionnelle entreprise pour améliorer la fiabilité
+  language_code: fre
+  notes: []
+  examples:
+  - Augmentation de la tolérance aux pannes, allègement du régime des composants,
+    introduction de redondance.
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1921202
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 信頼性改善
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1921202
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 신뢰도 개선
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1921202
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: proces poprawy nieuszkadzalności
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1921202
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: melhoria da fiabilidade
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1921202
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 可靠性改进
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

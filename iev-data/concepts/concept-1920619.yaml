@@ -1,0 +1,118 @@
+---
+termid: 1920619
+term: fault localization
+ara:
+  id: 1920619
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: تحديد مكان العطل
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920619
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Fehlzustandslokalisierung
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920619
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fault localization
+  definition: action to identify the faulty sub item at the appropriate indenture
+    level for maintenance
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920619
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: localisation de panne
+    gender: f
+    plurality: singular
+  definition: opération destinée à identifier la sous-entité en panne au niveau dans
+    l’arborescence approprié pour la maintenance
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920619
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: フォールト位置特定
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920619
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 고장 위치측정
+  - type: expression
+    designation: 결함 위치측정
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920619
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: lokalizowanie niezdatności
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920619
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: localização de avaria
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920619
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 故障定位
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

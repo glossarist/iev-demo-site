@@ -1,0 +1,141 @@
+---
+termid: 1920701
+term: maintainability
+ara:
+  id: 1920701
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: قياس;
+    designation: القابلية للصيانة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920701
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: Messgröße
+    designation: Instandhaltbarkeitsmaß
+    gender: n
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920701
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: measure;
+    designation: maintainability
+  - type: symbol
+    designation: "$$M$$($$t$$<sub>1</sub>, $$t$$<sub>2</sub>)"
+    international: true
+  definition: probability that a given maintenance action, performed under stated
+    conditions and using specified procedures and resources, can be completed within
+    the time interval ($$t$$<sub>1</sub>, $$t$$<sub>2</sub>) given that the action
+    started at $$t$$ = 0
+  language_code: eng
+  notes:
+  - When $$t$$<sub>1</sub> = 0 and $$t$$<sub>2</sub> = $$t$$, then $$M$$(0, $$t$$)
+    is denoted simply as $$M$$($$t$$) and termed the maintainability function.
+  - See also maintainability &lt;of an item&gt; ({{192-01-27, IEV:192-01-27}}).
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920701
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: mesure
+    designation: maintenabilité
+    gender: f
+    plurality: singular
+  - type: symbol
+    designation: "$$M$$($$t$$<sub>1</sub>, $$t$$<sub>2</sub>)"
+    international: true
+  definition: probabilité pour qu’une opération donnée de maintenance, réalisée dans
+    des conditions définies et à l’aide de procédures et ressources spécifiées, puisse
+    être effectuée dans un intervalle de temps ($$t$$<sub>1</sub>, $$t$$<sub>2</sub>)
+    donné lorsque l’opération a démarré à $$t$$ = 0
+  language_code: fre
+  notes:
+  - '1 à l’article: Si $$t$$<sub>1</sub>= 0 et $$t$$<sub>2</sub> = $$t$$, alors $$M$$(0,
+    $$t$$) est indiqué simplement sous la forme $$M$$($$t$$) et appelé fonction de
+    maintenabilité.'
+  - '2 à l’article: Voir aussi maintenabilité &lt;d’une entité&gt; ({{192-01-27, IEV:192-01-27}}).'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920701
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 保全度
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920701
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 측정;
+    designation: 유지보수능력
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920701
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: wskaźnik
+    designation: prawdopodobieństwo zakończenia obsługiwania
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920701
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: medida;
+    designation: manutibilidade
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920701
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 量度;
+    designation: 维修度
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

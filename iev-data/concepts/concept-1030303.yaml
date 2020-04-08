@@ -1,0 +1,150 @@
+---
+termid: 1030303
+term: unit ramp
+ara:
+  id: 1030303
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: "..…"
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030303
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Einheitsrampenfunktion
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: linearer Anstiegsvorgang
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030303
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: unit ramp
+  definition: continuous function, zero for all negative values of the independent
+    variable and increasing linearly with a slope equal to one for positive values
+    of the independent variable
+  language_code: eng
+  notes:
+  - '1 to entry: The unit ramp may be denoted $$x * epsilon ( x )$$, where $$( x )$$
+    is the unit step function.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030303
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: rampe unité
+    gender: f
+    plurality: singular
+  definition: fonction continue nulle pour toute valeur négative de la variable indépendante
+    et croissant linéairement avec une pente égale à un pour les valeurs positives
+    de la variable indépendante
+  language_code: fre
+  notes:
+  - '1 à l''article: La rampe unité peut être représentée par $$x * epsilon ( x )$$,
+    $$epsilon ( x )$$ où est la fonction échelon unité.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030303
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 単位ランプ
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030303
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 단위 램프
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030303
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: nachylenie jednostkowe
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030303
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: rampa unitária
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030303
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 单位斜坡函数
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

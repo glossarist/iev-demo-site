@@ -1,0 +1,174 @@
+---
+termid: 1031011
+term: wavenumber
+ara:
+  id: 1031011
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: عدد موجى
+  - type: expression
+    designation: تكرارات
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1031011
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Repetenz
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: Wellenzahl
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: Wellendichte
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1031011
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: wavenumber
+  - type: expression
+    normativeStatus: preferred
+    designation: repetency
+  - type: symbol
+    designation: ''
+    international: true
+  definition: |-
+    reciprocal of the wavelength
+
+     $$sigma = 1 // lambda$$
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1031011
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: nombre d'onde
+    gender: m
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: répétence
+    gender: f
+    plurality: singular
+  definition: |-
+    inverse de la longueur d'onde
+
+     $$sigma = 1 // lambda$$
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+jpn:
+  id: 1031011
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 波数
+  - type: expression
+    normativeStatus: preferred
+    designation: 波長の逆数
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1031011
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 파수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1031011
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: liczba falowa
+  - type: expression
+    designation: repetencja
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1031011
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: número de onda
+  - type: expression
+    designation: repetência
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1031011
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 波数
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

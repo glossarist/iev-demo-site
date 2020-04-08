@@ -1,0 +1,155 @@
+---
+termid: 1120226
+term: tera
+ara:
+  id: 1120226
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: تيرا
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120226
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: Tera…
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120226
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: tera
+  - type: symbol
+    designation: T
+    international: true
+  definition: SI prefix used to form the multiple 10<sup>12</sup> of a unit of measurement
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120226
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: téra
+  definition: préfixe SI utilisé pour former le multiple 10<sup>12</sup> d’une unité
+    de mesure
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120226
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: テラ
+  - type: expression
+    normativeStatus: preferred
+    designation: 10<sup>12</sup>
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120226
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: 테라
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120226
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: tera (przedrostek)
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120226
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: tera (prefixo)
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120226
+  terms:
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: 太拉
+  - type: expression
+    prefix: true
+    normativeStatus: preferred
+    designation: 太
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

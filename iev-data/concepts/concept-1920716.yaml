@@ -1,0 +1,121 @@
+---
+termid: 1920716
+term: function checkout time
+ara:
+  id: 1920716
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: زمن التحقق من الأداء الوظيفى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920716
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Funktionsprüfungsdauer
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920716
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: function checkout time
+  definition: part of active maintenance time taken to complete function checkout
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920716
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: temps d’essai de fonctionnement
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: temps de vérification de fonctionnement
+    gender: m
+    plurality: singular
+  definition: partie du temps de maintenance active consacré à effectuer un essai
+    de fonctionnement
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920716
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 機能点検時間
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920716
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 기능 점검 시간
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920716
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: czas sprawdzania działania
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920716
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: tempo de ensaio de funcionamento
+  - type: expression
+    designation: tempo de verificação de funcionamento
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920716
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 功能检查时间
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

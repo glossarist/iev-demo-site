@@ -1,0 +1,14 @@
+---
+termid: 1912804
+term: 부하 억제
+kor:
+  id: 1912804
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 부하 억제
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

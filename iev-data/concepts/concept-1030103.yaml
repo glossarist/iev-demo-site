@@ -1,0 +1,180 @@
+---
+termid: 1030103
+term: distribution
+ara:
+  id: 1030103
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: توزيع
+  - type: expression
+    designation: دالة تعميمية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030103
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Distribution
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: verallgemeinerte Funktion
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030103
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: distribution
+  - type: expression
+    normativeStatus: preferred
+    designation: generalized function
+  definition: continuous linear functional which assigns a real or complex number
+    to any function of a real or complex variable belonging to the class of infinitely
+    differentiable functions vanishing outside a bounded interval or domain
+  language_code: eng
+  notes:
+  - "1 to entry: A function $$D$$($$x$$) can be considered as a distribution $$D$$
+    assigning to a function $$f$$($$x$$) the value \n\n $$D ( f ) = ∫_(( - oo))^((
+    + oo)) D ( x ) f ( x ) d x$$ if this integral exists."
+  - "2 to entry: The derivative of a distribution $$D$$ is another distribution $$D$$
+    defined for any function $$f$$($$x$$) by \n\n$$D^( ' ) ( f ) = - D ( d f //  
+    d x )$$."
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030103
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: distribution
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: fonction généralisée
+    gender: f
+    plurality: singular
+  definition: fonctionnelle linéaire continue qui associe un nombre réel ou complexe
+    à toute fonction de variable réelle ou complexe appartenant à la classe des fonctions
+    indéfiniment dérivables nulles en dehors d'un intervalle ou domaine borné
+  language_code: fre
+  notes:
+  - "1 à l'article: Une fonction $$D$$($$x$$) peut être considérée comme une distribution
+    $$D$$ associant à une fonction $$f$$($$x$$) la valeur \n\n $$D ( f ) = ∫_(( -
+    oo))^(( + oo)) D ( x ) f ( x ) d x$$ si cette intégrale existe."
+  - "1 à l'article: 2 La dérivée d'une distribution $$D$$ est une autre distribution
+    $$D$$ définie pour toute fonction $$f$$($$x$$) par \n\n$$D^( ' ) ( f ) = - D (
+    d f //   d x )$$."
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030103
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 分布
+  - type: expression
+    normativeStatus: preferred
+    designation: 一般関数
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030103
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 분포
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030103
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: dystrybucja
+  - type: expression
+    designation: funkcja uogólniona
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030103
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: distribuição
+  - type: expression
+    designation: função generalizada
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030103
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 分布
+  - type: expression
+    normativeStatus: preferred
+    designation: 广义函数
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

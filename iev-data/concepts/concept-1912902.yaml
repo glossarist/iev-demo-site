@@ -1,0 +1,15 @@
+---
+termid: 1912902
+term: 공급 지장 기대값
+kor:
+  id: 1912902
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 전력 계통;
+    designation: 공급 지장 기대값
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

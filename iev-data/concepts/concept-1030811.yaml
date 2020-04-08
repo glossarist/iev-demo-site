@@ -1,0 +1,146 @@
+---
+termid: 1030811
+term: variance
+ara:
+  id: 1030811
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: التباين ( لكميات عشوائية)
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030811
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: einer Zufallsvariablen
+    designation: Varianz
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030811
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: of a random variable;
+    designation: variance
+  definition: "expectation of the square of the centred variable \n\n $$sigma^2 =
+    V ( X ) = E { X - E ( X )^2 }$$"
+  language_code: eng
+  notes:
+  - '1 to entry: The variance is the centred moment of order 2.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030811
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: d'une variable aléatoire
+    designation: variance
+    gender: f
+    plurality: singular
+  definition: "espérance mathématique du carré de la variable centrée \n\n $$sigma^2
+    = V ( X ) = E { X - E ( X )^2 }$$"
+  language_code: fre
+  notes:
+  - '1 à l''article: La variance est le moment centré d''ordre 2.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030811
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 確率変数の;
+    designation: 分散
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030811
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 확률변수;
+    designation: 분산
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030811
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: wariancja (zmiennej losowej)
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030811
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: variância (de uma variável aleatória)
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030811
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 一个随机变量的;
+    designation: 方差
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

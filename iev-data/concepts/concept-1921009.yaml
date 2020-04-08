@@ -1,0 +1,136 @@
+---
+termid: 1921009
+term: fault tolerance
+ara:
+  id: 1921009
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: استمرار العمل فى وجود عطل
+  - type: expression
+    designation: 'سابقا: إخفاء العطل'
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1921009
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: eines Systems
+    designation: Fehlzustandstoleranz
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1921009
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: of a system;
+    designation: fault tolerance
+  - type: expression
+    normativeStatus: deprecated
+    designation: fault masking
+  definition: ability to continue functioning with certain faults present
+  language_code: eng
+  notes:
+  - Faults would invariably be at a lower indenture level than the item of interest.
+  - See also fault masking ({{192-10-21, IEV:192-10-21}}).
+  examples: []
+  entry_status: Standard
+  classification: Deprecated
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1921009
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: d’un système
+    designation: tolérance aux pannes
+    gender: f
+    plurality: singular
+  definition: aptitude à continuer à fonctionner malgré la présence de certaines pannes
+  language_code: fre
+  notes:
+  - '1 à l’article: Les pannes se situent invariablement à un niveau dans l’arborescence
+    inférieur à celui de l’entité considérée.'
+  - Voir aussi masquage de panne ({{192-10-21, IEV:192-10-21}}).
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1921009
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: システムの;
+    designation: フォールトトレランス
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1921009
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 계통;
+    designation: 결함 허용 오차
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1921009
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: właściwość systemu
+    designation: tolerowanie niezdatności
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1921009
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: de um sistema;
+    designation: tolerante a avarias
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1921009
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 系统的;
+    designation: 容错
+  - type: expression
+    usageInfo: 系统的;
+    designation: 故障裕度
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

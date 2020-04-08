@@ -1,0 +1,142 @@
+---
+termid: 1030107
+term: functional relation
+ara:
+  id: 1030107
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: العلاقة الدالية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030107
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: funktionale Beziehung
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030107
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: functional relation
+  definition: relation between two or more variables expressed in the form of an equality
+  language_code: eng
+  notes:
+  - '1 to entry: $$F ( x ,   y ,   z ) = 0$$ is a functional relation between the
+    variables $$x ,   y ,   z$$. Any function of $$n$$ variables is a functional relation
+    between $$n$$ + 1 variables.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030107
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: relation fonctionnelle
+    gender: f
+    plurality: singular
+  definition: relation entre deux variables ou plus exprimée sous la forme d'une égalité
+  language_code: fre
+  notes:
+  - '1 à l''article: $$F ( x ,   y ,   z ) = 0$$ est une relation fonctionnelle entre
+    les variables $$x ,   y ,   z$$. Toute fonction de $$n$$ variables est une relation
+    fonctionnelle entre $$n$$ + 1 variables.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030107
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 関数関係
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030107
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 함수 관계
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030107
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: zależność funkcjonalna
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030107
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: relação funcional
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030107
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 函数关系
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

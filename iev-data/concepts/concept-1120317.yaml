@@ -1,0 +1,171 @@
+---
+termid: 1120317
+term: volume concentration
+ara:
+  id: 1120317
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: تركيز
+  - type: expression
+    normativeStatus: preferred
+    designation: تركيز حجمى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120317
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: "...konzentration"
+    gender: "(in"
+    plurality: singular
+  - type: expression
+    designation: Volumenkonzentration
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1120317
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: volume concentration
+  - type: expression
+    designation: concentration
+  definition: supplements the name of a quantity, especially for a component in a
+    system, to indicate the quotient of that quantity by the total volume
+  language_code: eng
+  notes:
+  - 'Examples: amount-of-substance volume concentration of component B (or concentration
+    of B, in particular, ion concentration), molecular concentration of B, electron
+    concentration (or electron density).'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120317
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: concentration
+    gender: f
+    plurality: singular
+  definition: complète le nom d’une grandeur, particulièrement dans le cas d’un constituant
+    dans un système, pour indiquer le quotient de cette grandeur par le volume total
+  language_code: fre
+  notes:
+  - 'Exemples: concentration en quantité de matière du constituant B (ou concentration
+    du constituant B, en particulier, concentration ionique), concentration moléculaire
+    du constituant B, concentration électronique (ou densité électronique).'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120317
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 体積濃度
+  - type: expression
+    normativeStatus: preferred
+    designation: 濃度
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120317
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 부피 농도
+  - type: expression
+    designation: 농도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120317
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: stężenie objętościowe
+  - type: expression
+    normativeStatus: preferred
+    designation: stężenie
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120317
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: concentração
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120317
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 体积浓度
+  - type: expression
+    normativeStatus: preferred
+    designation: 体浓度
+  - type: expression
+    normativeStatus: preferred
+    designation: 浓度
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

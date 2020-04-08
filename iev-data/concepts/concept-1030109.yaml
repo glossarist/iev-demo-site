@@ -1,0 +1,143 @@
+---
+termid: 1030109
+term: weighted inner product
+ara:
+  id: 1030109
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: الضرب الداخلى لمتجهات موزونة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030109
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: gewichtetes inneres Produkt
+    gender: n
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030109
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: weighted inner product
+  definition: 'for two complex-valued functions, $$underset(_)(f)$$ and $$underset(_)(g)$$,
+    defined on the interval $$a , b$$ of ℝ, complex number $$(: underset(_)(f) , underset(_)(g)
+    :) = ∫_(   a )^(   b ) underset(_)(f) ( x )   underset(_)(g)^( ** ) ​ ( x )  
+    w ( x ) d x$$, where $$w$$($$x$$) is a real function of $$x$$ called weight'
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030109
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: produit interne pondéré
+    gender: m
+    plurality: singular
+  definition: 'pour deux fonctions à valeurs complexes, $$underset(_)(f)$$ et $$underset(_)(g)$$,
+    définies sur l''intervalle $$a , b$$ de ℝ, nombre complexe $$(: underset(_)(f)
+    , underset(_)(g) :) = ∫_(   a )^(   b ) underset(_)(f) ( x )   underset(_)(g)^(
+    ** ) ​ ( x )   w ( x ) d x$$, où $$w$$($$x$$) est une fonction réelle de $$x$$
+    appelée poids'
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030109
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 加重内積
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030109
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 가중 내적
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030109
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: iloczyn wewnętrzny ważony
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030109
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: produto interno ponderado
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030109
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 加权内积
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

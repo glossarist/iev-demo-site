@@ -1,0 +1,135 @@
+---
+termid: 1920919
+term: reliability stress screening
+ara:
+  id: 1920919
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: فحص إجهاد العول
+  - type: expression
+    designation: فحص إجهاد الدقة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920919
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Reliability Stress Screening
+    gender: n
+    plurality: singular
+  - type: expression
+    designation: RSS
+  - type: expression
+    designation: Zuverlässigkeitsvorbehandlung durch Beanspruchung
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920919
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: reliability stress screening
+  - type: expression
+    designation: RSS
+  definition: process for detecting flaws by applying environmental and/or operational
+    stresses to precipitate them as detectable failures
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920919
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: déverminage sous contraintes
+    gender: m
+    plurality: singular
+  definition: processus de détection des défectuosités par application de contraintes
+    d’environnement ou de fonctionnement visant à les transformer en défaillances
+    détectables
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920919
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 信頼性ストレススクリーニング
+  - type: expression
+    designation: RSS
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920919
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 신뢰도 가혹 선별
+  - type: expression
+    designation: RSS
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920919
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: selekcja narażeniowa ze względu na nieuszkadzalność
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: RSS
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920919
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: triagem da fiabilidade de desgaste
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920919
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 可靠性应力筛选
+  - type: expression
+    designation: RSS
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

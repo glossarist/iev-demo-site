@@ -1,0 +1,123 @@
+---
+termid: 1920604
+term: level of maintenance
+ara:
+  id: 1920604
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: مستوى الصيانة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920604
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Instandhaltungsebene
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920604
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: level of maintenance
+  - type: expression
+    designation: maintenance level
+  definition: set of maintenance actions to be carried out at a specified indenture
+    level
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920604
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: niveau de maintenance
+    gender: m
+    plurality: singular
+  definition: ensemble des opérations de maintenance à effectuer à un niveau dans
+    l’arborescence spécifié
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920604
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 保全水準
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920604
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 유지보수 수준
+  - type: expression
+    designation: 유지보수 계층
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920604
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: wg poziomu podziału obiektu
+    designation: zakres obsługiwania
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920604
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: nível de manutenção
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920604
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 维修等级
+  - type: expression
+    designation: 维修活动等级
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

@@ -1,0 +1,157 @@
+---
+termid: 1030716
+term: complex angular frequency
+ara:
+  id: 1030716
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: التردد الزاوى المركب
+  - type: expression
+    designation: مركب نبضى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030716
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: komplexe Kreisfrequenz
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030716
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: complex angular frequency
+  - type: expression
+    designation: complex pulsatance
+  - type: symbol
+    designation: "$$s$$"
+    international: true
+  definition: complex quantity $$s = sigma + j omega$$ associated with a quantity
+    represented by $$a ( t ) = A_0 e^( sigma   t) cos ( omega   t + vartheta_0 )$$,
+    where $$A_0$$ is the initial amplitude, $$$$ is the angular frequency, $$t$$ is
+    time, and $$vartheta_0$$ is initial phase
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030716
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: pulsation complexe
+    gender: f
+    plurality: singular
+  definition: grandeur complexe $$s = sigma + j omega$$ associée à une grandeur de
+    la forme $$a ( t ) = A_0 e^( sigma   t) cos ( omega   t + vartheta_0 )$$, où $$A_0$$
+    est l'amplitude à l'origine, $$$$ est la pulsation, $$t$$ le temps et $$vartheta_0$$
+    la phase à l'origine
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030716
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 複素角振動数
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030716
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 복소 각속도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030716
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: pulsacja zespolona
+  - type: expression
+    designation: częstotliwość kątowa zespolona (termin niezalecany)
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030716
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: frequência angular complexa
+  - type: expression
+    designation: pulsação complexa
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030716
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 复角频率
+  - type: expression
+    normativeStatus: preferred
+    designation: 复角速度
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

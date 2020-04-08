@@ -1,0 +1,128 @@
+---
+termid: 1030602
+term: frequency
+ara:
+  id: 1030602
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: تردد
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030602
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Frequenz
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1030602
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: frequency
+  - type: symbol
+    designation: "$$f$$<br>$$v$$</br>"
+    international: true
+  definition: reciprocal of the {{period, IEV:103-06-01}}
+  language_code: eng
+  notes:
+  - '1 to entry: The symbol $$f$$ is mainly used when the period is a time. The symbol
+    $$$$ (nu) is mainly used in optics.'
+  - '2 to entry: The coherent SI unit of frequency is the {{hertz, IEV:103-06-18}},
+    Hz.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2017-07-01T00:00:00+00:00'
+  date_amended: '2017-07-01T00:00:00+00:00'
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 103-06-02:2009-12
+fre:
+  id: 1030602
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fréquence
+    gender: f
+    plurality: singular
+  definition: inverse de la <a/>IEV103-06-01&gt;période<a/>
+  language_code: fre
+  notes:
+  - '1 à l''article: Le symbole $$f$$ est utilisé principalement lorsque la période
+    est un temps. Le symbole $$$$ (nu) est utilisé principalement en optique.'
+  - '2 à l’article: L’unité SI cohérente de fréquence est le {{hertz, IEV:103-06-18}},
+    Hz.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030602
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 周波数
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1030602
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 주파수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030602
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: częstotliwość
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1030602
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: frequência
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1030602
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 频率
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

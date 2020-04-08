@@ -1,0 +1,166 @@
+---
+termid: 1030713
+term: complex amplitude
+ara:
+  id: 1030713
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: السعة المركبة
+  - type: expression
+    designation: سعة الطور
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030713
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Amplitudenzeiger
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030713
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: complex amplitude
+  - type: expression
+    normativeStatus: preferred
+    designation: amplitude phasor
+  definition: for a sinusoidal quantity $$a ( t ) = hat A cos ( omega   t + vartheta_0
+    )$$, complex value $$underset(_)(hat A) = hat A exp j vartheta_0$$, where j is
+    the imaginary unit, $$omega$$ is angular frequency, and $$vartheta_0$$ is initial
+    phase
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030713
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: amplitude complexe
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: phaseur d'amplitude
+    gender: m
+    plurality: singular
+  definition: pour une grandeur sinusoïdale $$a ( t ) = hat A cos ( omega   t + vartheta_0
+    )$$, valeur complexe $$underset(_)(hat A) = hat A exp j vartheta_0$$, où j est
+    l’unité imaginaire, $$omega$$ est la pulsation et $$vartheta_0$$ est la phase
+    à l'origine
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+jpn:
+  id: 1030713
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 複素振幅
+  - type: expression
+    normativeStatus: preferred
+    designation: 振幅位相ベクトル
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030713
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 복소 진폭
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030713
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fazor amplitudowy
+  - type: expression
+    designation: amplituda zespolona
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030713
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: amplitude complexa
+  - type: expression
+    designation: fasor de amplitude
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030713
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 复振幅
+  - type: expression
+    normativeStatus: preferred
+    designation: 振幅相量
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

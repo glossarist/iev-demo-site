@@ -1,0 +1,121 @@
+---
+termid: 1921011
+term: self-testing
+ara:
+  id: 1921011
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: إختبار ذاتى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1921011
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Selbstüberprüfung
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1921011
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: self-testing
+  definition: built-in test facility for assessing internal system status
+  language_code: eng
+  notes:
+  - Self-testing may occur on start-up and/or throughout operation.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1921011
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: test automatique
+    gender: m
+    plurality: singular
+  definition: capacité d’essai intégrée permettant d’évaluer l’état interne du système
+  language_code: fre
+  notes:
+  - '1 à l’article: Un essai automatique peut avoir lieu au démarrage ou tout au long
+    du fonctionnement.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1921011
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 自己テスト
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1921011
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 자체 시험
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1921011
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: samotestowanie
+    gender: n
+    plurality: singular
+  - type: expression
+    designation: autotestowanie
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1921011
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ensaio automático
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1921011
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 自测试
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

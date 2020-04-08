@@ -1,0 +1,143 @@
+---
+termid: 1031010
+term: wavelength
+ara:
+  id: 1031010
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: الطول الموجى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1031010
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Wellenlänge
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1031010
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: wavelength
+  - type: symbol
+    designation: ''
+    international: true
+  definition: distance, in the direction of propagation of a sinusoidal wave, between
+    two successive points where the phases of the characteristic quantity differ by
+    2 radians
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1031010
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: longueur d'onde
+    gender: f
+    plurality: singular
+  definition: distance, dans la direction de propagation d'une onde sinusoïdale, entre
+    deux points successifs où les phases de la grandeur caractéristique diffèrent
+    de 2 radians
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1031010
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 波長
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1031010
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 파장
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1031010
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: długość fali
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1031010
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: comprimento de onda
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1031010
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 波长
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

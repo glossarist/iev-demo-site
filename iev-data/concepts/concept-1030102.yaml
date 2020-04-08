@@ -1,0 +1,140 @@
+---
+termid: 1030102
+term: functional
+ara:
+  id: 1030102
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: دالى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030102
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Funktional
+    gender: n
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030102
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: functional
+  definition: function for which the argument is a function and the value a number
+  language_code: eng
+  notes:
+  - '1 to entry: An example of a functional of the function $$f$$($$t$$) is $$∫_(
+    t_2 )^( t_1 ) f ( t ) d t$$.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030102
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: fonctionnelle
+    gender: f
+    plurality: singular
+  definition: fonction dont l'argument est une fonction et la valeur un nombre
+  language_code: fre
+  notes:
+  - '1 à l''article: Un exemple de fonctionnelle de la fonction $$f$$($$t$$) est $$∫_(
+    t_2 )^( t_1 ) f ( t ) d t$$.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030102
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 汎関数
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030102
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 범함수
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030102
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: funkcjonał
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030102
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: funcional
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030102
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 泛函
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

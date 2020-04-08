@@ -1,0 +1,134 @@
+---
+termid: 1920628
+term: condition monitoring
+ara:
+  id: 1920628
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: لمعدة;
+    designation: مراقبة الحالة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920628
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: einer Einheit
+    designation: Zustandsüberwachung
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920628
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: of an item;
+    designation: condition monitoring
+  definition: obtaining information about physical state or operational parameters
+  language_code: eng
+  notes:
+  - Condition monitoring is used to determine when preventive maintenance may be required.
+  - Condition monitoring may be conducted automatically during operation or at planned
+    intervals.
+  - 'Condition monitoring methods include: vibration analysis, tribology and thermography.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920628
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: d’une entité
+    designation: surveillance d’état
+    gender: f
+    plurality: singular
+  definition: obtention d’informations relatives à l’état physique ou à des paramètres
+    opérationnels
+  language_code: fre
+  notes:
+  - '1 à l’article: La surveillance d’état permet de prévoir le moment où une maintenance
+    préventive devient nécessaire.'
+  - '2 à l’article: La surveillance d’état peut être réalisée de manière automatique
+    pendant le fonctionnement ou à intervalles planifiés.'
+  - '3 à l’article: Les méthodes de surveillance d’état incluent: l’analyse des vibrations,
+    la tribologie et la thermographie.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920628
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: アイテムの;
+    designation: 状態監視
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920628
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 품목;
+    designation: 상태 감시
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920628
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: obiektu
+    designation: monitorowanie stanu
+    gender: n
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920628
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: de um item;
+    designation: monitorização de estado
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920628
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 产品的;
+    designation: 状况监测
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

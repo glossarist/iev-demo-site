@@ -1,0 +1,121 @@
+---
+termid: 1030711
+term: in opposition
+ara:
+  id: 1030711
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: متضادان فى الطور
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030711
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: gegenphasig
+    partOfSpeech: adj
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1030711
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: in opposition
+    partOfSpeech: adj
+  definition: qualifies two sinusoidal quantities of the same frequency having a phase
+    difference equal to
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2017-07-01T00:00:00+00:00'
+  date_amended: '2017-07-01T00:00:00+00:00'
+  review_date: '2017-07-01T00:00:00+00:00'
+  review_decision_date: '2017-07-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 103-07-11:2009-12
+fre:
+  id: 1030711
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: en opposition
+    partOfSpeech: adj
+  definition: qualifie deux grandeurs sinusoïdales de même fréquence dont la différence
+    de phase est égale à
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030711
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 反対の
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1030711
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 대립 위상
+    partOfSpeech: adj
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030711
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: w przeciwfazie
+    partOfSpeech: adj
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1030711
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: em oposição
+    partOfSpeech: adj
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1030711
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 反相的
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

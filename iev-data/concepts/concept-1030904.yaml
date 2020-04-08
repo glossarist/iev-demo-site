@@ -1,0 +1,140 @@
+---
+termid: 1030904
+term: power spectrum
+ara:
+  id: 1030904
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: طيف القوة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030904
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Leistungsspektrum
+    gender: n
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030904
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: power spectrum
+  definition: spectrum representing the square of the amplitudes of a signal or noise,
+    or a power
+  language_code: eng
+  notes:
+  - '1 to entry: A power spectrum can be continuous or discrete.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030904
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: spectre de puissance
+    gender: m
+    plurality: singular
+  definition: spectre représentant le carré des amplitudes d'un signal ou d'un bruit
+    ou une puissance
+  language_code: fre
+  notes:
+  - '1 à l''article: Un spectre de puissance peut être continu ou discret.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030904
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: パワースペクトル
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030904
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 전력 스펙트럼
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030904
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: widmo mocy
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030904
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: espectro de potência
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030904
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 功率谱
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

@@ -1,0 +1,149 @@
+---
+termid: 1120115
+term: unit name
+ara:
+  id: 1120115
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: اسم الوحدة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120115
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Name einer Einheit
+    gender: m
+    plurality: singular
+  - type: expression
+    designation: Einheitenname
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1120115
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: unit name
+  - type: expression
+    normativeStatus: preferred
+    designation: name of unit
+  definition: term designating a {{unit of measurement, IEV:112-01-14}}
+  language_code: eng
+  notes:
+  - '1 to entry: Names of derived units are special or compound. Rules for the formation
+    of compound names are given in ISO 80000-1 and IEC 60027-1. For example, the derived
+    unit of resistivity is the ohm metre, the derived unit of speed is the metre per
+    second.'
+  - '2 to entry: Unit names are given in the various parts of ISO 80000, IEC 80000,
+    and IEC 60027 and also in the brochure The International System of Units, published
+    by the BIPM.'
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2019-01-01T00:00:00+00:00'
+  date_amended: '2019-01-01T00:00:00+00:00'
+  review_date: '2019-01-01T00:00:00+00:00'
+  review_decision_date: '2019-01-01T00:00:00+00:00'
+  review_decision_event: published
+  release: 112-01-15:2010-01
+fre:
+  id: 1120115
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: nom d'unité
+    gender: m
+    plurality: singular
+  definition: terme désignant une {{unité de mesure, IEV:112-01-14}}
+  language_code: fre
+  notes:
+  - '1 à l''article: Les noms des unités dérivées sont spéciaux ou composés. Des règles
+    pour la formation des noms composés sont données dans l''ISO 80000-1 et la CEI
+    60027-1. Par exemple, l’unité dérivée de résistivité est l’ohm mètre, l’unité
+    dérivée de vitesse est le mètre par seconde.'
+  - '2 à l''article: Des noms d''unités sont donnés dans les différentes parties de
+    l''ISO 80000, de l''IEC 80000 et de l''IEC 60027, ainsi que dans la brochure Le
+    système international d''unités, publiée par le BIPM.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1120115
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 単位の名称
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1120115
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 단위 명칭
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120115
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: nazwa jednostki miary
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: nazwa jednostki
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1120115
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: nome de unidade
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120115
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 单位名称
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

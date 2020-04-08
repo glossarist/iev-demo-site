@@ -1,0 +1,122 @@
+---
+termid: 1920903
+term: acceptance test
+ara:
+  id: 1920903
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: اختبار القبول
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920903
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Abnahmeprüfung
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920903
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: acceptance test
+  definition: contractual procedure to demonstrate, to the customer, that acceptance
+    criteria are met
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920903
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: essai d’acceptation
+    gender: m
+    plurality: singular
+  definition: procédure contractuelle destinée à prouver au client que les critères
+    d’acceptation sont satisfaits
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920903
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 受入れ試験
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920903
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 인수 시험
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920903
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: badanie odbiorcze
+    gender: n
+    plurality: singular
+  - type: expression
+    designation: próba odbiorcza
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920903
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ensaio de aceitação
+  - type: expression
+    designation: ensaio de receção
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920903
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 验收试验
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

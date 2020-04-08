@@ -1,0 +1,160 @@
+---
+termid: 1030606
+term: alternating component
+ara:
+  id: 1030606
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: محتوى متردد
+  - type: expression
+    designation: محتوى متموج
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1030606
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Wechselanteil
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1030606
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: alternating component
+  - type: expression
+    designation: ripple content
+  definition: difference between a periodic quantity and its mean value
+  language_code: eng
+  notes:
+  - '1 to entry: The alternating component of the quantity $$x$$($$t$$) is denoted
+    by $$x_( ∼ ) ( t )$$.'
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1030606
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: composante alternative
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: ondulation
+    gender: f
+    plurality: singular
+  definition: différence entre une grandeur périodique et sa valeur moyenne
+  language_code: fre
+  notes:
+  - '1 à l''article: La composante alternative de la grandeur $$x$$($$t$$) est notée
+    $$x_( ∼ ) ( t )$$.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1030606
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 交代振動
+  - type: expression
+    normativeStatus: preferred
+    designation: リップル成分
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1030606
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 교류 성분
+  - type: expression
+    designation: 리플 성분
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1030606
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: składowa przemienna
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1030606
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: componente alternada
+  - type: expression
+    designation: ondulação
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1030606
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 交流分量
+  - type: expression
+    normativeStatus: preferred
+    designation: 纹波含量
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2009-12-01T00:00:00+00:00'
+  date_amended: '2009-12-01T00:00:00+00:00'
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published

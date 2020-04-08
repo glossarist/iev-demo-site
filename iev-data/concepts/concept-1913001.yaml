@@ -1,0 +1,16 @@
+---
+termid: 1913001
+term: 공급 지장 전력량
+kor:
+  id: 1913001
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 공급 지장 전력량
+  - type: expression
+    designation: 공급 지장 에너지
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

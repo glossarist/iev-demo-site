@@ -1,0 +1,178 @@
+---
+termid: 1120135
+term: ordinal quantity
+ara:
+  id: 1120135
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: كمية ترتيبية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120135
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Ordinalgröße
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: ordinale Größe
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120135
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ordinal quantity
+  definition: quantity, defined by a conventional measurement procedure, for which
+    a total ordering relation can be established, according to magnitude, with other
+    quantities of the same kind, but for which no algebraic operations among those
+    quantities exist
+  language_code: eng
+  notes:
+  - Ordinal quantities can enter into empirical relations only and have neither units
+    of measurement nor dimension. Differences and ratios of ordinal quantities have
+    no physical meaning.
+  - Ordinal quantities are arranged according to ordinal value scales.
+  - 'Examples: Rockwell C hardness, octane number for petroleum fuel, earthquake strength
+    on the Richter scale, subjective level of abdominal pain on a scale from zero
+    to five.'
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO/IEC GUIDE 99:2007
+    clause: '1.26'
+    link: https://www.iso.org/standard/45324.html
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120135
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: grandeur ordinale
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: grandeur repérable
+    gender: f
+    plurality: singular
+  definition: grandeur, définie par une procédure de mesure adoptée par convention,
+    qui peut être classée avec d'autres grandeurs de même nature selon l'ordre croissant
+    ou décroissant de leurs expressions quantitatives, mais pour laquelle aucune relation
+    algébrique entre ces grandeurs n’existe
+  language_code: fre
+  notes:
+  - Les grandeurs ordinales ne peuvent prendre part qu'à des relations empiriques
+    et n'ont ni unités de mesure, ni dimensions. Les différences et les rapports de
+    grandeurs ordinales n’ont pas de signification.
+  - Les grandeurs ordinales sont classées selon des échelles ordinales.
+  - 'Exemples: dureté C de Rockwell, indice d''octane pour les carburants, magnitude
+    d''un séisme sur l''échelle de Richter, niveau subjectif de douleur abdominale
+    sur une échelle de zéro à cinq.'
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: ISO/IEC GUIDE 99:2007
+    clause: '1.26'
+    link: https://www.iso.org/standard/45324.html
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120135
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 順序量
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120135
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 순서량
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120135
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: wielkość porządkowa
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120135
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: grandeza ordinal
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120135
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 序量
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

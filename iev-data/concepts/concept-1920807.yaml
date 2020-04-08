@@ -1,0 +1,153 @@
+---
+termid: 1920807
+term: steady state availability
+ara:
+  id: 1920807
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: إتاحية حالة الاستقرار
+  - type: expression
+    designation: اتاحية مقاربة
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920807
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: stationäre mittlere Verfügbarkeit
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: asymptotische Verfügbarkeit
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920807
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: steady state availability
+  - type: expression
+    designation: asymptotic availability
+  - type: symbol
+    designation: "$$A$$"
+    international: true
+  definition: limit, if it exists, of the instantaneous availability when the time
+    tends to infinity
+  language_code: eng
+  notes:
+  - Under certain conditions the steady state availability may be expressed as the
+    quotient of the mean up time to the sum of the mean up time, to mean down time.
+    See IEC 61703, <i>Mathematical expressions for reliability, availability, maintainability
+    and maintenance support terms</i>.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920807
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: disponibilité en régime établi
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: disponibilité asymptotique
+    gender: f
+    plurality: singular
+  - type: symbol
+    designation: "$$A$$"
+    international: true
+  definition: limite, si elle existe, de la disponibilité instantanée lorsque le temps
+    tend vers l’infini
+  language_code: fre
+  notes:
+  - '1 à l’article: Dans certaines conditions, la disponibilité en régime établi peut
+    être exprimée comme le quotient du temps moyen de disponibilité par la somme des
+    temps moyens de disponibilité et d’indisponibilité. Voir l''IEC 61703, <i>Expressions
+    mathématiques pour les termes de fiabilité, de disponibilité, de maintenabilité
+    et de logistique de maintenance</i>.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920807
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 定常アベイラビリティ
+  - type: expression
+    designation: 漸近アベイラビリティ
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920807
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 정상상태 가용도
+  - type: expression
+    designation: 점근 가용도
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920807
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: gotowość stacjonarna
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: dyspozycyjność stacjonarna
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920807
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: disponibilidade em estado estacionário
+  - type: expression
+    designation: disponibilidade assimtótica
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920807
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 稳态可用度
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

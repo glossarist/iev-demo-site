@@ -1,0 +1,155 @@
+---
+termid: 1120204
+term: second
+ara:
+  id: 1120204
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ثانية
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+ger:
+  id: 1120204
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Sekunde
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+eng:
+  id: 1120204
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: second
+  - type: symbol
+    designation: s
+    international: true
+  definition: SI unit of time, equal to the duration of 9 192 631 770 periods of the
+    radiation corresponding to the transition between the two hyperfine levels of
+    the ground state of the caesium 133 atom
+  language_code: eng
+  notes:
+  - The CIPM affirmed that this definition refers to a caesium atom in its ground
+    state at a temperature of 0 K.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: CGPM
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1120204
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: seconde
+    gender: f
+    plurality: singular
+  definition: unité SI de temps, égale à la durée de 9 192 631 770 périodes de la
+    radiation correspondant à la transition entre les deux niveaux hyperfins de l’état
+    fondamental de l’atome de césium 133
+  language_code: fre
+  notes:
+  - Le CIPM a confirmé que cette définition se réfère à un atome de césium au repos,
+    à une température de 0 K.
+  examples: []
+  entry_status: Standard
+  authoritative_source:
+    ref: CGPM
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+jpn:
+  id: 1120204
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 秒
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+kor:
+  id: 1120204
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 초
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1120204
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: sekunda
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+por:
+  id: 1120204
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: segundo
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published
+chi:
+  id: 1120204
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 秒
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  date_accepted: '2010-01-01T00:00:00+00:00'
+  date_amended: '2010-01-01T00:00:00+00:00'
+  review_date: '2010-01-01T00:00:00+00:00'
+  review_decision_date: '2010-01-01T00:00:00+00:00'
+  review_decision_event: published

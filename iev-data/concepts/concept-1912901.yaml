@@ -1,0 +1,14 @@
+---
+termid: 1912901
+term: 동작 실패 확률
+kor:
+  id: 1912901
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 동작 실패 확률
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

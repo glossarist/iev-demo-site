@@ -1,0 +1,135 @@
+---
+termid: 1921205
+term: root cause analysis
+ara:
+  id: 1921205
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: تحليل للوصول للسبب الجذرى
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1921205
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Grundursachenanalyse
+    gender: f
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1921205
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: root cause analysis
+  - type: expression
+    normativeStatus: preferred
+    designation: RCA
+  definition: systematic process to identify the cause of a fault, failure or undesired
+    event, so that it can be removed by design, process or procedure changes
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1921205
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: analyse des causes premières
+    gender: f
+    plurality: singular
+  - type: expression
+    normativeStatus: preferred
+    designation: ACP
+    gender: f
+    plurality: singular
+  definition: processus systématique d’identification de la cause d’une panne, d’une
+    défaillance ou d’un événement indésirable, de manière à pouvoir l’éliminer en
+    modifiant la conception, le processus ou la procédure
+  language_code: fre
+  notes: []
+  examples: []
+  entry_status: Standard
+  classification: Preferred
+  review_decision_event: published
+jpn:
+  id: 1921205
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 根本原因分析
+  - type: expression
+    designation: RCA
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1921205
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 근원 분석
+  - type: expression
+    designation: RCA
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1921205
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: analiza przyczyn źródłowych
+    gender: f
+    plurality: singular
+  - type: expression
+    designation: RCA
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1921205
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: análise de causa de raiz
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1921205
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 根本原因分析
+  - type: expression
+    designation: RCA
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

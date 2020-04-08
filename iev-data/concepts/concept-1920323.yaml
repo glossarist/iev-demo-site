@@ -1,0 +1,136 @@
+---
+termid: 1920323
+term: trigger
+ara:
+  id: 1920323
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: لفشل خامد;
+    designation: إطلاق،
+  - type: expression
+    usageInfo: لفشل خامد;
+    designation: إثارة،
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920323
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: eines schlafenden Fehlzustandes
+    designation: Trigger
+    gender: m
+    plurality: singular
+  - type: expression
+    usageInfo: eines schlafenden Fehlzustandes
+    designation: Auslöser
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920323
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: for a dormant fault;
+    designation: trigger
+  definition: combination of operating circumstances that activates a dormant fault
+  language_code: eng
+  notes:
+  - The trigger may be the internal state of the system, the data being processed,
+    operator action, environmental conditions, or any combinations thereof.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920323
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: pour une panne dormante
+    designation: déclencheur
+    gender: m
+    plurality: singular
+  definition: combinaison de circonstances de fonctionnement qui active une panne
+    dormante
+  language_code: fre
+  notes:
+  - '1 à l’article: Le déclencheur peut être l’état interne du système, les données
+    en cours de traitement, l’action de l’opérateur, les conditions d’environnement
+    ou une quelconque de leurs combinaisons.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920323
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 休眠フォールトの;
+    designation: トリガー
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920323
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 휴면기 고장;
+    designation: 트리거
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920323
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: niezdatność uśpioną
+    designation: okoliczność wyzwalająca
+    gender: f
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920323
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: disparo
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920323
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 休眠故障的;
+    designation: 触发
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

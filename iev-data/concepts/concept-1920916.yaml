@@ -1,0 +1,121 @@
+---
+termid: 1920916
+term: test cycle
+ara:
+  id: 1920916
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: دورة الاختبار
+  language_code: ara
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+ger:
+  id: 1920916
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: Prüfzyklus
+    gender: m
+    plurality: singular
+  language_code: ger
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+eng:
+  id: 1920916
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: test cycle
+  definition: sequence of specific and reproducible operating, environmental and maintenance
+    conditions that are repeated periodically during a test
+  language_code: eng
+  notes:
+  - The operating conditions are varied to simulate the time variation of operating
+    and environmental conditions of intended use.
+  examples: []
+  entry_status: Standard
+  date_accepted: '2015-02-01T00:00:00+00:00'
+  date_amended: '2015-02-01T00:00:00+00:00'
+  review_date: '2015-02-01T00:00:00+00:00'
+  review_decision_date: '2015-02-01T00:00:00+00:00'
+  review_decision_event: published
+fre:
+  id: 1920916
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: cycle d’essai
+    gender: m
+    plurality: singular
+  definition: ensemble de conditions reproductibles spécifiques liées au fonctionnement,
+    à la maintenance et à l’environnement, régulièrement répétées pendant un essai
+  language_code: fre
+  notes:
+  - '1 à l’article: On fait varier les conditions de fonctionnement afin de simuler
+    la variation dans le temps des conditions de fonctionnement et d’environnement
+    de l’utilisation prévue.'
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+jpn:
+  id: 1920916
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 試験サイクル
+  language_code: jpn
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+kor:
+  id: 1920916
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 시험 주기
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+pol:
+  id: 1920916
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: cykl badania
+    gender: m
+    plurality: singular
+  language_code: pol
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+por:
+  id: 1920916
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: ciclo de ensaio
+  language_code: por
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
+chi:
+  id: 1920916
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    designation: 试验循环
+  language_code: chi
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published

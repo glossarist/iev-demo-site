@@ -1,0 +1,15 @@
+---
+termid: 1912204
+term: 부분 적정 상태
+kor:
+  id: 1912204
+  terms:
+  - type: expression
+    normativeStatus: preferred
+    usageInfo: 전력 계통;
+    designation: 부분 적정 상태
+  language_code: kor
+  notes: []
+  examples: []
+  entry_status: Standard
+  review_decision_event: published
