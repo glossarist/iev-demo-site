@@ -1,12 +1,15 @@
-title: "ISO/TC 211 Geolexica"
+title: "IEV Electropedia Glossarist demo"
 
-google_analytics:
-  id: UA-138578173-2
+# google_analytics:
+#   id: # TODO
 
 committee:
-  id: 211
-  name: Geographic information/Geomatics
-  home: https://committee.iso.org/home/tc211
+  name: Terminology
+  home: https://www.iec.ch/dyn/www/f?p=103:7:0::::FSP_ORG_ID,FSP_LANG_ID:1231,25
+  main_logo:
+    path: assets/images/IEC_logo.svg
+  footer_logo:
+    path: assets/images/IEC_logo.svg
 
 font_awesome_kit_url: https://kit.fontawesome.com/77a8a07e0a.js
 
@@ -15,35 +18,30 @@ always_show_committee_link_on_landing: yes
 
 email: open.source@ribose.com
 
-tagline: >-
-  The authoritative
-  geographic information terminology database
+tagline: "Electropedia: The World's Online Electrotechnical Vocabulary"
 
 description: >-
-  The authoritative glossary for geographic information technology from ISO/TC 211.
+  Electropedia is produced by the IEC, the world’s leading organization that prepares and publishes International Standards for all electrical, electronic and related technologies – collectively known as “electrotechnology”. Electropedia (also known as the "IEV Online") contains all the terms and definitions in the International Electrotechnical Vocabulary or IEV which is published also as a set of publications in the IEC 60050 series that can be ordered separately from the IEC webstore.
 
 # Used for copyright notice and possibly more.
 org:
-  name: International Organization for Standardization
+  name: International Electrotechnical Commission
   website:
-    url: https://www.iso.org/
-    title: www.iso.org
-  email: copyright@iso.org
+    url: https://www.iec.ch/
+    title: www.iec.ch
+  email: terminology@iec.ch
   address: |-
-    Chemin de Blandonnet 8
-    CP 401
-    1214 Vernier, Geneva
-    Switzerland
+    3 rue de Varembé
+    PO Box 131
+    CH-1211 Geneva 20, Switzerland
 
 baseurl: ""
-url: "https://www.geolexica.org"
+url: "https://iev.geolexica.org"
 
 social:
   links:
-    - url: https://twitter.com/ISOTC211
-    - url: https://github.com/ISO-TC211
-    - url: https://www.facebook.com/groups/236669159734679/
-    - url: https://www.linkedin.com/groups/4222374
+    - url: https://twitter.com/IEC
+    - url: https://github.com/glossarist/iev-demo-site
 
 # algolia:
 #   application_id: NOP
@@ -59,10 +57,6 @@ nav:
   - id: posts
     url: /posts
     title: News & Articles
-  - id: registers
-    url: /registers
-    title: Registers
-    description: Language registries of the Multi-Lingual Glossary of Terms
   - id: stats
     url: /stats
     title: Statistics
@@ -70,13 +64,10 @@ nav:
   - id: about
     url: /about
     title: About
-  - id: feedback
-    url: /feedback
-    title: Feedback
 
 footer_nav:
-  - url: https://committee.iso.org/home/tc211
-    title: ISO/TC 211
+  - url: https://www.iec.ch/dyn/www/f?p=103:7:0::::FSP_ORG_ID,FSP_LANG_ID:1231,25
+    title: IEC TC 1
 
 powered_by:
   url: https://open.ribose.com
@@ -137,23 +128,19 @@ geolexica:
   concepts_glob: "./iev-data/concepts/concept-*.yaml"
   term_languages:
     - eng
-    - ara
-    - chn
-    - dan
-    - dut
-    - fin
-    - fra
+    - fre
     - ger
-    - jpn
+    # TODO es
     - kor
-    - msa
+    - jpn
     - pol
-    - rus
-    - spa
-    - swe
+    - por
+    # TODO sr
+    # TODO sv
+    - chi
 
 exclude:
-  - geolexica-database/
+  - iev-data/
   - README.adoc
 
   - "*.xlsx"
