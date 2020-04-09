@@ -5,11 +5,12 @@
       <p class="field-name">{{ lang }}</p>
 
       <div class="field-value">
-        {% if localized_term.term %}
-          <h3 class="localized">{{ localized_term.term | escape }}</h3>
-        {% else %}
+        {% for entry in localized_term.terms %}
+          <h3 class="localized">-- {{ entry.designation | escape }}</h3>
+        {% endfor %}
+        {% unless localized_term.terms.first %}
           <h3 class="warning">Translated term missing in this language.</h3>
-        {% endif %}
+        {% endunless %}
 
         {% if localized_term.abbrev %}
           <p class="localized abbrev">{{ localized_term.abbrev | escape }}</p>
