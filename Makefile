@@ -1,21 +1,28 @@
 SHELL := /bin/bash
+IEVDATA_DOWNLOAD_PATH := https://github.com/glossarist/iev-data/releases/download/v0.12.20200410/concepts-0.12.20200410.zip
 
 all: _site
 
 clean:
-	rm -rf _site
+	rm -rf _site iev-data
 
 distclean: clean
+	rm -rf concepts.zip
 
-data:
+concepts.zip:
+	curl -sSL ${IEVDATA_DOWNLOAD_PATH} -o $@
 
-_site: data | bundle
+iev-data: concepts.zip
+	unzip $<
+	mv concepts $@
+
+_site: iev-data | bundle
 	bundle exec jekyll build
 
 bundle:
 	bundle
 
-serve:
+serve: iev-data
 	bundle exec jekyll serve
 
 .PHONY: data bundle all open serve distclean clean
