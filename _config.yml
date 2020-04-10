@@ -128,8 +128,8 @@ geolexica:
   concepts_glob: "./iev-data/concepts/concept-*.yaml"
   term_languages:
     - eng
-    - fre
-    - ger
+    - fra
+    - deu
     # TODO es
     - kor
     - jpn
