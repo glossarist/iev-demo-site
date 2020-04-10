@@ -3,6 +3,9 @@ IEVDATA_DOWNLOAD_PATH := https://github.com/glossarist/iev-data/releases/downloa
 
 all: _site
 
+frontend:
+	npm install
+
 clean:
 	rm -rf _site iev-data
 
@@ -16,13 +19,13 @@ iev-data: concepts.zip
 	mkdir $@
 	unzip $< -d $@
 
-_site: iev-data | bundle
+_site: iev-data | bundle | frontend
 	bundle exec jekyll build
 
 bundle:
 	bundle
 
-serve: iev-data
+serve: iev-data | frontend
 	bundle exec jekyll serve
 
 .PHONY: data bundle all open serve distclean clean
