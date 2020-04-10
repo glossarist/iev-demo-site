@@ -1,0 +1,13 @@
+---
+layout: custom-post
+title:  "Glossarist IEV demo site"
+date:   2020-04-09 00:00:00 +0800
+categories: update
+---
+
+This is the IEV demo site created using Glossarist.
+
+Please send any feedback to the Ribose Glossarist project at:
+https://github.com/glossarist/iev-demo-site/
+
+- The Ribose Glossarist team

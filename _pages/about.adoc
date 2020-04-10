@@ -3,68 +3,23 @@ layout: base-page
 title: About
 permalink: /about/
 bodyClass: page
-nav_items: [concepts, posts,stats, feedback, registers]
+nav_items: [concepts, posts,stats, feedback]
 ---
 :page-liquid:
 
-Geolexica is the online glossary for geographic information technology from
-https://www.iso.org/committee/54904.html[ISO/TC 211 Geographic information/Geomatics].
+== About Electropedia
 
-The name "`geolexica`" is a combination of the Greek prefix "`geo-`"
-(of and pertaining to the Earth) and the suffix "`lexica`"
-derived from the Greek "`lexiko`", counterpart of the English
-"`lexicon`" (vocabulary).
+Electropedia is produced by the http://www.iec.ch/[IEC], the world’s leading organization that prepares and publishes International Standards for all electrical, electronic and related technologies – collectively known as “electrotechnology”. Electropedia (also known as the "IEV Online") contains all the terms and definitions in the International Electrotechnical Vocabulary or IEV which is published also as a set of publications in the IEC 60050 series that can be ordered separately from the http://www.iec.ch/dyn/www/f?p=103:22:0::::FSP_ORG_ID,FSP_LANG_ID:1231,25[IEC webstore].
 
-Terminology entries in Geolexica fully reflect entries given in the
-ISO/TC 211 Multi-Lingual Glossary of Terms (MLGT), where its
-authoritative English terms originate from ISO/TC 211 standards.
+Electropedia is the world's most comprehensive online terminology database on “electrotechnology”, containing more than 22 000 terminological entries in English and French organized by subject area, with equivalent terms in various other languages: *Arabic*, *Chinese*, *Czech*, *Finnish*, *German*, *Italian*, *Japanese*, *Korean*, *Norwegian* (Bokmål and Nynorsk), *Polish*, *Portuguese*, *Russian*, *Serbian*, *Slovenian*, *Spanish* and *Swedish* (coverage varies by subject area).
 
-Specifically:
+The world’s experts in electrotechnical terminology work to produce Electropedia under the responsibility of http://www.iec.ch/tc1[IEC Technical Committee 1] (Terminology), one of the 204 IEC http://www.iec.ch/dyn/www/f?p=103:6:0[Technical Committees and Subcommittees].
 
-* English terms and definitions are from published
-  ISO/TC 211 standards (normative);
+== Please help us improve Electropedia!
 
-* Terminology entries are translated across fourteen languages.
-  While these are considered informative, they may be based on
-  authoritative national standards in their respective countries.
+If you have any comments or suggestions on Electropedia or specific terms and definitions, we want to hear from you. Please send an e-mail to mailto:terminology@iec.ch[terminology@iec.ch].
 
+Can I use a term or definition from Electropedia? Yes!
 
-== Current content ({{ site.data.metadata.version }} edition)
-
-The current contents in Geolexica are from the 4th release of the
-MLGT ({{ site.data.metadata.version }} edition), consisting of:
-
-* over 1,060 English language terminology entries (terms/definitions)
-from published ISO/TC 211 standards as of October 2017;
-
-* over 7,600 translated terminology entries (full or partial)
-covering fourteen languages, which represents close to all of
-the participating countries in ISO/TC 211.
-
-
-== Resource links
-
-The MLGT spreadsheet and corresponding documentation can be downloaded
-from the
-https://committee.iso.org/sites/tc211/home/re.html[ISO/TC 211 Resources page].
-
-
-== Responsibility
-
-The MLGT is managed by the ISO/TC 211 Terminology Maintenance Group (TMG).
-The convenor of the TMG is Mr. Reese Plews of Japan.
-
-Geolexica is jointly managed by the TMG and https://www.ribose.com[Ribose],
-the official ISO/TC 211 web service provider and
-Registration Authority of the
-https://geodetic.isotc211.org[ISO Geodetic Register].
-
-
-== Feedback
-
-Feedback for Geolexica can be submitted on the
-link:/feedback[Feedback] page.
-
-Identified issues that are publicly visible are maintained at the
-https://github.com/ISO-TC211/TMG/issues[TMG GitHub Issues] page.
+While Electropedia’s structure and content are http://www.iec.ch/about/copyright/copyright-db_entry.htm[copyright] IEC, we encourage the use, referencing or citation of Electropedia for the purpose of identifying or clarifying the meaning of electrotechnical concepts, terms and symbols and their use in manuals, diagrams and equipment. We only ask that IEC is referenced as the source. For users wishing to duplicate Electropedia or use large portions for commercially or for free sharing, mailto:custserv@iec.ch[please contact the IEC].
 
