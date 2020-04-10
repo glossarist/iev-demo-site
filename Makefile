@@ -13,8 +13,8 @@ concepts.zip:
 	curl -sSL ${IEVDATA_DOWNLOAD_PATH} -o $@
 
 iev-data: concepts.zip
-	unzip $<
-	mv concepts $@
+	mkdir $@
+	unzip $< -d $@
 
 _site: iev-data | bundle
 	bundle exec jekyll build
