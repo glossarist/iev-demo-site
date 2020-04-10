@@ -6,7 +6,7 @@
 
   <div class="field-value">
     {% for entry in localized_term.terms %}
-      <h3 class="localized">{{ entry.designation | escape }}</h3>
+      <h3 class="localized">{{ entry.designation | escape | asciimath }}</h3>
     {% endfor %}
     {% unless localized_term.terms.first %}
       <h3 class="warning">Translated term missing in this language.</h3>
@@ -35,7 +35,7 @@
     {% endif %}
 
     {% if localized_term.definition %}
-      <p class="definition localized">{{ localized_term.definition | escape }}</p>
+      <p class="definition localized">{{ localized_term.definition | escape | asciimath }}</p>
     {% else %}
       <p class="definition warning">Definition not provided in this language.</p>
     {% endif %}
@@ -72,7 +72,7 @@
               This note has not been translated.
             </span>
           {% else %}
-            {{ note | escape }}
+            {{ note | escape | asciimath }}
           {% endif %}
           </p>
         {% endfor %}
@@ -93,7 +93,7 @@
                 This example has not been translated.
               </span>
             {% else %}
-              {{ example | escape }}
+              {{ example | escape | asciimath }}
             {% endif %}
           </p>
         {% endfor %}

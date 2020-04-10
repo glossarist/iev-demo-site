@@ -8,6 +8,7 @@ group :jekyll_plugins do
   gem "jekyll-plugin-frontend-build", "~> 0.0.2"
   gem "jekyll-geolexica", github: "geolexica/geolexica-server"
   gem "jekyll-data"
+  gem "asciimath"
   gem "jekyll-sitemap"
   gem "jekyll-asciidoc"
 end

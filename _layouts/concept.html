@@ -2,6 +2,8 @@
 layout: default
 nav_items: [concepts, stats, about, posts, feedback]
 bodyClass: concept
+extra_stylesheets:
+  - href: "/assets/math.css"
 term_attributes:
   - definition
   - notes
@@ -21,7 +23,7 @@ term_attributes:
 <header>
   <h2 class="section-title">
     Concept
-    <span class="term-name"><span class="q-open">“</span>{{ page.term | escape }}”</span>
+    <span class="term-name"><span class="q-open">“</span>{{ page.term | escape | asciimath }}”</span>
   </h2>
 </header>
 
