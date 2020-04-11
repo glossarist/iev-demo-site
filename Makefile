@@ -19,13 +19,13 @@ iev-data: concepts.zip
 	mkdir $@
 	unzip $< -d $@
 
-_site: iev-data | bundle | frontend
+_site: frontend iev-data | bundle
 	bundle exec jekyll build
 
 bundle:
 	bundle
 
-serve: iev-data | frontend
+serve: frontend iev-data
 	bundle exec jekyll serve
 
 .PHONY: data bundle all open serve distclean clean frontend
