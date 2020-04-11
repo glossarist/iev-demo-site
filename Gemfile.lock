@@ -6,6 +6,7 @@ GIT
     jekyll-geolexica (0.1.0)
       jekyll (~> 4.0)
       jekyll-asciidoc
+      jekyll-asciimath
 
 GEM
   remote: https://rubygems.org/
@@ -43,6 +44,9 @@ GEM
     jekyll-asciidoc (3.0.0)
       asciidoctor (>= 1.5.0)
       jekyll (>= 3.0.0)
+    jekyll-asciimath (1.0.0)
+      asciimath (~> 1.0.9)
+      jekyll (~> 4.0)
     jekyll-data (1.1.0)
       jekyll (>= 3.3, < 5.0.0)
     jekyll-feed (0.13.0)
@@ -83,9 +87,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  asciimath
   jekyll (~> 4.0)
   jekyll-asciidoc
+  jekyll-asciimath
   jekyll-data
   jekyll-feed (~> 0.6)
   jekyll-geolexica!
