@@ -28,4 +28,4 @@ bundle:
 serve: iev-data | frontend
 	bundle exec jekyll serve
 
-.PHONY: data bundle all open serve distclean clean
+.PHONY: data bundle all open serve distclean clean frontend
