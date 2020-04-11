@@ -1,12 +1,12 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.8.5"
+gem "jekyll", "~> 4.0"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
-  gem "jekyll-theme-isotc211-helpers", "~> 0.5.4"
-  gem "jekyll-plugin-frontend-build", "~> 0.0.2"
-  gem "jekyll-geolexica", github: "geolexica/geolexica-server"
+  gem "jekyll-geolexica", github: "strogonoff/geolexica-server", ref: '69ec0c'
+  gem "jekyll-theme-isotc211-helpers", "~> 0.6.0"
+  gem "jekyll-plugin-frontend-build", "~> 0.0.3"
   gem "jekyll-data"
   gem "asciimath"
   gem "jekyll-sitemap"
