@@ -6,4 +6,15 @@ domain_title: Dependability
 subdomains:
 - { subdomain_id: "01", title: "General" }
 - { subdomain_id: "02", title: "States and times" }
+- { subdomain_id: "03", title: "Reliability related concepts: failures" }
+- { subdomain_id: "04", title: "Reliability related concepts: faults" }
+- { subdomain_id: "05", title: "Reliability related concepts: measures" }
+- { subdomain_id: "06", title: "Maintenance and maintenance support related concepts" }
+- { subdomain_id: "07", title: "Maintainability and maintenance support: measures" }
+- { subdomain_id: "08", title: "Availability related measures" }
+- { subdomain_id: "09", title: "Concepts related to test, demonstration and improvement" }
+- { subdomain_id: "10", title: "Design-related dependability concepts" }
+- { subdomain_id: "11", title: "Analysis concepts" }
+- { subdomain_id: "12", title: "Dependability improvement related concepts" }
+- { subdomain_id: "13", title: "Measurement concepts and modifiers" }
 ---

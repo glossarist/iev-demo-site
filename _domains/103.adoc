@@ -6,4 +6,12 @@ domain_title: Mathematics — Functions
 subdomains:
 - { subdomain_id: "01", title: "General concepts" }
 - { subdomain_id: "02", title: "Means" }
+- { subdomain_id: "03", title: "Distributions" }
+- { subdomain_id: "04", title: "Integral transformations" }
+- { subdomain_id: "05", title: "Functions of one variable, mainly time-dependent quantities" }
+- { subdomain_id: "06", title: "Periodic quantities" }
+- { subdomain_id: "07", title: "Sinusoidal quantities" }
+- { subdomain_id: "08", title: "Probability" }
+- { subdomain_id: "09", title: "Spectrum" }
+- { subdomain_id: "10", title: "Mathematical concepts related to waves" }
 ---
