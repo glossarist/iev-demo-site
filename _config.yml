@@ -140,7 +140,7 @@ geolexica:
     - por
     # TODO sr
     # TODO sv
-    - chi
+    - zho
 
 exclude:
   - iev-data/
