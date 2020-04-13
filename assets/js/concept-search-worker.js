@@ -4,18 +4,27 @@ const CONCEPTS_URL = '/api/concepts-index-list.json';
 
 const LANGUAGES = [
   'eng',
+  'fra',
   'ara',
-  'spa',
-  'swe',
-  'kor',
-  'rus',
-  'ger',
-  'fre',
-  'fin',
-  'jpn',
-  'dan',
   'chi',
-];
+  'ces',
+  'dan',
+  'fin',
+  'ita',
+  'ger',
+  'jpn',
+  'kor',
+  'msa',
+  'nno',
+  'nob',
+  'pol',
+  'por',
+  'rus',
+  'slv',
+  'spa',
+  'srp',
+  'swe',
+]
 
 var concepts = null;
 var latestQuery = null;

@@ -5,18 +5,27 @@
   // TODO: Move to a shared module
   const LANGUAGES = [
     'eng',
+    'fra',
     'ara',
-    'spa',
-    'swe',
-    'kor',
-    'rus',
-    'ger',
-    'fre',
-    'fin',
-    'jpn',
-    'dan',
     'chi',
-  ];
+    'ces',
+    'dan',
+    'fin',
+    'ita',
+    'ger',
+    'jpn',
+    'kor',
+    'msa',
+    'nno',
+    'nob',
+    'pol',
+    'por',
+    'rus',
+    'slv',
+    'spa',
+    'srp',
+    'swe',
+  ]
 
 
   // React-based concept browser
