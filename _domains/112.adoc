@@ -1,0 +1,11 @@
+---
+layout: domain
+domain_id: "112"
+title: Quantities and units
+domain_title: Quantities and units
+subdomains:
+- { subdomain_id: "01", title: "Basic concepts" }
+- { subdomain_id: "02", title: "International System of Units" }
+- { subdomain_id: "03", title: "Terms used in names and definitions for quantities" }
+- { subdomain_id: "04", title: "Metrology" }
+---
