@@ -106,11 +106,13 @@
       {% endif %}
     </ul>
 
-    <p class="origin localized">
-      ORIGIN:
-      <a href="/registers/#language-{{ lang }}">{{ site.data.info.languages[lang].register-name }}</a>
-      (last updated: {{ site.data.info.languages[lang].date-of-last-change }})
-    </p>
+    {% if site.data.info.languages[lang].register-name %}
+      <p class="origin localized">
+        ORIGIN:
+        <a href="/registers/#language-{{ lang }}">{{ site.data.info.languages[lang].register-name }}</a>
+        (last updated: {{ site.data.info.languages[lang].date-of-last-change }})
+      </p>
+    {% endif %}
 
   </div>
 </article>
