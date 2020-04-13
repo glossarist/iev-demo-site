@@ -9,8 +9,8 @@ GIT
 
 GIT
   remote: https://github.com/strogonoff/geolexica-server.git
-  revision: cd7e5c8fcac5ed28c9357b99de8f22354a8179d6
-  ref: cd7e5c8f
+  revision: 3ff15e368b3a244be43d2b88381af0b1cd8313e8
+  ref: 3ff15e3
   specs:
     jekyll-geolexica (0.1.0)
       jekyll (~> 4.0)

@@ -3,9 +3,49 @@
 
 @import url('https://fonts.googleapis.com/css?family=Tienne:400,700');
 
+$isoTCColor: #113c7e;
+
 @import 'jekyll-theme-isotc211';
 
 @import 'mixins';
 @import 'concept';
 @import 'concepts';
 @import 'geolexica_home';
+
+
+body.with-expandable-nav.with-expanded-nav>header .parent-org-reference .logo-link img {
+  filter: grayscale(1) invert(1);
+}
+
+body>footer .logo {
+  margin-left: 1em;
+}
+
+body {
+  background: unset;
+}
+
+body>main, body.home>main>section, body.home>main>.section {
+  background: white;
+}
+
+body > header {
+  background: linear-gradient(to right, #afcce5, #77aaca);
+  padding-top: 3em;
+  color: white;
+
+  .site-headline > .parent-org-reference .logo-link {
+    height: 90px;
+    width: 90px;
+
+    img {
+      height: 90px;
+      width: 90px;
+    }
+  }
+  .priority-nav {
+    font-weight: bold;
+    margin-top: -1em;
+    margin-bottom: .5em;
+  }
+}
