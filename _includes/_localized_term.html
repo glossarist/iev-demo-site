@@ -43,12 +43,12 @@
     {% if localized_term.authoritative_source.ref != english.authoritative_source.ref %}
     {% if localized_term.authoritative_source.link %}
       <p class="source localized">
-        [SOURCE: <a href="{{ localized_term.authoritative_source.link }}">
-          {{ localized_term.authoritative_source.ref }}</a>{% if localized_term.authoritative_source.clause %}, {{ localized_term.authoritative_source.clause }}{% endif %}]
+        SOURCE: <a href="{{ localized_term.authoritative_source.link }}">
+          {{ localized_term.authoritative_source.ref }}</a>{% if localized_term.authoritative_source.clause %}, {{ localized_term.authoritative_source.clause }}{% endif %}
       </p>
     {% else %}
       <p class="source localized">
-        [SOURCE: {{ localized_term.authoritative_source.ref }}{% if localized_term.authoritative_source.clause %}, {{ localized_term.authoritative_source.clause }}{% endif %}]
+        SOURCE: {{ localized_term.authoritative_source.ref }}{% if localized_term.authoritative_source.clause %}, {{ localized_term.authoritative_source.clause }}{% endif %}
       </p>
     {% endif %}
       <span class="warning">
