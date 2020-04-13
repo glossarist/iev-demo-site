@@ -1,7 +1,7 @@
 {% if include.section_prefix %}
-  {% assign sortedConcepts = site.concepts | where_exp: "c", "c.termid_human contains include.section_prefix" | sort: "termid" %}
+  {% assign sortedConcepts = site.concepts | where_exp: "c", "c.termid contains include.section_prefix" | sort: "termid_sort" %}
 {% else %}
-  {% assign sortedConcepts = site.concepts | sort: "termid" %}
+  {% assign sortedConcepts = site.concepts | sort: "termid_sort" %}
 {% endif %}
 
 <div class="all-concepts">
@@ -17,7 +17,7 @@
       {% for concept in sortedConcepts %}
         <tr>
           <td class="field-termid">
-            <a href="{{ concept.url | relative_url }}">{{ concept.termid_human }}</a>
+            <a href="{{ concept.url | relative_url }}">{{ concept.termid }}</a>
           </td>
           <td class="field-term">
             <a href="{{ concept.url | relative_url }}">{{ concept.term | asciimath }}</a>

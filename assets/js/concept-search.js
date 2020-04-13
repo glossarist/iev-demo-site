@@ -274,8 +274,8 @@
   ReactDOM.render(el(ConceptBrowser, null), document.querySelector('.browse-concepts'))
 
   function getConceptPermalink(concept) {
-    if (concept.termid) {
-      return `/concepts/${concept.termid}/`;
+    if (concept.termid_human) {
+      return `/concepts/${concept.termid_human}/`;
     } else if (concept.id && concept.language_code) {
       return `/concepts/${concept.id}/#entry-lang-${concept.language_code}`;
     } else {

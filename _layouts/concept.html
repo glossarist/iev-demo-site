@@ -29,7 +29,7 @@ term_attributes:
 
 <section class="field ref">
   <p class="field-name">ID</p>
-  <p class="field-value">{{ page.termid_human }}</p>
+  <p class="field-value">{{ page.termid }}</p>
 </section>
 
 {% assign english = page["eng"] %}
@@ -38,7 +38,7 @@ term_attributes:
 <section class="field source">
   <p class="field-name">source</p>
   <p class="field-value">
-    IEC 60050-{{ page.termid_human | slice: 0, 3 }}:{{ page.eng.date_accepted | date: "%Y" }}
+    IEC 60050-{{ page.termid | slice: 0, 3 }}:{{ page.eng.date_accepted | date: "%Y" }}
 
     {% comment %}
       {% if english.authoritative_source.link %}
