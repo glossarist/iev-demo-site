@@ -58,21 +58,21 @@ term_attributes:
   {% endif %}
 {% endfor %}
 
-{% assign json_concept = site.concepts_json | where: 'termid', page.termid | first %}
+{% assign json_concept = site.concepts_json | where: 'termid_human', page.termid_human | first %}
 {% assign json_url = json_concept.url %}
 <section class="field json">
   <p class="field-name">JSON</p>
   <p class="field-value"><a href="{{ json_url }}">{{ json_url }}</a></p>
 </section>
 
-{% assign json_concept = site.concepts_jsonld | where: 'termid', page.termid | first %}
+{% assign json_concept = site.concepts_jsonld | where: 'termid_human', page.termid_human | first %}
 {% assign json_url = json_concept.url %}
 <section class="field json">
   <p class="field-name">SKOS in JSON-LD</p>
   <p class="field-value"><a href="{{ json_url }}">{{ json_url }}</a></p>
 </section>
 
-{% assign ttl_concept = site.concepts_ttl | where: 'termid', page.termid | first %}
+{% assign ttl_concept = site.concepts_ttl | where: 'termid_human', page.termid_human | first %}
 {% assign ttl_url = ttl_concept.url %}
 <section class="field ttl">
   <p class="field-name">SKOS in RDF</p>
