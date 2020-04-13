@@ -1,0 +1,9 @@
+---
+layout: domain
+domain_id: "192"
+title: Dependability
+domain_title: Dependability
+subdomains:
+- { subdomain_id: "01", title: "General" }
+- { subdomain_id: "02", title: "States and times" }
+---

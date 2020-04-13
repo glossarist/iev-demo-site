@@ -1,0 +1,26 @@
+---
+layout: default
+nav_items: [home, about, stats, posts, feedback, registers]
+bodyClass: concepts
+extra_stylesheets:
+  - href: "/assets/math.css"
+---
+<header>
+  <p class="section-title">
+    Subject area
+  </p>
+
+  <h1>{{ page.domain_title }}</h1>
+
+  <div class="meta">
+    <p>
+      The concepts below are sorted by term name, alphabetically, in a case-insensitive way.
+    </p>
+  </div>
+</header>
+
+{% for subdomain in page.subdomains %}
+  {% assign section_prefix = page.domain_id | append: "-" | append: subdomain.subdomain_id | append: "-" %}
+  <h2>{{ subdomain.title }}</h2>
+  {% include section_concepts.html section_prefix=section_prefix %}
+{% endfor %}

@@ -83,6 +83,9 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  domains:
+    output: true
+    permalink: /:collection/:name/
   concepts:
     output: true
     permalink: /:collection/:name/

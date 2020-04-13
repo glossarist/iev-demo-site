@@ -1,0 +1,29 @@
+{% if include.section_prefix %}
+  {% assign sortedConcepts = site.concepts | where_exp: "c", "c.termid_human contains include.section_prefix" | sort: "termid" %}
+{% else %}
+  {% assign sortedConcepts = site.concepts | sort: "termid" %}
+{% endif %}
+
+<div class="all-concepts">
+  <table>
+    <thead>
+      <tr>
+        <th class="field-termid">Concept ID
+        <th class="field-term">Primary designation
+      </tr>
+    </thead>
+
+    <tbody>
+      {% for concept in sortedConcepts %}
+        <tr>
+          <td class="field-termid">
+            <a href="{{ concept.url | relative_url }}">{{ concept.termid_human }}</a>
+          </td>
+          <td class="field-term">
+            <a href="{{ concept.url | relative_url }}">{{ concept.term | asciimath }}</a>
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>

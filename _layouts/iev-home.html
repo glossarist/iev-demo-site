@@ -1,0 +1,19 @@
+---
+layout: custom-home
+---
+
+<div class="section domains">
+  <h2 class="section-title">Subject areas</h2>
+
+  <div class="sectionbody">
+    <ul>
+      {% for domain in site.domains %}
+        <li>
+          <strong>{{ domain.domain_id }}</strong>:
+          &emsp;
+          <a href="/domains/{{ domain.domain_id }}">{{ domain.domain_title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

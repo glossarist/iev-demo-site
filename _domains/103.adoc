@@ -1,0 +1,9 @@
+---
+layout: domain
+domain_id: "103"
+title: Mathematics — Functions
+domain_title: Mathematics — Functions
+subdomains:
+- { subdomain_id: "01", title: "General concepts" }
+- { subdomain_id: "02", title: "Means" }
+---
