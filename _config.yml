@@ -132,6 +132,7 @@ geolexica:
   term_languages:
     - eng
     - fra
+    - ara
     - deu
     # TODO es
     - kor

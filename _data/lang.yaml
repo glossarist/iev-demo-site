@@ -10,18 +10,12 @@ ara:
   iso-639-1: ar
   example: "مثال"
   note_to_entry: "ملاحظة DD:"
-chi:
-  lang_native: 中文
-  lang_en: Chinese
-  iso-639-1: zh
-  example: 示例
-  note_to_entry: "注 DD："
 dan:
   lang_native: dansk
   lang_en: Danish
   iso-639-1: da
   example: EKSEMPEL
-  note_to_entry: "NOTE DD to entry:"
+  note_to_entry: "Bemærk DD til posten:"
 deu:
   lang_native: Deutsch
   lang_en: German
@@ -76,7 +70,7 @@ rus:
   iso-639-1: ru
   example: Пример
   note_to_entry: "Примечание DD:"
-spa:
+esp:
   lang_native: español
   lang_en: Spanish
   iso-639-1: es
@@ -85,9 +79,18 @@ spa:
 por:
   lang_native: português
   lang_en: Portuguese
+  iso-639-1: pt
+  exemplo: EXEMPLO
+  note_to_entry: "Anote o DD na entrada:"
 swe:
   lang_native: Svenska
   lang_en: Swedish
   iso-639-1: sv
   example: EXEMPEL
   note_to_entry: "Anm. DD till termpost:"
+zho:
+  lang_native: 中文
+  lang_en: Chinese
+  iso-639-1: zh
+  example: 示例
+  note_to_entry: "注 DD："
