@@ -92,11 +92,11 @@ term_attributes:
       {% endif %}
 
       {% if english.date_accepted %}
-        <li>date accepted: {{ english.date_accepted | date: "%F" }}</li>
+        <li>date accepted: {{ english.date_accepted | date: "%Y-%m" }}</li>
       {% endif %}
 
       {% if english.date_amended %}
-        <li>date amended: {{ english.date_amended | date: "%F" }}</li>
+        <li>date amended: {{ english.date_amended | date: "%Y-%m" }}</li>
       {% endif %}
     </ul>
   </div>
@@ -109,7 +109,7 @@ term_attributes:
       <dl class="review">
         <div class="review-info">
           <dt>last review performed:</dt>
-          <dd>({{ english.review_date | date: "%F" }})</dd>
+          <dd>({{ english.review_date | date: "%Y-%m" }})</dd>
         </div>
         {% if english.review_status %}
           <div class="review-info">
