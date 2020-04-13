@@ -125,6 +125,7 @@ geolexica:
   term_languages:
     - eng
     - fra
+    - ara
     - deu
     # TODO es
     - kor
@@ -133,7 +134,7 @@ geolexica:
     - por
     # TODO sr
     # TODO sv
-    - chi
+    - zho
 
 exclude:
   - iev-data/
