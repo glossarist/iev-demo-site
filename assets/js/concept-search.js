@@ -45,7 +45,7 @@
   }
 
   let fieldConfig = {
-    termid: { title: 'Term ID', view: maybeConceptLinkForField('termid'), },
+    termid: { title: 'Term ID', view: maybeConceptLinkForField('termid_human'), },
     term: { title: 'Term', view: maybeConceptLinkForField('term'), },
     language_code: { title: 'Lang' },
     entry_status: { title: 'Validity' },

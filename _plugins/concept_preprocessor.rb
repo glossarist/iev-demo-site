@@ -11,7 +11,7 @@ module GeolexicaOverrides
     end
 
     concept_hash = super(path)
-    concept_hash["termid"] = format_termid.(concept_hash["termid"])
+    concept_hash["termid_human"] = format_termid.(concept_hash["termid"])
     concept_hash.values.each do |val|
       next unless val.kind_of?(Hash) && val.key?("id")
       val["id"] = format_termid.(val["termid"])
