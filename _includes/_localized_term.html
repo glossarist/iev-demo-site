@@ -35,7 +35,7 @@
     {% endif %}
 
     {% if localized_term.definition %}
-      <p class="definition localized">{{ localized_term.definition | escape | asciimath }}</p>
+      <p class="definition localized">{{ localized_term.definition | escape | asciimath | termlink }}</p>
     {% elsif lang == "eng" or lang == "fra" %}
       <p class="definition warning">Definition not provided in this language.</p>
     {% endif %}
@@ -72,7 +72,7 @@
               This note has not been translated.
             </span>
           {% else %}
-            {{ note | escape | asciimath }}
+            {{ note | escape | asciimath | termlink }}
           {% endif %}
           </p>
         {% endfor %}
@@ -93,7 +93,7 @@
                 This example has not been translated.
               </span>
             {% else %}
-              {{ example | escape | asciimath }}
+              {{ example | escape | asciimath | termlink }}
             {% endif %}
           </p>
         {% endfor %}
