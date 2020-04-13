@@ -82,6 +82,9 @@ spa:
   iso-639-1: es
   example: EJEMPLO
   note_to_entry: "Nota DD:"
+por:
+  lang_native: português
+  lang_en: Portuguese
 swe:
   lang_native: Svenska
   lang_en: Swedish
