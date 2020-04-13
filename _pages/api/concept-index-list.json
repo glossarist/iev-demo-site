@@ -1,0 +1,26 @@
+---
+permalink: "/api/concepts-index-list.json"
+---
+[
+  {% for concept in site.concepts %}
+  {
+    "termid": {{ concept.termid }},
+    "termid_human": "{{ concept.termid_human }}",
+    "term": {{ concept.eng.terms[0].designation | jsonify }},
+
+    {% assign english_concept = concept["eng"] %}
+    {% for lang in site.geolexica.term_languages %}
+
+    "{{ lang }}": {% if concept[lang] %}{
+      "term": {{ concept[lang].terms[0].designation | jsonify }},
+      "id": {{ concept[lang].id | jsonify }},
+      "entry_status": {{ english_concept.entry_status | jsonify }},
+      "language_code": {{ concept[lang].language_code | jsonify }},
+      "review_decision": {{ english_concept.review_decision | jsonify }}
+    }{% else %}{}{% endif %}{% unless forloop.last %},{% endunless %}
+
+    {% endfor %}
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
+
