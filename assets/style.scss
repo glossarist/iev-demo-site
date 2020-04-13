@@ -13,8 +13,12 @@ $isoTCColor: #113c7e;
 @import 'geolexica_home';
 
 
+body>header .parent-org-reference .logo-link img {
+  transition: margin-top .1s ease-out;
+}
 body.with-expandable-nav.with-expanded-nav>header .parent-org-reference .logo-link img {
   filter: none;
+  margin-top: -35px;
 }
 
 body>footer .logo {
