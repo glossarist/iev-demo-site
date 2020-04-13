@@ -36,7 +36,7 @@
 
     {% if localized_term.definition %}
       <p class="definition localized">{{ localized_term.definition | escape | asciimath }}</p>
-    {% else %}
+    {% elsif lang == "eng" or lang == "fra" %}
       <p class="definition warning">Definition not provided in this language.</p>
     {% endif %}
 
