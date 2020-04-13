@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/geolexica/geolexica-server
-  revision: 39425e9afa7095df894474f44243c666d4685e08
+  revision: dc248f38f053513eab050f325baad23ee4fb7a8d
   branch: iec-electropedia
   specs:
     jekyll-geolexica (0.1.0)
