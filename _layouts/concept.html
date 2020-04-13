@@ -38,7 +38,7 @@ term_attributes:
 <section class="field source">
   <p class="field-name">source</p>
   <p class="field-value">
-    IEC 60050-{{ page.termid | slice: 0, 3 }}:{{ page.eng.date_accepted | date: "%Y" }}
+    IEC 60050-{{ page.part_number }}:{{ page.eng.date_accepted | date: "%Y" }}
 
     {% comment %}
       {% if english.authoritative_source.link %}
@@ -58,25 +58,32 @@ term_attributes:
   {% endif %}
 {% endfor %}
 
-{% assign json_concept = site.concepts_json | where: 'termid_human', page.termid_human | first %}
+{% assign json_concept = site.concepts_json | where: 'termid', page.termid | first %}
 {% assign json_url = json_concept.url %}
 <section class="field json">
   <p class="field-name">JSON</p>
   <p class="field-value"><a href="{{ json_url }}">{{ json_url }}</a></p>
 </section>
 
-{% assign json_concept = site.concepts_jsonld | where: 'termid_human', page.termid_human | first %}
+{% assign json_concept = site.concepts_jsonld | where: 'termid', page.termid | first %}
 {% assign json_url = json_concept.url %}
 <section class="field json">
   <p class="field-name">SKOS in JSON-LD</p>
   <p class="field-value"><a href="{{ json_url }}">{{ json_url }}</a></p>
 </section>
 
-{% assign ttl_concept = site.concepts_ttl | where: 'termid_human', page.termid_human | first %}
+{% assign ttl_concept = site.concepts_ttl | where: 'termid', page.termid | first %}
 {% assign ttl_url = ttl_concept.url %}
 <section class="field ttl">
   <p class="field-name">SKOS in RDF</p>
   <p class="field-value"><a href="{{ ttl_url }}">{{ ttl_url }}</a></p>
+</section>
+
+{% assign tbx_concept = site.concepts_tbx | where: 'termid', page.termid | first %}
+{% assign tbx_url = tbx_concept.url %}
+<section class="field tbx">
+  <p class="field-name">ISO TBX</p>
+  <p class="field-value"><a href="{{ tbx_url }}">{{ tbx_url }}</a></p>
 </section>
 
 <section class="field info">

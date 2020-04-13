@@ -1,4 +1,14 @@
 GIT
+  remote: https://github.com/geolexica/geolexica-server
+  revision: 39425e9afa7095df894474f44243c666d4685e08
+  branch: iec-electropedia
+  specs:
+    jekyll-geolexica (0.1.0)
+      jekyll (~> 4.0)
+      jekyll-asciidoc
+      jekyll-asciimath
+
+GIT
   remote: https://github.com/riboseinc/jekyll-asciimath
   revision: 9d2797eef0baf11eaa6ee30d048af9d95d5a649f
   ref: 9d2797e
@@ -6,16 +16,6 @@ GIT
     jekyll-asciimath (1.0.0)
       asciimath (~> 1.0.9)
       jekyll (~> 4.0)
-
-GIT
-  remote: https://github.com/strogonoff/geolexica-server.git
-  revision: 3ff15e368b3a244be43d2b88381af0b1cd8313e8
-  ref: 3ff15e3
-  specs:
-    jekyll-geolexica (0.1.0)
-      jekyll (~> 4.0)
-      jekyll-asciidoc
-      jekyll-asciimath
 
 GEM
   remote: https://rubygems.org/

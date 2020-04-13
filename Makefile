@@ -26,6 +26,6 @@ bundle:
 	bundle
 
 serve: frontend iev-data
-	bundle exec jekyll serve
+	bundle exec jekyll serve --trace
 
 .PHONY: data bundle all open serve distclean clean frontend

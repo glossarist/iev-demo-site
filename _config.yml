@@ -94,6 +94,10 @@ collections:
     output: true
     output_ext: .ttl
     permalink: /api/concepts/:name.ttl
+  concepts_tbx:
+    output: true
+    output_ext: .tbx
+    permalink: /api/concepts/:name.tbx.xml
 
 defaults:
   - scope:
@@ -119,6 +123,12 @@ defaults:
     values:
       layout: concept.ttl
       permalink: /api/concepts/:name.ttl
+  - scope:
+      path: ""
+      type: "concepts_tbx"
+    values:
+      layout: concept.tbx
+      permalink: /api/concepts/:name.tbx.xml
 
 geolexica:
   concepts_glob: "./iev-data/concepts/concept-*.yaml"
