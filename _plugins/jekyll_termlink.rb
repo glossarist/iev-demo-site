@@ -1,7 +1,15 @@
 
 module Jekyll::Termlink
-  def termlink(input)
 
+  def termlink(input)
+    link_images(link_terms(input))
+  end
+
+  def link_images(input)
+    input
+  end
+
+  def link_terms(input)
     #{{IEV 102-01-10, IEV:102-01-10}}
     regex = Regexp.new("{{(.+?),\ IEV:([\\d\\-]*?)}}")
 

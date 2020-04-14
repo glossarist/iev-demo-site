@@ -1,5 +1,5 @@
 SHELL := /bin/bash
-IEVDATA_DOWNLOAD_PATH := https://github.com/glossarist/iev-data/releases/download/v0.12.20200410/concepts-0.12.20200410.zip
+IEVDATA_DOWNLOAD_PATH := https://github.com/glossarist/iev-data/releases/download/v0.14.20200415/concepts-0.14.20200415.zip
 
 all: _site
 
@@ -15,8 +15,12 @@ distclean: clean
 concepts.zip:
 	curl -sSL ${IEVDATA_DOWNLOAD_PATH} -o $@
 
+assets/images/parts: iev-data
+	mkdir -p $@; \
+	cp -a $</images/parts/* $@
+
 iev-data: concepts.zip
-	mkdir $@
+	mkdir -p $@; \
 	unzip $< -d $@
 
 _site: frontend iev-data | bundle
