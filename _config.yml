@@ -6,6 +6,9 @@ title: "IEV Electropedia Glossarist demo"
 logo_path: assets/images/IEC_logo.svg
 font_awesome_kit_url: https://kit.fontawesome.com/77a8a07e0a.js
 
+# This is to convert jekyll-asciidoc math into real MathML
+asciimath_delimiter: "\\$"
+
 has_brand_name: yes
 always_show_committee_link_on_landing: yes
 
