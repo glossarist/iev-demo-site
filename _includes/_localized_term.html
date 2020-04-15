@@ -6,7 +6,7 @@
 
   <div class="field-value">
     {% for entry in localized_term.terms %}
-      <h3 class="localized">{{ entry.designation | escape | asciimath }}</h3>
+      <h3 class="localized">{{ entry.designation | escape | asciidocify | asciimath }}</h3>
     {% endfor %}
     {% unless localized_term.terms.first %}
       <h3 class="warning">Translated term missing in this language.</h3>

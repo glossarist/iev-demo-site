@@ -20,7 +20,7 @@
             <a href="{{ concept.url | relative_url }}">{{ concept.termid }}</a>
           </td>
           <td class="field-term">
-            <a href="{{ concept.url | relative_url }}">{{ concept.term | asciimath }}</a>
+            <a href="{{ concept.url | relative_url }}">{{ concept.term | asciidocify | strip_html | asciimath }}</a>
           </td>
         </tr>
       {% endfor %}
