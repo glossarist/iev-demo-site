@@ -1,5 +1,5 @@
 SHELL := /bin/bash
-IEVDATA_DOWNLOAD_PATH := https://github.com/glossarist/iev-data/releases/download/v0.18.20200416/concepts-0.18.20200416.zip
+IEVDATA_DOWNLOAD_PATH := https://github.com/glossarist/iev-data/releases/download/v0.19.20200417/concepts-0.19.20200417.zip
 
 all: _site
 
