@@ -23,3 +23,20 @@ Can I use a term or definition from Electropedia? Yes!
 
 While Electropedia’s structure and content are http://www.iec.ch/about/copyright/copyright-db_entry.htm[copyright] IEC, we encourage the use, referencing or citation of Electropedia for the purpose of identifying or clarifying the meaning of electrotechnical concepts, terms and symbols and their use in manuals, diagrams and equipment. We only ask that IEC is referenced as the source. For users wishing to duplicate Electropedia or use large portions for commercially or for free sharing, mailto:custserv@iec.ch[please contact the IEC].
 
+== Copyright
+
+(C) {{ site.time | date: "%Y" }} International Electrotechnical Commission.
+
+All rights reserved. Unless otherwise specified, no part of this
+site or its documents may be reproduced or utilized otherwise in any form or by any
+means, electronic or mechanical, including photocopying, or posting on the
+internet or an intranet, without prior written permission. Permission can
+be requested from the address below.
+
+[%hardbreaks]
+International Electrotechnical Commission
+3 rue de Varembé
+PO Box 131
+CH-1211 Geneva 20, Switzerland
+mailto:terminology@iec.ch[terminology@iec.ch]
+https://www.iec.ch/[www.iec.ch]
