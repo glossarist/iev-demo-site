@@ -1,0 +1,43 @@
+@mixin concept-table() {
+  width: 100%;
+  font-size: 90%;
+
+  tr.main {
+    font-weight: bold;
+
+    td {
+      border-top: 2px solid #f0f0f0;
+    }
+    &:first-child td {
+      border-top: 0;
+    }
+  }
+
+  th {
+    padding: .25em .75em .25em .75em;
+  }
+  td {
+    padding: .2em .75em 0 .75em;
+  }
+  td, th {
+    &.field-termid {
+      width: 7em;
+      font-weight: bold;
+    }
+    &.field-language_code {
+      width: 3em;
+    }
+  }
+
+  th {
+    background: #f7f7f7;
+    font-weight: bold;
+    text-align: left;
+  }
+
+  td {
+    a {
+      border-bottom: none;
+    }
+  }
+}
