@@ -148,6 +148,12 @@ geolexica:
     # TODO sr
     # TODO sv
     - zho
+  formats:
+    - html
+    - json
+    - json-ld
+    - tbx-iso-tml
+    - turtle
 
 exclude:
   - iev-data/

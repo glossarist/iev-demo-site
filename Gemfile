@@ -4,7 +4,7 @@ gem "jekyll", "~> 4.0"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
-  gem "jekyll-geolexica", git: "https://github.com/geolexica/geolexica-server", branch: 'iec-electropedia'
+  gem "jekyll-geolexica", git: "https://github.com/geolexica/geolexica-server", ref: '27596df'
 
   gem "jekyll-theme-isotc211-helpers", "~> 0.6.0"
   gem "jekyll-plugin-frontend-build", "~> 0.0.3"
