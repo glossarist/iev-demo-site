@@ -22,4 +22,4 @@ module GeolexicaOverrides
   end
 end
 
-Jekyll::Geolexica::ConceptsGenerator.prepend(GeolexicaOverrides)
+Jekyll::Geolexica::Glossary.prepend(GeolexicaOverrides)
