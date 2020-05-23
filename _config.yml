@@ -132,6 +132,11 @@ defaults:
     values:
       layout: concept.tbx
       permalink: /api/concepts/:name.tbx.xml
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      show_header_meta: true
 
 geolexica:
   concepts_glob: "./iev-data/concepts/concept-*.yaml"

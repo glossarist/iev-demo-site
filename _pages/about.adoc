@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 bodyClass: page
 nav_items: [concepts, posts,stats, feedback]
+show_header_meta: true
 ---
 :page-liquid:
 
