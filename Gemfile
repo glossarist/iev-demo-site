@@ -12,6 +12,7 @@ group :jekyll_plugins do
   gem "jekyll-asciimath", git: "https://github.com/riboseinc/jekyll-asciimath", ref: '9d2797e'
   gem "jekyll-sitemap"
   gem "jekyll-asciidoc"
+  gem "jekyll-tidy-json", "~> 1.2"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
