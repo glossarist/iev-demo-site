@@ -2,7 +2,7 @@
 layout: null
 ---
 {%- assign concept = page["eng"] -%}
-{%- assign concept_html = site.concepts | where: 'termid', page.termid | first -%}
+{%- assign concept_html = page.representations.html -%}
 {%- assign english = page["eng"] -%}
 <tbx type="TBX-Core" xmlns:tbx="urn:iso:std:iso:30042:ed-3">
 <tbx:termEntry id="{{ page.termid }}">
