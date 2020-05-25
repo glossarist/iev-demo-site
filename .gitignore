@@ -12,8 +12,8 @@ tc211-termbase*.yaml
 tc211-termbase.xlsx
 
 # These are generated from the Makefile
-_data/info.yaml
-_data/metadata.yaml
-assets/images/parts
+_source/_data/info.yaml
+_source/_data/metadata.yaml
+_source/assets/images/parts
 concepts.zip
 iev-data
