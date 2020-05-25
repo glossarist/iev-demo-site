@@ -17,7 +17,14 @@ email: open.source@ribose.com
 tagline: "Electropedia: The World's Online Electrotechnical Vocabulary"
 
 description: >-
-  Electropedia is produced by the IEC, the world’s leading organization that prepares and publishes International Standards for all electrical, electronic and related technologies – collectively known as “electrotechnology”. Electropedia (also known as the "IEV Online") contains all the terms and definitions in the International Electrotechnical Vocabulary or IEV which is published also as a set of publications in the IEC 60050 series that can be ordered separately from the IEC webstore.
+  Electropedia is produced by the IEC, the world’s leading organization
+  that prepares and publishes International Standards for all
+  electrical, electronic and related technologies – collectively known
+  as “electrotechnology”. Electropedia (also known as the "IEV Online")
+  contains all the terms and definitions in the International
+  Electrotechnical Vocabulary or IEV which is published also as a set of
+  publications in the IEC 60050 series that can be ordered separately
+  from the IEC webstore.
 
 # Used for copyright notice and possibly more.
 org:
