@@ -160,6 +160,10 @@ geolexica:
     - tbx-iso-tml
     - turtle
 
+tidy_json:
+  pretty: true
+  continue_on_error: true
+
 exclude:
   - iev-data/
   - README.adoc
