@@ -1,7 +1,7 @@
 # (c) Copyright 2020 Ribose Inc.
 #
 
-require "jekyll/geolexica/concepts_generator"
+require "jekyll/geolexica"
 
 module GeolexicaOverrides
   def read_concept_file(path)
