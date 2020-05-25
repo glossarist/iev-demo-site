@@ -171,6 +171,15 @@ tidy_json:
   pretty: true
   continue_on_error: true
 
+plugins:
+  - jekyll-asciimath
+  - jekyll-data
+  - jekyll-feed
+  - jekyll-geolexica
+  - jekyll-plugin-frontend-build
+  - jekyll-sitemap
+  - jekyll-tidy-json
+
 exclude:
   - iev-data/
   - README.adoc
