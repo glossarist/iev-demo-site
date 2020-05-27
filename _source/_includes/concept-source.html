@@ -1,0 +1,15 @@
+{%- assign english = page["eng"] -%}
+<section class="field source">
+  <p class="field-name">source</p>
+  <p class="field-value">
+    IEC 60050-{{ page.part_number }}:{{ page.eng.date_accepted | date: "%Y" }}
+
+    {% comment %}
+      {% if english.authoritative_source.link %}
+        <a href="{{ english.authoritative_source.link }}">{{ english.authoritative_source.ref }}</a>{% if english.authoritative_source.clause %}, {{ english.authoritative_source.clause }}{% endif %}
+      {% else %}
+        {{ english.authoritative_source.ref }}{% if english.authoritative_source.clause %}, {{ english.authoritative_source.clause }}{% endif %}
+      {% endif %}
+    {% endcomment %}
+  </p>
+</section>

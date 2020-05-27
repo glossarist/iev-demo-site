@@ -1,0 +1,26 @@
+{% assign json_url = page.representations.json.url %}
+<section class="field json">
+  <p class="field-name">JSON</p>
+  <p class="field-value"><a href="{{ json_url }}">{{ json_url }}</a></p>
+</section>
+
+
+{% assign json_url = page.representations.jsonld.url %}
+<section class="field json">
+  <p class="field-name">SKOS in JSON-LD</p>
+  <p class="field-value"><a href="{{ json_url }}">{{ json_url }}</a></p>
+</section>
+
+
+{% assign ttl_url = page.representations.turtle.url %}
+<section class="field ttl">
+  <p class="field-name">SKOS in RDF</p>
+  <p class="field-value"><a href="{{ ttl_url }}">{{ ttl_url }}</a></p>
+</section>
+
+
+{% assign tbx_url = page.representations.tbx.url %}
+<section class="field tbx">
+  <p class="field-name">TBX-ISO-TML</p>
+  <p class="field-value"><a href="{{ tbx_url }}">{{ tbx_url }}</a></p>
+</section>
