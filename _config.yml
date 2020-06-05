@@ -149,6 +149,7 @@ defaults:
 
 geolexica:
   concepts_glob: "../iev-data/concepts/concept-*.yaml"
+  concept_date_format: "%Y-%m"
   term_languages:
     - eng
     - fra
