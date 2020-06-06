@@ -1,5 +1,5 @@
 {%- assign english = page["eng"] -%}
-{% if english.review_date %}
+{% if english.review_date -%}
   <section class="field json">
     <p class="field-name">Review</p>
     <div class="field-value">
@@ -8,31 +8,31 @@
           <dt>last review performed:</dt>
           <dd>({{ english.review_date | date: site.geolexica.concept_date_format }})</dd>
         </div>
-        {% if english.review_status %}
+        {% if english.review_status -%}
           <div class="review-info">
             <dt>status:</dt>
             <dd>{{ english.review_status }}</dd>
           </div>
-        {% endif %}
-        {% if english.review_decision %}
+        {% endif -%}
+        {% if english.review_decision -%}
           <div class="review-info">
             <dt>decision:</dt>
             <dd>{{ english.review_decision | escape }}</dd>
           </div>
-        {% endif %}
-        {% if english.review_decision_event %}
+        {% endif -%}
+        {% if english.review_decision_event -%}
           <div class="review-info">
             <dt>decision event:</dt>
             <dd>{{ english.review_decision_event | escape }}</dd>
           </div>
-        {% endif %}
-        {% if english.review_decision_notes %}
+        {% endif -%}
+        {% if english.review_decision_notes -%}
           <div class="review-info">
             <dt>notes:</dt>
             <dd>{{ english.review_decision_notes | escape }}</dd>
           </div>
-        {% endif %}
+        {%- endif %}
       </dl>
     </div>
   </section>
-{% endif %}
+{%- endif %}
