@@ -17,4 +17,6 @@ extra_stylesheets:
   </div>
 </header>
 
-{% include concepts-list.html %}
+{% assign sorted_concepts = site.concepts | sort: "termid_sort" %}
+
+{% include concepts-list.html concepts=sorted_concepts %}
