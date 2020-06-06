@@ -3,21 +3,21 @@
   <p class="field-name">info</p>
   <div class="field-value">
     <ul class="labels">
-      {% if english.entry_status %}
+      {% if english.entry_status -%}
         <li>status: {{ english.entry_status | escape }}</li>
-      {% endif %}
+      {% endif -%}
 
-      {% if english.classification %}
+      {% if english.classification -%}
         <li>classification: {{ english.classification | escape }}</li>
-      {% endif %}
+      {% endif -%}
 
-      {% if english.date_accepted %}
-        <li>date accepted: {{ english.date_accepted | date: "%Y-%m" }}</li>
-      {% endif %}
+      {% if english.date_accepted -%}
+        <li>date accepted: {{ english.date_accepted | date: site.geolexica.concept_date_format }}</li>
+      {% endif -%}
 
-      {% if english.date_amended %}
-        <li>date amended: {{ english.date_amended | date: "%Y-%m" }}</li>
-      {% endif %}
+      {% if english.date_amended -%}
+        <li>date amended: {{ english.date_amended | date: site.geolexica.concept_date_format }}</li>
+      {%- endif %}
     </ul>
   </div>
 </section>

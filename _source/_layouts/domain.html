@@ -22,5 +22,7 @@ extra_stylesheets:
 {% for subdomain in page.subdomains %}
   {% assign section_prefix = page.domain_id | append: "-" | append: subdomain.subdomain_id | append: "-" %}
   <h2>{{ subdomain.title }}</h2>
-  {% include section_concepts.html section_prefix=section_prefix %}
+
+  {% assign sorted_concepts = site.concepts | where_exp: "c", "c.termid contains section_prefix" | sort: "termid_sort" %}
+  {% include concepts-list.html concepts=sorted_concepts %}
 {% endfor %}
