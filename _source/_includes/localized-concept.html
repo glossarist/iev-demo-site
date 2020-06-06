@@ -11,10 +11,9 @@
   <div class="field-value">
     {% for entry in localized_term.terms %}
       <h3 class="localized">{{ entry.designation | escape | asciidocify | asciimath }}</h3>
-    {% endfor %}
-    {% unless localized_term.terms.first %}
+    {% else %}
       <h3 class="warning">Translated term missing in this language.</h3>
-    {% endunless %}
+    {% endfor %}
 
     {% if localized_term.abbrev %}
       <p class="localized abbrev">{{ localized_term.abbrev | escape }}</p>
@@ -32,12 +31,10 @@
         SOURCE: <a href="{{ localized_term.authoritative_source.link }}">
           {{ localized_term.authoritative_source.ref }}</a>{% if localized_term.authoritative_source.clause %}, {{ localized_term.authoritative_source.clause }}{% endif %}
       </p>
-    {% else %}
-    {% if localized_term.authoritative_source.ref %}
+    {% elsif localized_term.authoritative_source.ref %}
       <p class="source localized">
         SOURCE: {{ localized_term.authoritative_source.ref }}{% if localized_term.authoritative_source.clause %}, {{ localized_term.authoritative_source.clause }}{% endif %}
       </p>
-    {% endif %}
     {% endif %}
       <span class="warning">
         This translated term may not be from the same source as the definitive term. Use at your own risk.
