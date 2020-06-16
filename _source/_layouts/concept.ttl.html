@@ -53,9 +53,9 @@ layout: null
 {%- for lang in site.geolexica.term_languages %}
 {%- assign localized_term = page[lang] -%}
 {%- for term in localized_term.terms %}
-{%- if term.normativeStatus == "preferred" or term.normativeStatus == "" %}
+{%- if term.normative_status == "preferred" or term.normative_status == "" %}
   skos:prefLabel "{{ term.designation | escape | asciimath }}"@{{ site.data.lang[lang].iso-639-1 }} ;
-{%- elsif term.normativeStatus == "admitted" %}
+{%- elsif term.normative_status == "admitted" %}
   skos:altLabel "{{ term.designation | escape | asciimath }}"@{{ site.data.lang[lang].iso-639-1 }} ;
 {%- endif %}
 {%- endfor %}

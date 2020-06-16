@@ -44,8 +44,8 @@ layout: null
     <tbx:tig>
       <tbx:term id="{{ page.termid }}@{{ lang }}">{{ term.designation | asciimath }}</tbx:term>
 
-      {%- if term.normativeStatus %}
-      <tbx:normativeAuthorization value="{{ term.normativeStatus }}Term" />
+      {%- if term.normative_status %}
+      <tbx:normativeAuthorization value="{{ term.normative_status }}Term" />
       {% else %}
       <tbx:normativeAuthorization value="admittedTerm" />
       {%- endif %}
@@ -63,16 +63,16 @@ layout: null
       <tbx:grammaticalGender value="{{ gender }}" />
       {% endif %}
 
-      {%- if term.geographicalArea %}
-      <tbx:geographicalUsage>{{ term.geographicalArea }}</tbx:geographicalUsage>
+      {%- if term.geographical_area %}
+      <tbx:geographicalUsage>{{ term.geographical_area }}</tbx:geographicalUsage>
       {%- endif %}
 
       {%- if term.plurality %}
       <tbx:grammaticalNumber value="{{ term.plurality }}" />
       {%- endif %}
 
-      {%- if term.partOfSpeech %}
-      <tbx:partOfSpeech value="{{ term.partOfSpeech }}" />
+      {%- if term.part_of_speech %}
+      <tbx:part_of_speech value="{{ term.part_of_speech }}" />
       {%- endif %}
 
       {%- assign term_type = nil %}
@@ -90,8 +90,8 @@ layout: null
       <tbx:termType value="{{ term_type }}" />
       {%- endif %}
 
-      {%- if term.usageInfo %}
-      <tbx:usageNote>{{ term.usageInfo }}</tbx:usageNote>
+      {%- if term.usage_info %}
+      <tbx:usageNote>{{ term.usage_info }}</tbx:usageNote>
       {%- endif %}
     </tbx:tig>
   {%- endfor %}

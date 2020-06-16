@@ -21,7 +21,7 @@ layout: null
     {%- for lang in site.geolexica.term_languages -%}
     {%- assign localized_term = page[lang] -%}
     {%- for term in localized_term.terms -%}
-    {%- if term.normativeStatus == "preferred" or term.normativeStatus == "" -%}
+    {%- if term.normative_status == "preferred" or term.normative_status == "" -%}
     {
       "@language": "{{ site.data.lang[lang].iso-639-1 }}",
       "@value": "{{ term.designation | escape | asciimath }}"
@@ -35,7 +35,7 @@ layout: null
     {%- for lang in site.geolexica.term_languages -%}
     {%- assign localized_term = page[lang] -%}
     {%- for term in localized_term.terms -%}
-    {%- if term.normativeStatus == "admitted" -%}
+    {%- if term.normative_status == "admitted" -%}
     {
       "@language": "{{ site.data.lang[lang].iso-639-1 }}",
       "@value": "{{ term.designation | escape | asciimath }}"
