@@ -2,8 +2,8 @@ source: _source
 
 title: "IEV Electropedia Glossarist demo"
 
-# google_analytics:
-#   id: # TODO
+google_analytics:
+  id: UA-169198783-1
 
 logo_path: assets/images/IEC_logo.svg
 font_awesome_kit_url: https://kit.fontawesome.com/77a8a07e0a.js
