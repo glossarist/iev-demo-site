@@ -110,6 +110,10 @@ collections:
     output: true
     output_ext: .tbx
     permalink: /api/concepts/:name.tbx.xml
+  concepts_yaml:
+    output: true
+    output_ext: .yaml
+    permalink: /api/concepts/:name.yaml
 
 defaults:
   - scope:
@@ -169,6 +173,7 @@ geolexica:
     - json-ld
     - tbx-iso-tml
     - turtle
+    - yaml
 
 tidy_json:
   pretty: true
