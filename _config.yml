@@ -91,60 +91,8 @@ collections:
   domains:
     output: true
     permalink: /:collection/:name/
-  concepts:
-    output: true
-    permalink: /:collection/:name/
-  concepts_json:
-    output: true
-    output_ext: .json
-    permalink: /api/concepts/:name.json
-  concepts_jsonld:
-    output: true
-    output_ext: .jsonld
-    permalink: /api/concepts/:name.jsonld
-  concepts_ttl:
-    output: true
-    output_ext: .ttl
-    permalink: /api/concepts/:name.ttl
-  concepts_tbx:
-    output: true
-    output_ext: .tbx
-    permalink: /api/concepts/:name.tbx.xml
-  concepts_yaml:
-    output: true
-    output_ext: .yaml
-    permalink: /api/concepts/:name.yaml
 
 defaults:
-  - scope:
-      path: ""
-      type: "concepts"
-    values:
-      layout: concept
-  - scope:
-      path: ""
-      type: "concepts_json"
-    values:
-      layout: concept.json
-      permalink: /api/concepts/:name.json
-  - scope:
-      path: ""
-      type: "concepts_jsonld"
-    values:
-      layout: concept.jsonld
-      permalink: /api/concepts/:name.jsonld
-  - scope:
-      path: ""
-      type: "concepts_ttl"
-    values:
-      layout: concept.ttl
-      permalink: /api/concepts/:name.ttl
-  - scope:
-      path: ""
-      type: "concepts_tbx"
-    values:
-      layout: concept.tbx
-      permalink: /api/concepts/:name.tbx.xml
   - scope:
       path: ""
       type: "posts"
