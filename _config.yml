@@ -5,7 +5,13 @@ title: "IEV Electropedia Glossarist demo"
 google_analytics:
   id: UA-169198783-1
 
-logo_path: assets/images/IEC_logo.svg
+committee:
+  main_logo:
+    path: assets/images/IEC_logo.svg
+  footer_logo:
+    path: assets/images/IEC_logo.svg
+    url: https://www.iec.ch/
+
 font_awesome_kit_url: https://kit.fontawesome.com/77a8a07e0a.js
 
 # This is to convert jekyll-asciidoc math into real MathML
