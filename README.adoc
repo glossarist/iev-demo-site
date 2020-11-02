@@ -1,11 +1,8 @@
 = ISO/TC 211 Geolexica Terminology Database
 
-image:https://github.com/glossarist/iev-demo-site/workflows/build/badge.svg["Build Status", link="https://github.com/glossarist/iev-demo-site/actions?workflow=build"]
-
-image:https://github.com/glossarist/iev-demo-site/workflows/deploy-master/badge.svg["Build Status", link="https://github.com/glossarist/iev-demo-site/actions?workflow=deploy-master"]
-
-image:https://github.com/glossarist/iev-demo-site/workflows/deploy-staging/badge.svg["Build Status", link="https://github.com/glossarist/iev-demo-site/actions?workflow=deploy-staging"]
-
+image:https://img.shields.io/github/workflow/status/glossarist/iev-demo-site/deploy-master?label=production%20deployment&style=flat-square[Production Deployment Status]
+image:https://img.shields.io/github/workflow/status/glossarist/iev-demo-site/deploy-staging?label=staging%20deployment&style=flat-square[Staging Deployment Status]
+image:https://img.shields.io/github/workflow/status/glossarist/iev-demo-site/build?label=build&style=flat-square[Build Status]
 
 == Introduction
 
