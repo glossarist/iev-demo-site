@@ -1,4 +1,4 @@
-= ISO/TC 211 Geolexica Terminology Database
+= IEC Terminology Database
 
 image:https://img.shields.io/github/workflow/status/glossarist/iev-demo-site/deploy-master?label=production%20deployment&style=flat-square[Production Deployment Status]
 image:https://img.shields.io/github/workflow/status/glossarist/iev-demo-site/deploy-staging?label=staging%20deployment&style=flat-square[Staging Deployment Status]
