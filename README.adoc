@@ -4,6 +4,17 @@ image:https://img.shields.io/github/workflow/status/glossarist/iev-demo-site/dep
 image:https://img.shields.io/github/workflow/status/glossarist/iev-demo-site/deploy-staging?label=staging%20deployment&style=flat-square[Staging Deployment Status]
 image:https://img.shields.io/github/workflow/status/glossarist/iev-demo-site/build?label=build&style=flat-square[Build Status]
 
+:gem-geolexica-site: https://github.com/geolexica/geolexica-site[Geolexica-Site]
+:gem-jekyll: https://jekyllrb.com/[Jekyll]
+
 == Introduction
 
 NOTE: This repository is only meant for internal consumption!
+
+The site is powered with {gem-geolexica-site} gem maintained by Ribose, which
+actually employs {gem-jekyll} as a work horse.
+
+== Sites
+
+`master`:: (down)
+`staging`:: https://iev-staging.geolexica.org/
