@@ -1,102 +1,20 @@
-= ISO/TC 211 Geolexica Terminology Database
+= IEC Terminology Database
 
-image:https://github.com/ISO-TC211/geolexica.org/workflows/build/badge.svg["Build Status", link="https://github.com/ISO-TC211/geolexica.org/actions?workflow=build"]
+image:https://img.shields.io/github/workflow/status/glossarist/iev-demo-site/deploy-master?label=production%20deployment&style=flat-square[Production Deployment Status]
+image:https://img.shields.io/github/workflow/status/glossarist/iev-demo-site/deploy-staging?label=staging%20deployment&style=flat-square[Staging Deployment Status]
+image:https://img.shields.io/github/workflow/status/glossarist/iev-demo-site/build?label=build&style=flat-square[Build Status]
 
-image:https://github.com/ISO-TC211/geolexica.org/workflows/deploy-master/badge.svg["Build Status", link="https://github.com/ISO-TC211/geolexica.org/actions?workflow=deploy-master"]
-
-image:https://github.com/ISO-TC211/geolexica.org/workflows/deploy-staging/badge.svg["Build Status", link="https://github.com/ISO-TC211/geolexica.org/actions?workflow=deploy-staging"]
-
+:gem-geolexica-site: https://github.com/geolexica/geolexica-site[Geolexica-Site]
+:gem-jekyll: https://jekyllrb.com/[Jekyll]
 
 == Introduction
 
-Geolexica is the site name of the online version of the ISO/TC 211 Multi Lingual Glossary of Terms.
-
-This repository contains the source of the https://www.geolexica.org site.
-
-The site is managed by the ISO/TC 211 TMG together with Ribose.
-
 NOTE: This repository is only meant for internal consumption!
 
+The site is powered with {gem-geolexica-site} gem maintained by Ribose, which
+actually employs {gem-jekyll} as a work horse.
 
-== How to add/remove entries or suggest changes?
+== Sites
 
-For change suggestions, contact ISO/TC 211 TMG.
-
-This terminology database is managed by the ISO/TC 211 TMG, and it only considers
-requests from within ISO/TC 211. The database is not directly community-managed or community-sourced.
-
-
-== ISO/TC 211 MLGT component overview
-
-Components involved in ISO/TC 211 MLGT solution:
-
-. Geolexica.org: **this repository**.
-  Renders Geolexica database into HTML, JSON-LD and other Web-friendly formats.
-
-. Geolexica database:
-  see https://github.com/geolexica/geolexica-database[geolexica/geolexica-database].
-  Hosts all concept data in YAML;
-  bundles facilities for converting authoritative spreadsheet data into YAML.
-  Candidate to become authoritative source, contingent upon factual usage of Glossarist by TMG.
-
-. Manually managed XLST spreadsheets (1.0 workflow):
-  see https://github.com/ISO-TC211/mlgt-data[ISO-TC211/mlgt-data].
-  Currently the authoritative source in 1.0 workflow.
-  Will be phased out in favor of Geolexica database in 2.0.
-
-. Glossarist desktop application (2.0 workflow):
-  see https://github.com/geolexica/geolexica-desktop[geolexica/geolexica-desktop].
-  Will be used to manage the Geolexica database in 2.0 workflow.
-
-
-=== Change lifecycle (1.0, current)
-
-. Requested changes are directed to ISO/TC 211 TMG.
-
-. When a change is approved, TMG publishes a new version of ISO/TC 211 "`Multi-Lingual Glossary of Terms`".
-
-. TMG uploads the new MLGT version to mlgt-data repository.
-
-. From the updated mlgt-data, a new snapshot of the database is created in geolexica-database repository.
-
-. After new snapshot of the database is committed to geolexica-database,
-  ISO/TC 211’s Geolexica.org is deployed with the latest database version.
-
-
-=== Change lifecycle (2.0, near future)
-
-. Requested changes are directed to ISO/TC 211 TMG.
-
-. Adding, updating, approving concepts & terms in ISO/TC 211 Geolexica database
-  is done by TMG using the desktop application under development.
-
-. As changes are made, new versions of Geolexica database are created,
-  and ISO/TC 211’s Geolexica.org is deployed with the latest database version.
-
-
-== Internal operations
-
-NOTE: These steps are only intended for the internal operator of the site!
-
-
-=== Building the site
-
-. Ensure geolexica-database submodule is up-to-date.
-
-. Run ``make _site``
-
-
-=== Deployment
-
-Please push all changes to the `staging` branch, and changes will be automatically deployed and reflected on the staging site.
-
-If your changes are to be made public to the production site, please contact Ribose.
-
-
-=== Rendering of HTML
-
-Jekyll is used to render YAML into HTML.
-
-NOTE: Since Jekyll Collections have this flaw where YAML files can't be directly
-rendered, a hack is implemented in the Makefile `_concepts` target,
-so that every YAML file is converted into AsciiDoc by padding `---` at the end.
+`master`:: (down)
+`staging`:: https://iev-staging.geolexica.org/
