@@ -113,14 +113,23 @@ geolexica:
     - eng
     - fra
     - ara
+    - ces
     - deu
-    # TODO es
-    - kor
+    - fin
+    - ita
     - jpn
+    - kor
+    - mon
+    - nld
+    - nno
+    - nob
     - pol
     - por
-    # TODO sr
-    # TODO sv
+    - rus
+    - slv
+    - spa
+    - srp
+    - swe
     - zho
   formats:
     - html
