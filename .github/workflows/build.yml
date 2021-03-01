@@ -37,6 +37,9 @@ jobs:
       - name: Setup npm
         run: |
           npm install
+      - name: Fetch concepts
+        run: |
+          make iev-data
       - name: Build site
         run: |
           make _site
