@@ -9,6 +9,7 @@ jobs:
     name: Build site
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - name: Setup prerequisites
         run: |
           sudo apt-get update
@@ -26,7 +27,6 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '10.x'
-      - uses: actions/checkout@v2
       - name: Update gems
         run: |
           bundle install --jobs 4 --retry 3
