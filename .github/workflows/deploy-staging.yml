@@ -23,13 +23,11 @@ jobs:
         uses: actions/setup-ruby@v1
         with:
           ruby-version: '2.6'
+          bundler-cache: true
       - name: Use Node
         uses: actions/setup-node@v1
         with:
           node-version: '10.x'
-      - name: Update gems
-        run: |
-          bundle install --jobs 4 --retry 3
       - name: Setup npm
         run: |
           npm install
